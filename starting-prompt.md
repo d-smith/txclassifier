@@ -67,7 +67,7 @@ Requirements:
     - Event tickets
     - Gym/club memberships
     - Classes
-    - Books
+    - Books/Periodicals
     - Recreational equipment
     - Apps/services
 - Travel & Vacations
@@ -81,6 +81,7 @@ Requirements:
     - Shoes
     - Salon/barber visits
     - Cosmetics/personal hygiene products
+    - Supplements/vitamins
 - Household
     - Cleaning supplies
     - Furniture
@@ -101,6 +102,7 @@ Requirements:
     - Pet food & supplies
     - Grooming
     - Pet insurance
+    - Bird supplies
 - Insurance (Non-housing/Non-auto)
     - Term or whole life insurance
     - Disability insurance
@@ -114,13 +116,22 @@ Requirements:
 Note: if category or subcategory is missing, note it as Unknown in the label output.
 
 
-Before writing code, please:
+Before processing:
 1. Ask me about my category/subcategory taxonomy and what my labeled data looks
    like (columns, format, size) — don't assume a schema.
 2. Propose the project structure and confirm it with me.
 3. Then scaffold the code incrementally, starting with the training pipeline
    on a small sample/synthetic dataset so I can validate the approach before
    plugging in my real data.
+
+Then, create a comprehensive, multi-step plan that covers:
+1. Implementation of the preprocessing pipeline for the data, ensuring it aligns with
+   the category/subcategory taxonomy and handles missing/unknown labels.
+2. Training the model on a sample/synthetic dataset, fine tuning it with a small sample of real data, and validating predictions against expected outputs.
+3. Iterating on preprocessing, feature engineering, and model design as
+   needed to improve accuracy.
+4. Once validated, scale to the full dataset and integrate into the
+   serving pipeline.
 
 I've completed the DeepLearning.ai ML specialization, so I understand the ML
 fundamentals — feel free to be technical, but explain design decisions
