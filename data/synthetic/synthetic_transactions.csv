@@ -1,0 +1,2131 @@
+date,description,amount,category,subcategory
+2024-10-05,RITE AID PHARMACY,78.43,Healthcare,Prescriptions
+2025-01-03,TRAVELERS UMBRELLA,32.31,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2024-09-29,TARGET #1055,167.37,Gifts & Charity,Holiday/birthday gifts
+2024-11-15,VENMO FAMILY SUPPORT,341.84,Family & Dependent Support,Routine family financial assistance.
+2024-03-31,MUTUAL OF OMAHA LTC,273.58,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2024-01-02,RITE AID PHARMACY,150.24,Healthcare,Prescriptions
+2024-12-08,FIRST BAPTIST CHURCH,316.45,Gifts & Charity,Tithing
+2025-01-31,ST JUDE DONATION,483.91,Gifts & Charity,Charitable donations
+2024-08-07,PROPERTY TAX ESCROW,2473.83,Housing & Real Estate,Property Taxes
+2025-08-22,WALGREENS RX #4657,40.85,Healthcare,Prescriptions
+2025-11-21,ETSY.COM ORDER,121.66,Gifts & Charity,Holiday/birthday gifts
+2025-01-19,PETCO BIRD SUPPLIES,29.03,Pets,Bird supplies
+2024-04-02,T-MOBILE PAYMENT,44.59,Utilities & Communication,Cell phone
+2024-03-16,CHIPOTLE #6039,16.06,Food & Dining,Fast food
+2025-05-16,MICHAELS STORES #4398,137.43,Entertainment & Leisure,Hobbies
+2024-10-12,SPECTRUM INTERNET,52.47,Utilities & Communication,Internet
+2025-07-10,APPLE.COM/BILL,16.88,Entertainment & Leisure,Apps/services
+2025-11-09,VCA ANIMAL HOSPITAL,475.85,Pets,Vet care
+2025-11-15,MEDICARE PREMIUM,122.22,Healthcare,"Medicare premiums (Parts B, C, D)"
+2025-07-10,ALLSTATE HOME INS,122.59,Housing & Real Estate,Homeowner's Insurance
+2024-08-15,TARGET #207,70.56,Gifts & Charity,Holiday/birthday gifts
+2024-04-20,CHICK-FIL-A #4781,15.73,Food & Dining,Fast food
+2025-04-18,RITE AID PHARMACY,157.79,Healthcare,Prescriptions
+2025-08-29,UNUM DISABILITY,97.5,Insurance (Non-housing/Non-auto),Disability insurance
+2024-09-22,COMFORT KEEPERS,967.85,Family & Dependent Support,Elder care support
+2025-12-21,PG&E ELECTRIC BILL,227.28,Utilities & Communication,Electricity
+2024-04-26,GNC #5358,32.88,Personal Care & Apparel,Supplements/vitamins
+2025-01-26,AMEX BILL PAYMENT,1176.8,Debts & Loans,Credit card balances
+2025-07-21,USAA HOMEOWNERS,82.11,Housing & Real Estate,Homeowner's Insurance
+2024-01-16,PETSMART #628,54.94,Pets,Pet food & supplies
+2024-12-28,CHEWY.COM BIRD,50.5,Pets,Bird supplies
+2025-11-26,AXS TICKET PURCHASE,296.01,Entertainment & Leisure,Event tickets
+2024-05-03,ST MARY'S PARISH TITHE,373.49,Gifts & Charity,Tithing
+2025-04-14,7-ELEVEN #5517,4.92,Food & Dining,Snacks & Desserts
+2024-07-31,CHEWY.COM BIRD,57.4,Pets,Bird supplies
+2025-10-24,THE CHEESECAKE FACTORY,50.4,Food & Dining,Dining out
+2024-01-07,CHEWY.COM BIRD,28.08,Pets,Bird supplies
+2025-06-08,ULTA BEAUTY #9971,65.4,Personal Care & Apparel,Cosmetics/personal hygiene products
+2024-01-15,URGENT CARE CLINIC,200.24,Healthcare,Out-of-pocket medical costs
+2025-11-06,SOCALGAS PAYMENT,130.05,Utilities & Communication,Gas
+2025-07-18,CITY TRASH COLLECTION,63.89,Utilities & Communication,Trash
+2025-07-10,QUEST DIAGNOSTICS,212.82,Healthcare,Out-of-pocket medical costs
+2025-05-18,KINDERCARE LEARNING CTR,885.5,Family & Dependent Support,Childcare
+2025-01-11,LOCAL BISTRO #5538,52.79,Food & Dining,Dining out
+2025-02-11,LOCAL BISTRO #2355,83.54,Food & Dining,Dining out
+2025-12-25,SHELL OIL #3792,44.55,Transportation & Vehicle,Gas/fuel
+2024-02-23,AT&T FIBER INTERNET,50.52,Utilities & Communication,Internet
+2025-05-13,AT&T FIBER INTERNET,89.1,Utilities & Communication,Internet
+2024-05-26,EQUINOX CLUB DUES,178.87,Entertainment & Leisure,Gym/club memberships
+2024-07-17,IHERB.COM,46.2,Personal Care & Apparel,Supplements/vitamins
+2025-11-07,CARNIVAL CRUISE LINE,1624.46,Travel & Vacations,Cruises
+2025-05-11,GOOGLE PLAY APPS,13.55,Entertainment & Leisure,Apps/services
+2025-06-20,TOYOTA FINANCIAL SVC,617.22,Transportation & Vehicle,Car payments
+2024-08-18,REGIONAL MEDICAL CTR,256.63,Healthcare,Out-of-pocket medical costs
+2025-09-21,CITY TRASH COLLECTION,31.08,Utilities & Communication,Trash
+2025-10-15,ALLIANZ TRAVEL INS,110.79,Travel & Vacations,Travel insurance
+2025-04-04,KROGER #4768,169.24,Food & Dining,Groceries
+2024-07-29,MARRIOTT HOTELS #977,141.64,Travel & Vacations,Lodging
+2025-03-27,DOORDASH*ORDER,23.59,Food & Dining,
+2024-01-21,VIATOR TOURS,723.8,Travel & Vacations,Tour packages
+2024-08-21,ASSOCIA HOA DUES,287.34,Housing & Real Estate,HOA fees
+2024-05-05,MCDONALD'S #5328,9.83,Food & Dining,Fast food
+2024-06-17,STARBUCKS #8588,4.38,Food & Dining,Coffee shops
+2024-05-09,CITY TRASH COLLECTION,27.42,Utilities & Communication,Trash
+2025-07-12,THE HOME DEPOT #6506,49.43,Household,Cleaning supplies
+2025-11-18,COSTCO WHOLESALE #5520,26.57,Household,Cleaning supplies
+2024-06-07,ASSOCIA HOA DUES,588.23,Housing & Real Estate,HOA fees
+2025-10-08,COUNTY TAX COLLECTOR,620.08,Housing & Real Estate,Property Taxes
+2024-06-08,PRIVATE SCHOOL TUITION,1459.77,Family & Dependent Support,Child education/tuition
+2024-06-03,SSA MEDICARE DEDUCT,72.89,Healthcare,"Medicare premiums (Parts B, C, D)"
+2025-01-29,FOOT LOCKER #7579,67.13,Personal Care & Apparel,Shoes
+2024-05-23,ALLY AUTO PAYMENT,403.54,Transportation & Vehicle,Car payments
+2025-03-10,LOCAL BISTRO #4469,116.14,Food & Dining,Dining out
+2024-08-04,CHASE MORTGAGE PYMT,1628.39,Housing & Real Estate,Mortgage
+2024-03-02,BANFIELD PET HOSPITAL,208.6,Pets,Vet care
+2025-10-20,CITY TRASH COLLECTION,35.08,Utilities & Communication,Trash
+2024-03-07,LENSCRAFTERS #7927,92.48,Healthcare,Dental/vision care
+2025-03-18,SALLIE MAE PAYMENT,418.71,Debts & Loans,Student loans
+2024-04-30,STUBHUB TICKETS,262.95,Entertainment & Leisure,Event tickets
+2025-08-10,WALMART #5892,25.76,Household,Misc
+2024-06-03,HOBBY LOBBY #9743,141.18,Entertainment & Leisure,Hobbies
+2025-08-29,UNITEDHEALTH MEDIGAP,239.46,Healthcare,Private supplemental health insurance
+2024-12-04,GREAT CLIPS #8155,48.67,Personal Care & Apparel,Salon/barber visits
+2025-04-11,UNUM DISABILITY,80.88,Insurance (Non-housing/Non-auto),Disability insurance
+2025-05-29,TARGET #1289,26.6,Household,Cleaning supplies
+2024-03-28,THE HOME DEPOT #6556,35.93,Household,Cleaning supplies
+2025-08-06,TICKETMASTER EVENT,246.5,Entertainment & Leisure,Event tickets
+2025-06-27,GREYSTAR PROPERTY MGMT,2530.25,Housing & Real Estate,Rent
+2025-11-28,GRUBHUB ORDER #5904,45.41,Food & Dining,Meal delivery services
+2024-11-25,WASTE MANAGEMENT INC,64.96,Utilities & Communication,Trash
+2024-09-03,LOCAL COMMUNITY COLLEGE,163.57,Entertainment & Leisure,Classes
+2025-10-20,HULU SUBSCRIPTION,53.83,Utilities & Communication,Cable/streaming services
+2025-05-23,NEW YORK TIMES SUB,40.63,Entertainment & Leisure,Books/Periodicals
+2025-08-10,T-MOBILE PAYMENT,106.97,Utilities & Communication,Cell phone
+2024-02-22,CHICK-FIL-A #6095,5.9,Food & Dining,Fast food
+2024-12-18,TRIPADVISOR EXPERIENCES,467.99,Travel & Vacations,Tour packages
+2024-05-23,APPLE.COM/BILL,13.16,Entertainment & Leisure,Apps/services
+2025-02-24,REGIONAL MEDICAL CTR,242.12,Healthcare,Out-of-pocket medical costs
+2025-02-05,GUARDIAN DISABILITY INS,138.67,Insurance (Non-housing/Non-auto),Disability insurance
+2024-05-22,STARBUCKS #2088,11.87,Food & Dining,Coffee shops
+2024-08-26,CITY WATER UTILITY,94.5,Utilities & Communication,Water/sewer
+2025-07-17,TRUPANION PET INSURANCE,52.92,Pets,Pet insurance
+2025-07-16,STATE FARM UMBRELLA,17.81,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2025-12-30,NEW YORK TIMES SUB,11.32,Entertainment & Leisure,Books/Periodicals
+2025-10-29,WORLD NOMADS INSURANCE,107.01,Travel & Vacations,Travel insurance
+2025-09-24,T-MOBILE PAYMENT,56.48,Utilities & Communication,Cell phone
+2024-05-09,LENSCRAFTERS #331,365.69,Healthcare,Dental/vision care
+2025-11-17,HULU SUBSCRIPTION,74.68,Utilities & Communication,Cable/streaming services
+2025-09-23,TARGET #2737,17.57,Household,Cleaning supplies
+2025-12-05,LOCAL BARBER SHOP,69.51,Personal Care & Apparel,Salon/barber visits
+2024-07-03,GAP #5283,191.79,Personal Care & Apparel,Clothing
+2025-06-21,LENSCRAFTERS #9759,489.24,Healthcare,Dental/vision care
+2024-04-12,MASTERCLASS.COM,48.37,Entertainment & Leisure,Classes
+2025-07-21,CITY WATER UTILITY,121.28,Utilities & Communication,Water/sewer
+2024-05-09,CIGNA SUPP HEALTH,145.71,Healthcare,Private supplemental health insurance
+2024-03-28,ASPEN DENTAL #8564,476.11,Healthcare,Dental/vision care
+2024-11-19,USAA HOMEOWNERS,232.61,Housing & Real Estate,Homeowner's Insurance
+2025-09-26,THE HOME DEPOT #3942,13.2,Household,Cleaning supplies
+2024-01-06,IHERB.COM,60.76,Personal Care & Apparel,Supplements/vitamins
+2025-07-07,KINDERCARE LEARNING CTR,640.55,Family & Dependent Support,Childcare
+2024-02-13,OLIVE GARDEN #7372,62.19,Food & Dining,Dining out
+2025-09-02,MUNICIPAL WATER DEPT,115.18,Utilities & Communication,Water/sewer
+2025-01-28,TARGET #5373,49.34,Personal Care & Apparel,Cosmetics/personal hygiene products
+2024-01-11,KINDERCARE LEARNING CTR,313.5,Family & Dependent Support,Childcare
+2024-04-03,AMAZON.COM OFFICE,10.74,Household,Office Expenses
+2025-07-04,VCA ANIMAL HOSPITAL,177.95,Pets,Vet care
+2025-06-10,WAYFAIR.COM,381.74,Household,Furniture
+2024-11-28,ZELLE TRANSFER TO FAMILY,524.68,Family & Dependent Support,Routine family financial assistance.
+2025-01-17,BANFIELD PET HOSPITAL,171.79,Pets,Vet care
+2024-08-31,KROGER #1921,174.12,Food & Dining,Groceries
+2025-10-04,CHICK-FIL-A #596,14.96,Food & Dining,Fast food
+2024-01-04,TRUPANION PET INSURANCE,63.02,Pets,Pet insurance
+2024-09-27,RITE AID PHARMACY,49.68,Healthcare,Prescriptions
+2025-02-19,USAA UMBRELLA POLICY,28.86,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2025-10-25,COSTCO WHOLESALE #2460,23.5,Household,Cleaning supplies
+2024-03-05,SOFI PERSONAL LOAN,285.48,Debts & Loans,Personal installment loans
+2024-06-14,COMMUNITY HOA FEE,590.91,Housing & Real Estate,HOA fees
+2024-05-29,VENMO FAMILY SUPPORT,110.17,Family & Dependent Support,Routine family financial assistance.
+2025-01-28,MUTUAL OF OMAHA LTC,256.82,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2025-06-23,SPECTRUM CABLE TV,71.21,Utilities & Communication,Cable/streaming services
+2024-03-11,GREYSTAR PROPERTY MGMT,1828.99,Housing & Real Estate,Rent
+2024-10-04,LENSCRAFTERS #5864,363.31,Healthcare,Dental/vision care
+2025-10-13,LOCAL DAYCARE CENTER,629.37,Family & Dependent Support,Childcare
+2025-12-24,PETSMART GROOMING #2124,27.3,Pets,Grooming
+2025-11-29,TRAVELEX INSURANCE,27.51,Travel & Vacations,Travel insurance
+2025-12-17,EQUINOX CLUB DUES,68.88,Entertainment & Leisure,Gym/club memberships
+2024-05-27,TRADER JOE'S #8543,132.88,Food & Dining,Groceries
+2025-02-14,BASKIN ROBBINS #8542,7.9,Food & Dining,Snacks & Desserts
+2024-04-13,HOME INSTEAD SENIOR CARE,1010.63,Family & Dependent Support,Elder care support
+2025-05-12,HULU SUBSCRIPTION,85.71,Utilities & Communication,Cable/streaming services
+2025-08-10,DSW #1558,165.57,Personal Care & Apparel,Shoes
+2025-05-19,PROGRESSIVE INSURANCE,141.19,Transportation & Vehicle,Auto insurance
+2025-05-24,CON EDISON UTILITY,210.29,Utilities & Communication,Electricity
+2025-01-31,PETCO #6226,30.24,Pets,Pet food & supplies
+2024-04-05,NIKE STORE #4495,161.16,Personal Care & Apparel,Shoes
+2024-09-29,DELTA AIR LINES,632.35,Travel & Vacations,Flights
+2025-03-03,T-MOBILE PAYMENT,123.69,Utilities & Communication,Cell phone
+2025-04-02,STATE FARM UMBRELLA,42.7,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2025-06-17,MONTESSORI ACADEMY,3789.9,Family & Dependent Support,Child education/tuition
+2025-01-05,T-MOBILE PAYMENT,139.0,Utilities & Communication,Cell phone
+2024-09-22,APPLE.COM/BILL,15.81,Entertainment & Leisure,Apps/services
+2024-02-27,SOFI PERSONAL LOAN,95.56,Debts & Loans,Personal installment loans
+2024-03-03,NORWEGIAN CRUISE LINE,991.53,Travel & Vacations,Cruises
+2025-04-25,WHOLE FOODS MKT #8849,64.03,Food & Dining,Groceries
+2025-04-19,SHELL OIL #472,88.6,Transportation & Vehicle,Gas/fuel
+2025-08-03,OLIVE GARDEN #6101,63.46,Food & Dining,Dining out
+2024-08-31,PROPERTY TAX ESCROW,619.66,Housing & Real Estate,Property Taxes
+2024-06-26,TARGET #3003,64.73,Personal Care & Apparel,Cosmetics/personal hygiene products
+2025-04-10,ASHLEY FURNITURE,971.17,Household,Furniture
+2025-04-06,AETNA SUPPLEMENTAL,183.68,Healthcare,Private supplemental health insurance
+2024-02-06,BARNES & NOBLE #3032,56.42,Entertainment & Leisure,Books/Periodicals
+2024-09-18,REPUBLIC SERVICES,35.63,Utilities & Communication,Trash
+2025-02-14,COMCAST XFINITY,81.81,Utilities & Communication,Internet
+2024-05-28,MONTESSORI ACADEMY,3232.22,Family & Dependent Support,Child education/tuition
+2024-11-07,WALGREENS RX #2137,89.68,Healthcare,Prescriptions
+2025-09-14,LOCAL PET GROOMER,82.1,Pets,Grooming
+2025-12-14,OFFICE DEPOT #5842,92.47,Household,Office Expenses
+2025-03-30,NORTHWESTERN MUTUAL,230.94,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2025-07-28,LOCAL VETERINARY CLINIC,678.08,Pets,Vet care
+2025-06-30,TARGET #6939,63.29,Personal Care & Apparel,Cosmetics/personal hygiene products
+2024-04-15,AMAZON.COM BOOKS,16.18,Entertainment & Leisure,Books/Periodicals
+2025-05-29,BASKIN ROBBINS #2716,9.3,Food & Dining,Snacks & Desserts
+2024-04-29,HOBBY LOBBY #2031,55.33,Entertainment & Leisure,Hobbies
+2024-05-20,BASKIN ROBBINS #7839,3.81,Food & Dining,Snacks & Desserts
+2024-03-11,LOWE'S #7529,1114.11,Household,Appliances
+2025-11-04,USAA HOMEOWNERS,102.14,Housing & Real Estate,Homeowner's Insurance
+2025-02-23,NATIONWIDE PET INS,38.79,Pets,Pet insurance
+2025-05-24,AMEX BILL PAYMENT,77.21,Debts & Loans,Credit card balances
+2024-05-12,RED CROSS DONATION,31.45,Gifts & Charity,Charitable donations
+2025-01-05,WALGREENS RX #988,41.89,Healthcare,Prescriptions
+2025-02-17,GNC #6914,42.58,Personal Care & Apparel,Supplements/vitamins
+2024-03-23,TOYOTA FINANCIAL SVC,369.99,Transportation & Vehicle,Car payments
+2025-10-24,METRO TRANSIT FARE,17.91,Transportation & Vehicle,Public transit/ride-sharing
+2025-07-23,CIGNA SUPP HEALTH,364.03,Healthcare,Private supplemental health insurance
+2024-10-21,LOCAL VETERINARY CLINIC,651.64,Pets,Vet care
+2025-03-16,COMMUNITY HOA FEE,398.64,Housing & Real Estate,HOA fees
+2024-07-24,GAP #2570,43.16,Personal Care & Apparel,Clothing
+2025-08-28,SOUTHWEST AIRLINES,664.15,Travel & Vacations,Flights
+2025-09-08,T-MOBILE PAYMENT,59.66,Utilities & Communication,Cell phone
+2024-06-14,LOWE'S #7948,458.2,Household,Appliances
+2024-02-08,TARGET #7623,45.28,Household,Cleaning supplies
+2024-12-11,PRIVATE SCHOOL TUITION,3274.79,Family & Dependent Support,Child education/tuition
+2025-09-23,FIRESTONE COMPLETE AUTO,588.45,Transportation & Vehicle,Vehicle maintenance & repairs
+2024-06-10,DUKE ENERGY PAYMT,209.07,Utilities & Communication,Electricity
+2025-08-25,COUNTY TAX COLLECTOR,1448.07,Housing & Real Estate,
+2024-10-16,GUARDIAN DISABILITY INS,129.95,Insurance (Non-housing/Non-auto),Disability insurance
+2024-08-23,WALMART #3710,69.31,Household,Misc
+2025-10-22,GOOGLE PLAY APPS,18.1,Entertainment & Leisure,Apps/services
+2024-12-19,SALLIE MAE PAYMENT,467.18,Debts & Loans,Student loans
+2024-01-12,NEW YORK TIMES SUB,15.14,Entertainment & Leisure,Books/Periodicals
+2024-04-05,MARRIOTT HOTELS #1328,368.99,Travel & Vacations,Lodging
+2024-09-14,TARGET #1300,10.82,Household,Cleaning supplies
+2024-05-29,UBER EATS,57.96,Food & Dining,Meal delivery services
+2024-02-02,VENMO FAMILY SUPPORT,397.76,Family & Dependent Support,Routine family financial assistance.
+2024-10-15,ZELLE TRANSFER TO FAMILY,779.25,Family & Dependent Support,Routine family financial assistance.
+2024-03-25,FIRST BAPTIST CHURCH,70.23,Gifts & Charity,Tithing
+2025-07-31,ROYAL CARIBBEAN CRUISE,2576.4,Travel & Vacations,Cruises
+2025-07-18,DUNKIN' #5744,4.16,Food & Dining,Coffee shops
+2025-07-28,GRUBHUB ORDER #2362,38.34,Food & Dining,Meal delivery services
+2024-09-23,DUNKIN' #2029,5.36,Food & Dining,Coffee shops
+2024-11-27,IKEA #753,1962.34,Household,Furniture
+2024-11-04,TARGET #4848,48.92,Household,Cleaning supplies
+2024-05-23,LENDINGCLUB PAYMENT,388.84,Debts & Loans,Personal installment loans
+2024-06-05,MEDICARE PREMIUM,121.29,Healthcare,"Medicare premiums (Parts B, C, D)"
+2025-06-11,CHICK-FIL-A #2242,20.21,Food & Dining,Fast food
+2025-07-31,UNITEDHEALTH MEDIGAP,300.84,Healthcare,Private supplemental health insurance
+2024-08-28,PRIVATE SCHOOL TUITION,800.19,Family & Dependent Support,Child education/tuition
+2025-05-16,GUITAR CENTER #2938,115.43,Entertainment & Leisure,Hobbies
+2024-10-30,FOOT LOCKER #3887,95.8,Personal Care & Apparel,Shoes
+2025-04-16,HOA MGMT ASSOC #3369,517.46,Housing & Real Estate,HOA fees
+2024-08-28,USAA HOMEOWNERS,98.35,Housing & Real Estate,Homeowner's Insurance
+2024-03-21,JOHN HANCOCK LTC,171.58,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2024-10-13,GOOGLE PLAY APPS,4.34,Entertainment & Leisure,Apps/services
+2025-06-23,SOUTHWEST AIRLINES,290.67,Travel & Vacations,Flights
+2024-05-19,COSTCO WHOLESALE #2661,35.74,Household,Cleaning supplies
+2025-03-06,CMS MEDICARE PART B,69.96,Healthcare,"Medicare premiums (Parts B, C, D)"
+2024-04-19,AMAZON.COM,38.82,Household,Misc
+2024-11-18,REI CO-OP #4878,145.28,Entertainment & Leisure,Recreational equipment
+2025-03-31,TRAVELERS UMBRELLA,19.39,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2024-06-18,SUPERCUTS #7788,104.45,Personal Care & Apparel,Salon/barber visits
+2024-06-10,UNITED AIRLINES,371.63,Travel & Vacations,Flights
+2025-07-25,SUPERCUTS #6405,30.61,Personal Care & Apparel,Salon/barber visits
+2024-04-18,ETSY.COM ORDER,118.26,Gifts & Charity,Holiday/birthday gifts
+2024-03-28,STATE FARM AUTO,202.31,Transportation & Vehicle,Auto insurance
+2024-03-28,REPUBLIC SERVICES,23.36,Utilities & Communication,Trash
+2024-07-13,ST JUDE DONATION,351.55,Gifts & Charity,Charitable donations
+2024-01-21,AETNA SUPPLEMENTAL,159.81,Healthcare,Private supplemental health insurance
+2024-06-06,NAVIENT LOAN PYMT,397.77,Debts & Loans,Student loans
+2025-04-29,JOHN HANCOCK LTC,74.74,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2025-06-19,NORWEGIAN CRUISE LINE,2019.95,Travel & Vacations,Cruises
+2024-09-21,EXPEDIA TOUR PACKAGE,679.86,Travel & Vacations,Tour packages
+2025-12-18,COMFORT KEEPERS,605.28,Family & Dependent Support,Elder care support
+2024-09-20,UNIVERSITY TUITION PYMT,4672.85,Family & Dependent Support,Child education/tuition
+2024-01-08,KINDERCARE LEARNING CTR,776.85,Family & Dependent Support,Childcare
+2024-08-15,GAP #5599,149.16,Personal Care & Apparel,Clothing
+2025-12-15,ALLY AUTO PAYMENT,256.86,Transportation & Vehicle,Car payments
+2024-11-04,AETNA SUPPLEMENTAL,130.57,Healthcare,Private supplemental health insurance
+2024-02-23,VENMO FAMILY SUPPORT,199.04,Family & Dependent Support,Routine family financial assistance.
+2024-12-29,AETNA SUPPLEMENTAL,246.26,,
+2024-10-29,DMV VEHICLE REG,206.06,Transportation & Vehicle,Registration/licensing
+2025-07-02,JIFFY LUBE #8773,661.09,Transportation & Vehicle,Vehicle maintenance & repairs
+2025-10-29,CVS PHARMACY #2970,89.99,,
+2024-03-10,TRADER JOE'S #8676,214.8,Food & Dining,Groceries
+2025-02-27,7-ELEVEN #3914,2.94,Food & Dining,Snacks & Desserts
+2025-06-03,QUEST DIAGNOSTICS,561.86,Healthcare,Out-of-pocket medical costs
+2024-09-22,NEW YORK TIMES SUB,48.72,Entertainment & Leisure,Books/Periodicals
+2025-01-10,TARGET #2657,40.61,Gifts & Charity,Holiday/birthday gifts
+2025-04-15,CHASE MORTGAGE PYMT,2491.41,Housing & Real Estate,Mortgage
+2025-12-27,MASSMUTUAL LIFE,218.72,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2025-09-13,LOCAL COMMUNITY COLLEGE,94.1,Entertainment & Leisure,Classes
+2025-08-23,DELTA AIR LINES,137.09,Travel & Vacations,Flights
+2025-03-24,THE HOME DEPOT #1517,22.64,Household,Cleaning supplies
+2025-12-21,COMCAST XFINITY,69.71,Utilities & Communication,Internet
+2024-12-18,NORDSTROM #4176,61.38,Personal Care & Apparel,Clothing
+2024-08-30,HOME INSTEAD SENIOR CARE,1416.55,Family & Dependent Support,Elder care support
+2025-01-23,TRAVELERS UMBRELLA,49.71,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2025-01-04,HILTON HOTELS #8143,168.33,Travel & Vacations,Lodging
+2024-01-17,SHELL OIL #6968,64.97,Transportation & Vehicle,Gas/fuel
+2025-02-09,GEICO AUTO INSURANCE,141.79,Transportation & Vehicle,Auto insurance
+2024-12-17,ULTA BEAUTY #4167,30.43,Personal Care & Apparel,Cosmetics/personal hygiene products
+2025-03-07,MUNICIPAL WATER DEPT,35.76,Utilities & Communication,Water/sewer
+2025-03-21,GEICO AUTO INSURANCE,100.76,Transportation & Vehicle,Auto insurance
+2025-05-17,METRO TRANSIT FARE,32.19,Transportation & Vehicle,Public transit/ride-sharing
+2024-09-16,CHASE CARD PAYMENT,1058.7,Debts & Loans,Credit card balances
+2024-02-08,MUTUAL OF OMAHA LTC,148.07,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2025-10-14,PETCO #6837,43.37,Pets,Pet food & supplies
+2024-12-12,PETCO BIRD SUPPLIES,20.03,Pets,Bird supplies
+2025-11-05,MASTERCLASS.COM,341.44,Entertainment & Leisure,Classes
+2024-07-14,ST MARY'S PARISH TITHE,158.8,Gifts & Charity,Tithing
+2025-12-23,COMMUNITY HOA FEE,348.83,Housing & Real Estate,HOA fees
+2025-03-21,STATE FARM UMBRELLA,56.33,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2024-06-26,UNITED AIRLINES,849.46,Travel & Vacations,Flights
+2025-05-16,LOCAL VETERINARY CLINIC,241.25,Pets,Vet care
+2025-12-09,METRO TRANSIT FARE,41.79,Transportation & Vehicle,Public transit/ride-sharing
+2024-07-23,OLD NAVY #176,22.73,Personal Care & Apparel,Clothing
+2024-05-17,COLD STONE CREAMERY,11.44,Food & Dining,Snacks & Desserts
+2024-12-17,ALLSTATE HOME INS,243.3,Housing & Real Estate,Homeowner's Insurance
+2025-09-18,TRUPANION PET INSURANCE,49.79,Pets,Pet insurance
+2025-01-26,STATE DMV FEE,137.36,Transportation & Vehicle,Registration/licensing
+2025-01-28,AT&T MOBILITY,109.26,Utilities & Communication,Cell phone
+2025-01-04,IHERB.COM,29.91,Personal Care & Apparel,Supplements/vitamins
+2024-01-16,NORTHWESTERN MUTUAL,90.2,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2025-10-12,EQUINOX CLUB DUES,175.54,Entertainment & Leisure,Gym/club memberships
+2024-03-05,EQUINOX CLUB DUES,131.57,Entertainment & Leisure,Gym/club memberships
+2025-12-13,LA FITNESS MEMBERSHIP,21.49,Entertainment & Leisure,Gym/club memberships
+2024-12-12,NORTHWESTERN MUTUAL,98.5,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2025-07-04,AMAZON.COM,95.89,Household,Misc
+2024-10-20,AMAZON.COM OFFICE,101.86,Household,Office Expenses
+2025-04-01,IHERB.COM,58.17,Personal Care & Apparel,Supplements/vitamins
+2025-11-15,COMCAST XFINITY,77.52,Utilities & Communication,Internet
+2024-02-06,WORLD NOMADS INSURANCE,75.57,Travel & Vacations,Travel insurance
+2025-02-22,OFFICE DEPOT #9902,132.75,Household,Office Expenses
+2025-05-25,MUTUAL OF OMAHA LTC,61.78,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2024-04-12,DELTA AIR LINES,879.7,Travel & Vacations,Flights
+2024-03-30,STUBHUB TICKETS,97.27,Entertainment & Leisure,Event tickets
+2025-05-09,MASSMUTUAL LIFE,35.49,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2025-07-29,COMFORT KEEPERS,820.08,Family & Dependent Support,Elder care support
+2024-08-01,CHEWY.COM BIRD,41.22,Pets,Bird supplies
+2024-03-15,WALMART #8394,15.11,Household,Misc
+2025-10-04,CARNIVAL CRUISE LINE,924.99,Travel & Vacations,Cruises
+2024-01-09,TRAVELEX INSURANCE,46.65,Travel & Vacations,Travel insurance
+2024-08-15,APPLE.COM/BILL,3.26,Entertainment & Leisure,Apps/services
+2024-07-30,HOBBY LOBBY #5210,75.18,Entertainment & Leisure,Hobbies
+2025-11-19,SOCALGAS PAYMENT,82.13,Utilities & Communication,Gas
+2025-08-09,GNC #5034,39.43,Personal Care & Apparel,Supplements/vitamins
+2025-10-05,CENTERPOINT ENERGY,154.94,Utilities & Communication,Gas
+2025-03-31,MONTESSORI ACADEMY,1501.99,Family & Dependent Support,Child education/tuition
+2025-10-07,PETCO GROOMING SALON,50.99,Pets,Grooming
+2025-02-23,PG&E ELECTRIC BILL,218.94,Utilities & Communication,Electricity
+2025-04-22,FIRESTONE COMPLETE AUTO,799.22,Transportation & Vehicle,Vehicle maintenance & repairs
+2025-09-06,ALLIANZ TRAVEL INS,137.46,Travel & Vacations,Travel insurance
+2025-06-13,TREASURER TAX OFC,1557.6,Housing & Real Estate,Property Taxes
+2025-11-04,REI CO-OP #5588,20.7,Entertainment & Leisure,Recreational equipment
+2024-12-01,LA FITNESS MEMBERSHIP,172.04,Entertainment & Leisure,Gym/club memberships
+2024-11-02,TRUPANION PET INSURANCE,19.66,Pets,Pet insurance
+2024-02-22,REPUBLIC SERVICES,63.4,Utilities & Communication,Trash
+2025-05-27,GAP #7836,197.33,Personal Care & Apparel,Clothing
+2025-05-27,PETCO GROOMING SALON,56.14,Pets,Grooming
+2024-09-11,AMAZON.COM BOOKS,19.67,Entertainment & Leisure,Books/Periodicals
+2024-05-06,NATIONAL GRID GAS,65.99,Utilities & Communication,Gas
+2025-07-02,EXPEDIA TOUR PACKAGE,641.45,Travel & Vacations,Tour packages
+2024-06-23,LOWE'S #7823,1574.41,Household,Appliances
+2025-06-17,WESTERN UNION TRANSFER,753.07,Family & Dependent Support,Routine family financial assistance.
+2025-12-28,AXS TICKET PURCHASE,160.22,Entertainment & Leisure,Event tickets
+2025-06-29,NELNET STUDENT LOAN,250.68,Debts & Loans,Student loans
+2025-05-10,NATIONWIDE PET INS,64.36,Pets,Pet insurance
+2025-12-14,HONDA FINANCIAL,347.28,Transportation & Vehicle,Car payments
+2025-09-15,ROCKET MORTGAGE LLC,2236.86,Housing & Real Estate,Mortgage
+2024-01-23,AMAZON.COM GIFT,173.31,Gifts & Charity,Holiday/birthday gifts
+2024-01-13,LOCAL BARBER SHOP,83.77,Personal Care & Apparel,Salon/barber visits
+2025-09-29,CMS MEDICARE PART B,207.13,Healthcare,"Medicare premiums (Parts B, C, D)"
+2024-07-22,GREYSTAR PROPERTY MGMT,1861.49,Housing & Real Estate,Rent
+2025-04-20,ACE HARDWARE #2088,443.43,Housing & Real Estate,Maintenance & repairs
+2025-11-05,SOCALGAS PAYMENT,28.4,Utilities & Communication,Gas
+2025-01-25,CITY TRASH COLLECTION,55.61,Utilities & Communication,Trash
+2024-08-07,ALLIANZ TRAVEL INS,131.73,Travel & Vacations,Travel insurance
+2025-05-02,AMAZON.COM,93.48,Household,Misc
+2024-10-16,VITAMIN SHOPPE #4303,42.41,Personal Care & Apparel,Supplements/vitamins
+2024-02-20,WORLD NOMADS INSURANCE,28.43,Travel & Vacations,Travel insurance
+2025-11-09,STATE FARM UMBRELLA,39.53,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2025-08-07,TREASURER TAX OFC,810.17,Housing & Real Estate,Property Taxes
+2025-09-20,PROGRESSIVE INSURANCE,192.88,Transportation & Vehicle,Auto insurance
+2025-02-11,PETSMART GROOMING #3210,43.29,Pets,Grooming
+2024-07-10,THE CHEESECAKE FACTORY,60.68,Food & Dining,Dining out
+2024-07-11,USAA UMBRELLA POLICY,36.37,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2025-01-12,MUTUAL OF OMAHA LTC,175.98,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2025-09-14,SKILLSHARE SUBSCRIPTION,246.38,Entertainment & Leisure,Classes
+2025-05-05,FIRESTONE COMPLETE AUTO,899.63,Transportation & Vehicle,Vehicle maintenance & repairs
+2024-02-27,SOUTHWEST AIRLINES,756.7,Travel & Vacations,Flights
+2024-02-24,HONDA FINANCIAL,639.73,Transportation & Vehicle,Car payments
+2024-10-25,LYFT RIDE,43.69,Transportation & Vehicle,Public transit/ride-sharing
+2025-01-27,BARNES & NOBLE #853,32.53,Entertainment & Leisure,Books/Periodicals
+2025-11-03,SUPERCUTS #9929,64.68,Personal Care & Apparel,Salon/barber visits
+2025-05-17,LENSCRAFTERS #2168,333.42,Healthcare,Dental/vision care
+2025-09-11,PETCO #2296,65.26,Pets,Pet food & supplies
+2025-05-10,STAPLES #6165,88.27,Household,Office Expenses
+2024-08-14,SOCALGAS PAYMENT,166.86,Utilities & Communication,Gas
+2025-03-29,SEPHORA #4217,24.65,Personal Care & Apparel,Cosmetics/personal hygiene products
+2025-11-14,TRUPANION PET INSURANCE,57.69,Pets,Pet insurance
+2025-10-12,CHASE MORTGAGE PYMT,1644.76,Housing & Real Estate,Mortgage
+2025-07-10,TICKETMASTER EVENT,98.67,Entertainment & Leisure,Event tickets
+2025-07-11,WAYFAIR.COM,570.83,Household,Furniture
+2025-02-08,CENTERPOINT ENERGY,81.7,Utilities & Communication,Gas
+2025-04-30,CHEWY.COM BIRD,37.7,Pets,Bird supplies
+2024-04-02,COMMUNITY CHURCH GIVING,238.6,Gifts & Charity,Tithing
+2025-11-17,STATE FARM UMBRELLA,21.94,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2025-03-20,HILTON HOTELS #2803,399.73,Travel & Vacations,Lodging
+2025-08-11,HOBBY LOBBY #6952,123.32,Entertainment & Leisure,Hobbies
+2024-07-16,TRIPADVISOR EXPERIENCES,81.42,Travel & Vacations,Tour packages
+2025-05-02,NORWEGIAN CRUISE LINE,2692.3,Travel & Vacations,Cruises
+2024-12-19,HOME DEPOT APPLIANCES,789.93,Household,Appliances
+2024-02-08,COMMUNITY CHURCH GIVING,264.06,Gifts & Charity,Tithing
+2025-11-04,UBER TRIP,35.3,Transportation & Vehicle,Public transit/ride-sharing
+2024-01-25,REI CO-OP #204,467.55,Entertainment & Leisure,Recreational equipment
+2024-07-11,CHEWY.COM,40.12,Pets,Pet food & supplies
+2025-01-09,NATIONAL GRID GAS,146.91,Utilities & Communication,Gas
+2025-07-19,CVS PHARMACY #2673,50.78,Healthcare,Prescriptions
+2025-04-28,DMV VEHICLE REG,296.4,Transportation & Vehicle,Registration/licensing
+2025-02-17,LENDINGCLUB PAYMENT,280.82,,
+2024-08-29,TRADER JOE'S #6595,117.91,Food & Dining,Groceries
+2025-11-30,WALMART #3094,94.98,Household,Misc
+2025-08-31,WORLD NOMADS INSURANCE,95.18,Travel & Vacations,Travel insurance
+2024-01-13,JIFFY LUBE #8819,514.41,Transportation & Vehicle,Vehicle maintenance & repairs
+2024-10-03,WELLS FARGO HOME MTG,1939.62,Housing & Real Estate,Mortgage
+2024-03-30,MASSMUTUAL LIFE,216.59,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2024-07-13,COUNTY TAX COLLECTOR,1170.83,Housing & Real Estate,Property Taxes
+2025-09-27,NATIONAL GRID GAS,123.68,Utilities & Communication,Gas
+2024-06-06,THE HOME DEPOT #1281,46.84,Household,Cleaning supplies
+2024-09-28,GREYSTAR PROPERTY MGMT,1788.28,Housing & Real Estate,Rent
+2025-11-17,SPECTRUM CABLE TV,15.66,Utilities & Communication,Cable/streaming services
+2025-12-31,STARBUCKS #7506,4.55,Food & Dining,Coffee shops
+2024-08-15,KROGER #1602,209.01,Food & Dining,Groceries
+2024-10-14,WAYFAIR.COM,1236.86,Household,Furniture
+2025-01-07,GREAT CLIPS #7574,114.79,Personal Care & Apparel,Salon/barber visits
+2024-05-12,SPECTRUM CABLE TV,62.3,Utilities & Communication,Cable/streaming services
+2024-12-09,ROTO-ROOTER PLUMBING,591.67,Housing & Real Estate,Maintenance & repairs
+2025-04-10,CMS MEDICARE PART B,112.38,Healthcare,"Medicare premiums (Parts B, C, D)"
+2024-05-29,PETSMART #5303,102.35,Pets,Pet food & supplies
+2025-01-03,LYFT RIDE,25.83,Transportation & Vehicle,Public transit/ride-sharing
+2025-11-01,CITY TRASH COLLECTION,25.72,Utilities & Communication,Trash
+2024-12-05,APPLE.COM/BILL,5.02,Entertainment & Leisure,Apps/services
+2025-12-27,REGIONAL MEDICAL CTR,483.6,Healthcare,Out-of-pocket medical costs
+2024-07-29,MASSMUTUAL LIFE,248.4,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2025-02-11,STARBUCKS #1512,3.59,Food & Dining,Coffee shops
+2025-07-21,UPSTART LOAN PYMT,165.31,Debts & Loans,Personal installment loans
+2025-03-05,CMS MEDICARE PART B,180.56,Healthcare,"Medicare premiums (Parts B, C, D)"
+2025-11-28,GRUBHUB ORDER #6329,21.65,Food & Dining,Meal delivery services
+2024-02-13,T-MOBILE PAYMENT,44.01,Utilities & Communication,Cell phone
+2025-08-02,IKEA #7410,368.89,Household,Furniture
+2025-08-08,VIATOR TOURS,544.54,Travel & Vacations,Tour packages
+2024-05-18,KINDERCARE LEARNING CTR,725.97,Family & Dependent Support,Childcare
+2025-11-30,LOCAL COMMUNITY COLLEGE,155.68,Entertainment & Leisure,Classes
+2024-02-06,AMAZON.COM,21.1,Household,Misc
+2024-07-22,UNITEDHEALTH MEDIGAP,382.44,Healthcare,Private supplemental health insurance
+2024-11-09,THE CHEESECAKE FACTORY,99.31,Food & Dining,Dining out
+2025-03-28,CAPITAL ONE PAYMENT,982.84,Debts & Loans,
+2025-04-17,CON EDISON UTILITY,91.49,Utilities & Communication,Electricity
+2024-02-10,PETSMART GROOMING #8598,63.03,Pets,Grooming
+2024-05-10,TRAVELERS UMBRELLA,33.19,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2024-02-08,DSW #6106,135.22,Personal Care & Apparel,Shoes
+2025-03-01,TARGET #1094,81.77,Gifts & Charity,Holiday/birthday gifts
+2025-12-05,PETSMART #527,49.52,Pets,Pet food & supplies
+2025-07-17,CHICK-FIL-A #8361,14.01,Food & Dining,Fast food
+2025-09-13,ZILLOW RENTAL PYMT,1497.58,Housing & Real Estate,Rent
+2024-05-28,CITY WATER UTILITY,60.5,Utilities & Communication,Water/sewer
+2024-05-21,ULTA BEAUTY #7519,73.99,Personal Care & Apparel,Cosmetics/personal hygiene products
+2024-02-03,HONDA FINANCIAL,475.4,Transportation & Vehicle,Car payments
+2025-12-29,ULTA BEAUTY #9075,78.58,Personal Care & Apparel,Cosmetics/personal hygiene products
+2024-04-09,PROPERTY TAX ESCROW,990.27,Housing & Real Estate,Property Taxes
+2024-03-15,MASTERCLASS.COM,308.65,Entertainment & Leisure,Classes
+2025-09-20,UNITED AIRLINES,120.53,Travel & Vacations,Flights
+2025-06-11,ROTO-ROOTER PLUMBING,131.23,Housing & Real Estate,Maintenance & repairs
+2025-04-15,ALLY AUTO PAYMENT,633.72,Transportation & Vehicle,Car payments
+2024-04-23,BANFIELD PET HOSPITAL,266.56,Pets,Vet care
+2024-08-05,WASTE MANAGEMENT INC,48.9,Utilities & Communication,Trash
+2024-06-28,COLD STONE CREAMERY,15.63,Food & Dining,Snacks & Desserts
+2025-04-21,CON EDISON UTILITY,62.07,Utilities & Communication,Electricity
+2025-04-01,VIATOR TOURS,421.7,Travel & Vacations,Tour packages
+2025-07-03,MICHAELS STORES #9559,29.33,Entertainment & Leisure,Hobbies
+2024-11-01,DOORDASH*ORDER,27.56,Food & Dining,Meal delivery services
+2024-11-11,MARRIOTT HOTELS #7858,520.32,Travel & Vacations,Lodging
+2025-08-30,SOFI PERSONAL LOAN,161.1,Debts & Loans,Personal installment loans
+2025-01-02,SOFI PERSONAL LOAN,318.24,Debts & Loans,Personal installment loans
+2024-01-04,APARTMENTS.COM RENT,1337.24,Housing & Real Estate,Rent
+2025-06-12,NORTHWESTERN MUTUAL,210.87,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2025-11-26,HULU SUBSCRIPTION,71.51,Utilities & Communication,Cable/streaming services
+2025-06-12,WALMART #6857,95.77,Household,Misc
+2025-02-14,WALGREENS RX #4822,122.64,,
+2025-03-14,LA FITNESS MEMBERSHIP,93.04,Entertainment & Leisure,Gym/club memberships
+2025-10-23,TREASURER TAX OFC,2425.71,Housing & Real Estate,Property Taxes
+2025-03-07,CMS MEDICARE PART B,180.32,Healthcare,"Medicare premiums (Parts B, C, D)"
+2025-01-25,HOME INSTEAD SENIOR CARE,1432.82,Family & Dependent Support,Elder care support
+2024-05-29,VERIZON WIRELESS,64.53,Utilities & Communication,Cell phone
+2025-10-27,HONDA FINANCIAL,646.67,Transportation & Vehicle,Car payments
+2024-08-31,CITY WATER UTILITY,31.63,Utilities & Communication,Water/sewer
+2025-08-01,FIRST BAPTIST CHURCH,141.34,Gifts & Charity,Tithing
+2025-11-07,STATE FARM UMBRELLA,37.24,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2025-02-12,REPUBLIC SERVICES,61.37,Utilities & Communication,Trash
+2024-05-04,MONTESSORI ACADEMY,295.21,Family & Dependent Support,Child education/tuition
+2024-06-22,FIRST BAPTIST CHURCH,312.48,Gifts & Charity,Tithing
+2025-01-14,CITY WATER UTILITY,72.75,Utilities & Communication,Water/sewer
+2024-05-12,DUNKIN' #9730,4.64,Food & Dining,Coffee shops
+2024-06-20,ROYAL CARIBBEAN CRUISE,2867.56,Travel & Vacations,Cruises
+2024-11-18,GREYSTAR PROPERTY MGMT,2414.55,Housing & Real Estate,Rent
+2024-04-02,ASHLEY FURNITURE,1032.18,Household,Furniture
+2024-11-22,CHEWY.COM,13.24,Pets,Pet food & supplies
+2025-07-08,COMFORT KEEPERS,1573.18,Family & Dependent Support,Elder care support
+2025-08-25,TICKETMASTER EVENT,82.72,Entertainment & Leisure,Event tickets
+2024-03-13,LOCAL COMMUNITY COLLEGE,260.66,Entertainment & Leisure,Classes
+2025-08-24,TOYOTA FINANCIAL SVC,634.59,Transportation & Vehicle,Car payments
+2024-12-18,DMV VEHICLE REG,51.78,Transportation & Vehicle,Registration/licensing
+2025-12-03,REI CO-OP #1581,95.66,Entertainment & Leisure,Recreational equipment
+2025-07-30,TARGET #5399,127.56,Gifts & Charity,Holiday/birthday gifts
+2025-03-20,ST MARY'S PARISH TITHE,354.32,Gifts & Charity,Tithing
+2024-11-03,EXXONMOBIL #8640,39.37,Transportation & Vehicle,Gas/fuel
+2025-06-21,HEALTHY PAWS INSURANCE,41.35,Pets,Pet insurance
+2025-06-24,NELNET STUDENT LOAN,190.4,Debts & Loans,Student loans
+2024-02-17,DUKE ENERGY PAYMT,258.75,Utilities & Communication,Electricity
+2024-10-27,GREYSTAR PROPERTY MGMT,1610.26,Housing & Real Estate,Rent
+2025-11-04,TARGET #2203,16.49,Personal Care & Apparel,Cosmetics/personal hygiene products
+2025-02-05,ZELLE TRANSFER TO FAMILY,249.88,Family & Dependent Support,Routine family financial assistance.
+2025-12-14,ROTO-ROOTER PLUMBING,223.33,Housing & Real Estate,Maintenance & repairs
+2025-05-11,QUEST DIAGNOSTICS,530.89,Healthcare,Out-of-pocket medical costs
+2025-08-22,THE HOME DEPOT #1136,47.31,Household,Cleaning supplies
+2025-10-17,LOCAL DAYCARE CENTER,606.73,Family & Dependent Support,Childcare
+2024-09-18,CON EDISON UTILITY,115.88,Utilities & Communication,Electricity
+2024-03-03,USAA HOMEOWNERS,278.65,Housing & Real Estate,Homeowner's Insurance
+2025-09-27,NORWEGIAN CRUISE LINE,2161.59,Travel & Vacations,Cruises
+2024-06-02,HOME INSTEAD SENIOR CARE,450.02,Family & Dependent Support,Elder care support
+2024-03-10,TARGET #7996,16.05,Household,Misc
+2025-05-07,WHOLE FOODS MKT #4196,25.7,Food & Dining,Groceries
+2024-06-01,BRIGHT SMILES DENTAL,64.66,Healthcare,Dental/vision care
+2024-09-30,BASKIN ROBBINS #6384,6.24,Food & Dining,Snacks & Desserts
+2025-10-23,SPECTRUM CABLE TV,14.91,Utilities & Communication,Cable/streaming services
+2024-09-05,WESTERN UNION TRANSFER,139.74,Family & Dependent Support,Routine family financial assistance.
+2024-11-21,TRAVELERS UMBRELLA,32.74,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2024-11-23,JIFFY LUBE #7792,695.0,Transportation & Vehicle,Vehicle maintenance & repairs
+2025-12-21,PLANET FITNESS #7132,124.88,Entertainment & Leisure,Gym/club memberships
+2024-11-20,GEICO AUTO INSURANCE,215.74,Transportation & Vehicle,Auto insurance
+2024-04-14,SEPHORA #5976,74.75,Personal Care & Apparel,Cosmetics/personal hygiene products
+2025-10-02,REGIONAL MEDICAL CTR,458.74,Healthcare,Out-of-pocket medical costs
+2024-08-07,HULU SUBSCRIPTION,33.33,Utilities & Communication,Cable/streaming services
+2025-01-18,GNC #8568,59.33,Personal Care & Apparel,Supplements/vitamins
+2025-02-28,URGENT CARE CLINIC,180.22,Healthcare,Out-of-pocket medical costs
+2025-01-14,STAPLES #1149,46.83,Household,Office Expenses
+2025-07-24,AT&T FIBER INTERNET,88.87,Utilities & Communication,Internet
+2025-03-29,ROTO-ROOTER PLUMBING,326.53,Housing & Real Estate,Maintenance & repairs
+2025-07-21,STARBUCKS #8194,3.24,Food & Dining,Coffee shops
+2025-02-27,PROGRESSIVE INSURANCE,92.1,Transportation & Vehicle,Auto insurance
+2024-04-20,LOCAL VETERINARY CLINIC,277.74,Pets,Vet care
+2025-01-13,HOA MGMT ASSOC #2542,395.52,Housing & Real Estate,HOA fees
+2025-04-21,LOCAL VETERINARY CLINIC,219.05,Pets,Vet care
+2025-12-14,AQUA WATER SEWER,134.43,Utilities & Communication,Water/sewer
+2024-01-17,MIDAS AUTO REPAIR,606.98,Transportation & Vehicle,Vehicle maintenance & repairs
+2024-03-06,GREYSTAR PROPERTY MGMT,1733.24,Housing & Real Estate,
+2024-11-15,SPECTRUM INTERNET,55.23,Utilities & Communication,Internet
+2024-01-29,KROGER #1437,91.86,Food & Dining,Groceries
+2024-12-10,UNITED AIRLINES,577.09,Travel & Vacations,Flights
+2025-04-12,PG&E ELECTRIC BILL,175.71,Utilities & Communication,Electricity
+2025-05-14,SSA MEDICARE DEDUCT,203.65,Healthcare,"Medicare premiums (Parts B, C, D)"
+2024-11-25,QUEST DIAGNOSTICS,284.1,Healthcare,Out-of-pocket medical costs
+2024-11-08,LENSCRAFTERS #9742,495.41,Healthcare,Dental/vision care
+2024-10-25,USAA UMBRELLA POLICY,35.38,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2025-06-22,SPOTIFY PREMIUM,22.46,Entertainment & Leisure,Apps/services
+2024-06-19,UNIVERSITY TUITION PYMT,584.31,Family & Dependent Support,Child education/tuition
+2024-11-30,STATE FARM AUTO,157.44,Transportation & Vehicle,Auto insurance
+2025-08-08,COMFORT KEEPERS,1181.75,Family & Dependent Support,Elder care support
+2025-03-30,APPLE.COM/BILL,22.85,Entertainment & Leisure,Apps/services
+2024-04-17,NIKE STORE #2347,89.92,Personal Care & Apparel,Shoes
+2025-01-04,EXPEDIA TOUR PACKAGE,397.77,Travel & Vacations,Tour packages
+2024-12-12,OLIVE GARDEN #826,62.28,Food & Dining,Dining out
+2024-04-28,NAVIENT LOAN PYMT,421.13,Debts & Loans,Student loans
+2024-02-03,COMFORT KEEPERS,2355.17,Family & Dependent Support,Elder care support
+2024-07-16,ETSY.COM ORDER,86.29,Gifts & Charity,Holiday/birthday gifts
+2024-10-14,NELNET STUDENT LOAN,166.27,Debts & Loans,Student loans
+2025-10-26,MIDAS AUTO REPAIR,440.98,Transportation & Vehicle,Vehicle maintenance & repairs
+2024-02-15,LOCAL VETERINARY CLINIC,136.24,Pets,Vet care
+2024-11-28,STATE FARM AUTO,191.67,Transportation & Vehicle,Auto insurance
+2025-06-12,BARNES & NOBLE #3038,19.61,Entertainment & Leisure,Books/Periodicals
+2025-08-21,SOUTHWEST AIRLINES,398.8,Travel & Vacations,Flights
+2025-07-09,CHEWY.COM,46.22,Pets,Pet food & supplies
+2025-05-20,DICK'S SPORTING GOODS,196.77,Entertainment & Leisure,Recreational equipment
+2024-12-06,OLIVE GARDEN #1798,112.58,Food & Dining,Dining out
+2025-05-18,VIATOR TOURS,267.46,Travel & Vacations,Tour packages
+2024-07-15,GRUBHUB ORDER #4431,42.45,Food & Dining,Meal delivery services
+2024-12-26,NATIONAL GRID GAS,119.1,Utilities & Communication,Gas
+2024-05-27,CHICK-FIL-A #3442,11.8,Food & Dining,Fast food
+2025-11-17,HILTON HOTELS #1553,509.05,Travel & Vacations,Lodging
+2025-09-12,MONTESSORI ACADEMY,4363.37,Family & Dependent Support,Child education/tuition
+2024-10-20,PRUDENTIAL LIFE INS,74.12,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2025-02-15,SHELL OIL #4109,73.14,Transportation & Vehicle,Gas/fuel
+2024-11-16,ASHLEY FURNITURE,387.16,Household,Furniture
+2024-09-06,WALMART #9326,50.94,Household,Misc
+2024-10-14,PETCO BIRD SUPPLIES,68.12,Pets,Bird supplies
+2025-03-26,THE CHEESECAKE FACTORY,126.74,Food & Dining,Dining out
+2025-03-20,BARNES & NOBLE #4105,12.48,Entertainment & Leisure,Books/Periodicals
+2025-08-24,REGIONAL MEDICAL CTR,193.16,Healthcare,Out-of-pocket medical costs
+2025-10-24,SOFI PERSONAL LOAN,345.55,Debts & Loans,Personal installment loans
+2025-04-17,APPLE.COM/BILL,3.94,Entertainment & Leisure,Apps/services
+2025-10-24,TARGET #9305,78.92,Personal Care & Apparel,Cosmetics/personal hygiene products
+2024-12-25,SKILLSHARE SUBSCRIPTION,78.18,Entertainment & Leisure,Classes
+2024-04-28,MASSMUTUAL LIFE,220.26,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2025-12-11,PG&E ELECTRIC BILL,157.61,Utilities & Communication,Electricity
+2024-08-10,CITY WATER UTILITY,105.93,Utilities & Communication,Water/sewer
+2025-01-11,THE CHEESECAKE FACTORY,103.05,Food & Dining,Dining out
+2025-08-08,MONTESSORI ACADEMY,3230.11,Family & Dependent Support,Child education/tuition
+2025-11-17,WALGREENS RX #6790,66.66,Healthcare,Prescriptions
+2024-12-18,EXXONMOBIL #8220,28.05,Transportation & Vehicle,Gas/fuel
+2024-11-30,DICK'S SPORTING GOODS,356.35,Entertainment & Leisure,Recreational equipment
+2025-02-23,NIKE STORE #3404,80.48,Personal Care & Apparel,Shoes
+2024-09-28,ASSOCIA HOA DUES,230.36,Housing & Real Estate,HOA fees
+2025-04-25,JOHN HANCOCK LTC,183.04,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2025-07-12,ROCKET MORTGAGE LLC,2385.07,Housing & Real Estate,Mortgage
+2024-07-25,LOCAL BISTRO #7598,24.44,Food & Dining,Dining out
+2024-11-19,ASSISTED LIVING FACILITY,1343.69,Family & Dependent Support,Elder care support
+2024-03-11,CON EDISON UTILITY,67.9,Utilities & Communication,Electricity
+2024-04-30,JIFFY LUBE #3213,867.39,Transportation & Vehicle,Vehicle maintenance & repairs
+2025-03-29,ASPEN DENTAL #8661,214.97,Healthcare,Dental/vision care
+2025-05-08,NATIONAL GRID GAS,64.83,Utilities & Communication,Gas
+2024-06-28,NORTHWESTERN MUTUAL,145.52,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2025-12-04,REPUBLIC SERVICES,67.68,Utilities & Communication,Trash
+2025-04-06,CVS PHARMACY #2664,10.45,Healthcare,Prescriptions
+2024-09-06,LENSCRAFTERS #3730,226.02,Healthcare,Dental/vision care
+2025-09-02,DMV VEHICLE REG,216.89,Transportation & Vehicle,Registration/licensing
+2024-09-29,SOFI PERSONAL LOAN,359.13,Debts & Loans,Personal installment loans
+2025-03-26,HOME DEPOT APPLIANCES,1599.46,Household,Appliances
+2024-11-16,PETCO GROOMING SALON,85.95,Pets,Grooming
+2025-07-17,DUNKIN' #5792,9.39,Food & Dining,Coffee shops
+2024-06-27,AQUA WATER SEWER,65.61,Utilities & Communication,Water/sewer
+2024-10-16,CVS PHARMACY #3892,58.98,Healthcare,Prescriptions
+2025-04-18,MICHAELS STORES #5522,116.37,Entertainment & Leisure,Hobbies
+2025-05-10,ASPEN DENTAL #3238,139.54,Healthcare,Dental/vision care
+2024-01-27,CITY WATER UTILITY,102.72,Utilities & Communication,Water/sewer
+2024-09-12,EXPEDIA TOUR PACKAGE,679.36,Travel & Vacations,Tour packages
+2024-05-29,WAYFAIR.COM,1339.26,Household,Furniture
+2025-12-23,REGIONAL MEDICAL CTR,189.28,Healthcare,Out-of-pocket medical costs
+2025-03-01,STATE DMV FEE,74.31,Transportation & Vehicle,Registration/licensing
+2025-02-03,PRIVATE SCHOOL TUITION,3343.2,Family & Dependent Support,Child education/tuition
+2025-03-30,REPUBLIC SERVICES,55.62,Utilities & Communication,Trash
+2025-02-04,NELNET STUDENT LOAN,427.17,Debts & Loans,Student loans
+2024-08-10,ZELLE TRANSFER TO FAMILY,61.04,Family & Dependent Support,Routine family financial assistance.
+2025-04-05,UPSTART LOAN PYMT,485.28,Debts & Loans,Personal installment loans
+2024-07-27,AMAZON.COM OFFICE,65.64,Household,Office Expenses
+2025-08-31,STATE FARM AUTO,196.26,Transportation & Vehicle,Auto insurance
+2024-10-06,SALLIE MAE PAYMENT,559.02,Debts & Loans,Student loans
+2024-08-01,WESTERN UNION TRANSFER,549.51,Family & Dependent Support,Routine family financial assistance.
+2025-11-02,HULU SUBSCRIPTION,33.44,Utilities & Communication,Cable/streaming services
+2025-06-27,7-ELEVEN #931,14.06,Food & Dining,Snacks & Desserts
+2024-02-24,SEPHORA #514,39.23,Personal Care & Apparel,Cosmetics/personal hygiene products
+2024-10-19,CMS MEDICARE PART B,72.4,Healthcare,"Medicare premiums (Parts B, C, D)"
+2024-04-19,ACE HARDWARE #190,809.83,Housing & Real Estate,Maintenance & repairs
+2024-03-11,KINDERCARE LEARNING CTR,347.4,Family & Dependent Support,Childcare
+2024-11-03,HOBBY LOBBY #7512,70.59,Entertainment & Leisure,Hobbies
+2025-04-22,CMS MEDICARE PART B,112.94,Healthcare,"Medicare premiums (Parts B, C, D)"
+2024-02-26,PEET'S COFFEE #8338,11.2,Food & Dining,Coffee shops
+2024-02-13,PETSMART GROOMING #7499,56.55,Pets,Grooming
+2025-08-16,HANDYMAN PRO SVC,236.55,Housing & Real Estate,Maintenance & repairs
+2025-01-03,MIDAS AUTO REPAIR,305.24,Transportation & Vehicle,Vehicle maintenance & repairs
+2024-10-25,RITE AID PHARMACY,110.95,Healthcare,Prescriptions
+2025-02-23,DUNKIN' #7942,7.73,Food & Dining,Coffee shops
+2025-10-10,TARGET #6190,91.28,Gifts & Charity,Holiday/birthday gifts
+2024-06-22,GEICO AUTO INSURANCE,187.23,Transportation & Vehicle,Auto insurance
+2024-04-01,KINDERCARE LEARNING CTR,716.65,Family & Dependent Support,Childcare
+2024-05-14,NATIONAL GRID GAS,114.83,Utilities & Communication,Gas
+2024-12-21,CIGNA SUPP HEALTH,334.79,Healthcare,Private supplemental health insurance
+2025-11-26,OLIVE GARDEN #6755,63.6,Food & Dining,Dining out
+2025-09-30,WILD BIRD CENTER #8708,43.66,Pets,Bird supplies
+2025-09-06,HEALTHY PAWS INSURANCE,18.97,Pets,Pet insurance
+2024-06-13,IHERB.COM,25.85,Personal Care & Apparel,Supplements/vitamins
+2025-01-31,HULU SUBSCRIPTION,83.27,Utilities & Communication,Cable/streaming services
+2024-04-25,CHEVRON #3188,85.93,Transportation & Vehicle,Gas/fuel
+2024-09-28,DUKE ENERGY PAYMT,231.94,Utilities & Communication,Electricity
+2025-12-01,OFFICE DEPOT #9120,95.96,Household,Office Expenses
+2024-04-18,NIKE STORE #2028,68.82,Personal Care & Apparel,Shoes
+2025-12-14,ROYAL CARIBBEAN CRUISE,792.94,Travel & Vacations,Cruises
+2024-07-03,DMV VEHICLE REG,114.64,Transportation & Vehicle,Registration/licensing
+2025-10-05,WELLS FARGO HOME MTG,2083.27,Housing & Real Estate,Mortgage
+2025-01-22,MARRIOTT HOTELS #6883,341.47,Travel & Vacations,Lodging
+2025-10-07,COMFORT KEEPERS,1299.03,Family & Dependent Support,Elder care support
+2025-05-28,MUTUAL OF OMAHA LTC,116.82,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2024-02-20,HEALTHY PAWS INSURANCE,61.02,Pets,Pet insurance
+2024-12-19,THE CHEESECAKE FACTORY,114.62,Food & Dining,Dining out
+2025-06-05,TACO BELL #2463,8.98,Food & Dining,Fast food
+2024-05-28,NELNET STUDENT LOAN,337.29,Debts & Loans,Student loans
+2024-06-27,GOOGLE PLAY APPS,8.72,Entertainment & Leisure,Apps/services
+2025-09-24,COMCAST XFINITY,55.23,Utilities & Communication,Internet
+2024-11-13,MASTERCLASS.COM,121.83,Entertainment & Leisure,Classes
+2025-02-07,SSA MEDICARE DEDUCT,64.31,Healthcare,"Medicare premiums (Parts B, C, D)"
+2024-12-05,GREAT CLIPS #3752,103.65,Personal Care & Apparel,Salon/barber visits
+2024-04-10,NELNET STUDENT LOAN,235.16,Debts & Loans,Student loans
+2025-02-26,SUPERCUTS #391,25.78,Personal Care & Apparel,Salon/barber visits
+2025-06-10,GNC #3163,67.75,Personal Care & Apparel,Supplements/vitamins
+2025-07-10,IKEA #700,1130.09,Household,Furniture
+2025-07-02,OFFICE DEPOT #9690,45.51,Household,Office Expenses
+2025-03-21,LOCAL BISTRO #5876,93.78,Food & Dining,Dining out
+2024-09-05,DICK'S SPORTING GOODS,375.0,Entertainment & Leisure,Recreational equipment
+2025-06-07,COMFORT KEEPERS,1277.93,Family & Dependent Support,Elder care support
+2024-10-03,HOME INSTEAD SENIOR CARE,2054.06,Family & Dependent Support,Elder care support
+2025-10-14,HOME DEPOT APPLIANCES,1747.71,Household,Appliances
+2025-11-30,ROYAL CARIBBEAN CRUISE,1500.77,Travel & Vacations,Cruises
+2025-04-13,MICHAELS STORES #6093,71.94,Entertainment & Leisure,Hobbies
+2024-09-30,GREYSTAR PROPERTY MGMT,2427.18,Housing & Real Estate,Rent
+2024-04-14,PLANET FITNESS #6376,34.29,Entertainment & Leisure,Gym/club memberships
+2024-03-13,RITE AID PHARMACY,156.13,Healthcare,Prescriptions
+2025-11-19,SEPHORA #4860,64.3,Personal Care & Apparel,Cosmetics/personal hygiene products
+2024-11-17,ALLSTATE HOME INS,135.15,Housing & Real Estate,Homeowner's Insurance
+2024-11-10,DICK'S SPORTING GOODS,427.52,Entertainment & Leisure,Recreational equipment
+2024-06-17,GUITAR CENTER #1891,138.66,Entertainment & Leisure,Hobbies
+2025-05-29,GOOGLE PLAY APPS,23.08,Entertainment & Leisure,Apps/services
+2024-12-23,USAA HOMEOWNERS,151.6,Housing & Real Estate,Homeowner's Insurance
+2025-10-26,BANFIELD PET HOSPITAL,233.05,Pets,Vet care
+2025-10-05,VERIZON WIRELESS,57.14,Utilities & Communication,Cell phone
+2025-05-26,UPSTART LOAN PYMT,350.23,Debts & Loans,Personal installment loans
+2025-12-28,GUARDIAN DISABILITY INS,108.98,Insurance (Non-housing/Non-auto),Disability insurance
+2024-08-11,AXS TICKET PURCHASE,146.38,Entertainment & Leisure,Event tickets
+2025-08-28,CHEVRON #1098,61.19,Transportation & Vehicle,Gas/fuel
+2025-09-19,BRIGHT HORIZONS DAYCARE,692.44,Family & Dependent Support,Childcare
+2025-02-23,ALLIANZ TRAVEL INS,58.64,Travel & Vacations,Travel insurance
+2024-06-28,ASHLEY FURNITURE,1130.24,Household,Furniture
+2025-07-14,TRUPANION PET INSURANCE,27.24,,
+2024-12-08,PRIVATE SCHOOL TUITION,2359.3,Family & Dependent Support,Child education/tuition
+2024-08-16,HOME DEPOT APPLIANCES,527.7,Household,Appliances
+2025-04-29,TREASURER TAX OFC,1865.28,Housing & Real Estate,Property Taxes
+2025-04-08,ETSY.COM ORDER,62.01,Gifts & Charity,Holiday/birthday gifts
+2025-04-06,SEPHORA #9747,18.1,Personal Care & Apparel,Cosmetics/personal hygiene products
+2025-02-17,TARGET #3287,48.2,,
+2024-01-16,MIDAS AUTO REPAIR,300.74,Transportation & Vehicle,Vehicle maintenance & repairs
+2024-03-20,T-MOBILE PAYMENT,37.34,Utilities & Communication,Cell phone
+2025-02-10,ROYAL CARIBBEAN CRUISE,1409.06,Travel & Vacations,Cruises
+2025-01-12,T-MOBILE PAYMENT,39.7,Utilities & Communication,Cell phone
+2025-10-22,ZELLE TRANSFER TO FAMILY,94.83,Family & Dependent Support,Routine family financial assistance.
+2024-12-26,TARGET #5381,66.25,Personal Care & Apparel,Cosmetics/personal hygiene products
+2025-10-31,LENDINGCLUB PAYMENT,129.64,Debts & Loans,Personal installment loans
+2024-03-13,ETSY.COM ORDER,22.52,Gifts & Charity,Holiday/birthday gifts
+2025-09-01,NATIONWIDE PET INS,49.58,Pets,Pet insurance
+2025-04-12,DICK'S SPORTING GOODS,61.47,Entertainment & Leisure,Recreational equipment
+2025-05-09,QUEST DIAGNOSTICS,260.98,Healthcare,Out-of-pocket medical costs
+2025-07-13,GNC #6125,55.31,Personal Care & Apparel,Supplements/vitamins
+2024-01-22,AQUA WATER SEWER,95.69,Utilities & Communication,Water/sewer
+2025-10-31,STUBHUB TICKETS,53.16,Entertainment & Leisure,Event tickets
+2025-10-05,LOCAL COMMUNITY COLLEGE,210.05,Entertainment & Leisure,Classes
+2024-01-24,VCA ANIMAL HOSPITAL,337.04,Pets,Vet care
+2024-06-17,SUPERCUTS #1841,19.81,Personal Care & Apparel,Salon/barber visits
+2025-05-25,REGIONAL MEDICAL CTR,502.64,Healthcare,Out-of-pocket medical costs
+2025-01-05,AETNA SUPPLEMENTAL,230.06,Healthcare,Private supplemental health insurance
+2024-11-20,WILD BIRD CENTER #7096,45.75,Pets,Bird supplies
+2025-09-04,UBER TRIP,21.86,Transportation & Vehicle,Public transit/ride-sharing
+2025-08-08,LOCAL PET GROOMER,68.92,Pets,Grooming
+2024-07-25,RED CROSS DONATION,438.01,Gifts & Charity,Charitable donations
+2025-08-26,ASHLEY FURNITURE,821.45,Household,Furniture
+2025-12-13,PETSMART GROOMING #3045,82.3,Pets,Grooming
+2025-11-17,COMMUNITY HOA FEE,473.74,Housing & Real Estate,HOA fees
+2025-07-29,SHELL OIL #7686,84.46,Transportation & Vehicle,Gas/fuel
+2024-12-17,MICHAELS STORES #1985,14.29,Entertainment & Leisure,Hobbies
+2025-04-26,WALGREENS RX #8156,174.74,Healthcare,Prescriptions
+2024-09-02,COLD STONE CREAMERY,15.34,Food & Dining,Snacks & Desserts
+2025-10-18,7-ELEVEN #5589,7.12,Food & Dining,Snacks & Desserts
+2024-09-01,NEW YORK TIMES SUB,30.75,Entertainment & Leisure,Books/Periodicals
+2024-06-19,AMAZON.COM BOOKS,52.69,Entertainment & Leisure,Books/Periodicals
+2024-03-05,LOCAL BISTRO #3086,117.38,Food & Dining,Dining out
+2024-10-20,SAFEWAY #2492,43.21,Food & Dining,Groceries
+2025-11-24,ALLIANZ TRAVEL INS,105.92,Travel & Vacations,Travel insurance
+2024-07-09,7-ELEVEN #6604,16.18,Food & Dining,Snacks & Desserts
+2025-03-16,PROGRESSIVE INSURANCE,164.84,Transportation & Vehicle,Auto insurance
+2024-05-14,GAP #3842,60.99,Personal Care & Apparel,Clothing
+2024-03-26,MONTESSORI ACADEMY,2715.12,Family & Dependent Support,Child education/tuition
+2024-05-17,AMAZON.COM OFFICE,23.68,Household,Office Expenses
+2025-10-31,UPSTART LOAN PYMT,139.47,Debts & Loans,Personal installment loans
+2025-02-26,KINDERCARE LEARNING CTR,473.26,Family & Dependent Support,Childcare
+2025-10-06,HANDYMAN PRO SVC,408.13,Housing & Real Estate,Maintenance & repairs
+2025-07-14,DMV VEHICLE REG,56.06,Transportation & Vehicle,Registration/licensing
+2024-02-15,NORTHWESTERN MUTUAL,98.42,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2025-11-21,CVS PHARMACY #1596,48.92,Healthcare,Prescriptions
+2025-06-23,LOCAL VETERINARY CLINIC,637.99,Pets,Vet care
+2024-06-10,LOWE'S #3565,355.41,Household,Appliances
+2025-10-18,STARBUCKS #564,3.73,Food & Dining,Coffee shops
+2024-03-19,THE CHEESECAKE FACTORY,73.27,Food & Dining,Dining out
+2025-11-30,GOOGLE PLAY APPS,3.65,Entertainment & Leisure,Apps/services
+2024-09-11,LOCAL COMMUNITY COLLEGE,263.18,Entertainment & Leisure,Classes
+2025-08-03,CHEWY.COM,39.35,Pets,Pet food & supplies
+2024-03-01,DSW #1952,45.54,Personal Care & Apparel,Shoes
+2025-08-12,ST MARY'S PARISH TITHE,142.9,Gifts & Charity,Tithing
+2025-08-08,MARRIOTT HOTELS #1671,115.31,Travel & Vacations,Lodging
+2025-11-05,NORTHWESTERN MUTUAL,144.53,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2024-05-15,LOCAL COMMUNITY COLLEGE,374.56,Entertainment & Leisure,Classes
+2025-07-20,GREYSTAR PROPERTY MGMT,1477.12,Housing & Real Estate,Rent
+2024-06-29,COMFORT KEEPERS,2033.6,Family & Dependent Support,Elder care support
+2025-07-29,SUPERCUTS #5090,108.46,Personal Care & Apparel,Salon/barber visits
+2025-01-02,SOFI PERSONAL LOAN,344.86,Debts & Loans,Personal installment loans
+2024-10-29,FIRESTONE COMPLETE AUTO,659.21,Transportation & Vehicle,Vehicle maintenance & repairs
+2025-06-04,DUNKIN' #2952,10.14,Food & Dining,Coffee shops
+2025-02-14,FOOT LOCKER #5715,53.34,Personal Care & Apparel,Shoes
+2025-08-26,MASTERCLASS.COM,304.69,Entertainment & Leisure,Classes
+2024-02-08,NORTHWESTERN MUTUAL,112.33,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2025-02-22,GUITAR CENTER #8381,134.08,Entertainment & Leisure,Hobbies
+2024-08-16,SOUTHWEST AIRLINES,733.85,Travel & Vacations,Flights
+2025-10-22,T-MOBILE PAYMENT,78.89,Utilities & Communication,Cell phone
+2024-01-07,LOWE'S #7998,1608.19,Household,Appliances
+2025-10-25,WALGREENS RX #1980,102.58,Healthcare,Prescriptions
+2025-08-31,SHELL OIL #3476,29.37,Transportation & Vehicle,Gas/fuel
+2025-03-26,NELNET STUDENT LOAN,218.97,Debts & Loans,Student loans
+2025-05-09,PG&E ELECTRIC BILL,279.86,Utilities & Communication,Electricity
+2024-08-16,LOCAL BARBER SHOP,20.29,Personal Care & Apparel,Salon/barber visits
+2024-11-28,AETNA SUPPLEMENTAL,248.29,Healthcare,Private supplemental health insurance
+2024-05-30,SAFEWAY #7461,200.59,Food & Dining,Groceries
+2025-10-08,SPECTRUM CABLE TV,12.29,Utilities & Communication,Cable/streaming services
+2025-07-03,PETCO BIRD SUPPLIES,46.89,Pets,Bird supplies
+2024-03-11,CMS MEDICARE PART B,95.88,Healthcare,"Medicare premiums (Parts B, C, D)"
+2024-09-26,AMAZON.COM,5.92,Household,Misc
+2025-12-07,COUNTY VEHICLE LICENSE,240.16,Transportation & Vehicle,Registration/licensing
+2024-03-07,GUARDIAN DISABILITY INS,83.38,Insurance (Non-housing/Non-auto),Disability insurance
+2025-08-05,TARGET #1605,120.54,Gifts & Charity,Holiday/birthday gifts
+2024-09-12,TARGET #3855,24.26,Household,Misc
+2025-07-16,GREYSTAR PROPERTY MGMT,1812.92,Housing & Real Estate,Rent
+2025-12-02,TACO BELL #5049,14.66,Food & Dining,Fast food
+2025-10-01,MUTUAL OF OMAHA LTC,297.69,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2025-02-27,CARNIVAL CRUISE LINE,2501.27,Travel & Vacations,Cruises
+2024-02-28,THE CHEESECAKE FACTORY,96.74,Food & Dining,Dining out
+2025-02-07,FIRST BAPTIST CHURCH,184.14,Gifts & Charity,Tithing
+2024-02-20,CENTERPOINT ENERGY,145.64,Utilities & Communication,Gas
+2025-04-17,AT&T MOBILITY,44.27,Utilities & Communication,Cell phone
+2025-10-22,UNIVERSITY TUITION PYMT,1483.87,Family & Dependent Support,Child education/tuition
+2024-02-16,NORDSTROM #5115,49.24,Personal Care & Apparel,Clothing
+2025-01-20,LOCAL VETERINARY CLINIC,481.05,Pets,Vet care
+2024-07-29,STATE DMV FEE,70.22,Transportation & Vehicle,Registration/licensing
+2025-12-29,TRAVELERS UMBRELLA,18.51,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2025-06-17,PETSMART #1538,90.29,Pets,Pet food & supplies
+2024-07-03,GOOGLE PLAY APPS,11.54,Entertainment & Leisure,Apps/services
+2025-05-19,DELTA AIR LINES,772.62,Travel & Vacations,Flights
+2024-03-18,AMAZON.COM,83.0,Household,Misc
+2024-10-10,STATE FARM INSURANCE,251.26,Housing & Real Estate,Homeowner's Insurance
+2024-07-07,VITAMIN SHOPPE #8708,23.2,Personal Care & Apparel,Supplements/vitamins
+2024-07-16,COLD STONE CREAMERY,10.42,Food & Dining,Snacks & Desserts
+2024-10-07,IKEA #8642,1289.12,Household,Furniture
+2025-10-23,DMV VEHICLE REG,239.12,Transportation & Vehicle,Registration/licensing
+2025-01-30,NETFLIX.COM,53.75,Utilities & Communication,Cable/streaming services
+2025-02-26,NELNET STUDENT LOAN,476.38,Debts & Loans,Student loans
+2025-11-04,AMAZON.COM BOOKS,42.64,Entertainment & Leisure,Books/Periodicals
+2024-12-17,HULU SUBSCRIPTION,16.49,Utilities & Communication,Cable/streaming services
+2025-07-17,COUNTY TAX COLLECTOR,1773.71,Housing & Real Estate,Property Taxes
+2025-10-09,FIRST BAPTIST CHURCH,260.88,Gifts & Charity,Tithing
+2025-04-28,DELTA AIR LINES,750.75,Travel & Vacations,Flights
+2024-04-26,LOCAL BARBER SHOP,90.17,Personal Care & Apparel,Salon/barber visits
+2025-02-10,CENTERPOINT ENERGY,137.25,Utilities & Communication,Gas
+2024-07-10,CHEWY.COM BIRD,45.55,Pets,Bird supplies
+2025-01-03,HEALTHY PAWS INSURANCE,52.47,Pets,Pet insurance
+2025-05-07,COUNTY TAX COLLECTOR,1659.88,Housing & Real Estate,Property Taxes
+2025-08-25,HEALTHY PAWS INSURANCE,26.89,Pets,Pet insurance
+2025-09-18,GRUBHUB ORDER #3440,33.47,Food & Dining,Meal delivery services
+2024-12-04,CHEVRON #4078,41.57,Transportation & Vehicle,Gas/fuel
+2025-08-27,URGENT CARE CLINIC,311.33,Healthcare,
+2025-12-19,WELLS FARGO HOME MTG,2345.63,Housing & Real Estate,Mortgage
+2025-07-16,THE HOME DEPOT #991,52.27,Household,Cleaning supplies
+2025-05-08,STAPLES #8780,70.05,Household,Office Expenses
+2025-04-06,HOBBY LOBBY #2398,45.55,Entertainment & Leisure,Hobbies
+2024-02-03,TICKETMASTER EVENT,106.87,Entertainment & Leisure,Event tickets
+2024-08-18,ACE HARDWARE #3948,625.15,Housing & Real Estate,Maintenance & repairs
+2025-06-03,IKEA #1335,1790.68,Household,Furniture
+2025-03-15,AT&T FIBER INTERNET,59.7,Utilities & Communication,Internet
+2024-12-07,AT&T MOBILITY,77.44,Utilities & Communication,Cell phone
+2024-11-02,PLANET FITNESS #5233,78.81,Entertainment & Leisure,Gym/club memberships
+2024-04-02,WESTERN UNION TRANSFER,56.15,Family & Dependent Support,Routine family financial assistance.
+2024-01-22,RITE AID PHARMACY,109.81,Healthcare,Prescriptions
+2025-02-14,APPLE.COM/BILL,7.36,Entertainment & Leisure,Apps/services
+2025-04-10,PROPERTY TAX ESCROW,3272.21,Housing & Real Estate,Property Taxes
+2024-02-28,AMAZON.COM OFFICE,144.89,Household,Office Expenses
+2024-03-25,NAVIENT LOAN PYMT,243.41,Debts & Loans,Student loans
+2025-11-11,LA FITNESS MEMBERSHIP,33.19,Entertainment & Leisure,Gym/club memberships
+2025-10-16,SOUTHWEST AIRLINES,859.98,Travel & Vacations,Flights
+2025-12-08,LOCAL COMMUNITY COLLEGE,314.9,Entertainment & Leisure,Classes
+2025-05-24,CHEWY.COM BIRD,53.21,Pets,Bird supplies
+2024-08-10,CAPITAL ONE PAYMENT,1346.25,Debts & Loans,Credit card balances
+2025-10-14,ACADEMY SPORTS #1665,262.61,Entertainment & Leisure,Recreational equipment
+2025-10-18,PETCO GROOMING SALON,62.89,Pets,Grooming
+2025-08-23,WALMART #7617,69.75,Household,Misc
+2024-12-10,ALLIANZ TRAVEL INS,85.22,Travel & Vacations,Travel insurance
+2025-06-17,PETCO GROOMING SALON,82.95,Pets,Grooming
+2025-10-29,QUEST DIAGNOSTICS,593.28,Healthcare,Out-of-pocket medical costs
+2025-05-16,GAP #5715,219.21,Personal Care & Apparel,Clothing
+2025-08-23,WASTE MANAGEMENT INC,47.82,Utilities & Communication,Trash
+2025-08-03,TOYOTA FINANCIAL SVC,475.58,Transportation & Vehicle,Car payments
+2024-06-07,RED CROSS DONATION,43.75,Gifts & Charity,Charitable donations
+2024-04-05,EQUINOX CLUB DUES,20.4,Entertainment & Leisure,Gym/club memberships
+2025-12-30,TOYOTA FINANCIAL SVC,550.9,Transportation & Vehicle,Car payments
+2025-09-25,VIATOR TOURS,358.2,Travel & Vacations,Tour packages
+2024-06-23,CON EDISON UTILITY,234.35,Utilities & Communication,Electricity
+2024-08-25,REI CO-OP #4684,64.65,Entertainment & Leisure,Recreational equipment
+2025-07-15,HANDYMAN PRO SVC,757.68,Housing & Real Estate,Maintenance & repairs
+2025-05-18,CHASE CARD PAYMENT,688.83,Debts & Loans,Credit card balances
+2024-06-24,PRUDENTIAL LIFE INS,156.3,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2025-07-17,UBER TRIP,31.63,Transportation & Vehicle,Public transit/ride-sharing
+2025-02-03,COUNTY TAX COLLECTOR,1574.82,Housing & Real Estate,Property Taxes
+2025-09-19,COMFORT KEEPERS,1231.23,Family & Dependent Support,Elder care support
+2025-10-25,CHASE CARD PAYMENT,595.14,Debts & Loans,Credit card balances
+2024-07-04,SPECTRUM INTERNET,67.82,Utilities & Communication,Internet
+2025-09-11,SHELL OIL #4498,49.52,Transportation & Vehicle,Gas/fuel
+2025-08-18,ZELLE TRANSFER TO FAMILY,776.63,Family & Dependent Support,Routine family financial assistance.
+2025-12-12,JOHN HANCOCK LTC,100.2,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2025-10-10,MUTUAL OF OMAHA LTC,78.74,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2024-09-03,APARTMENTS.COM RENT,1459.18,Housing & Real Estate,Rent
+2024-11-27,PETSMART GROOMING #7549,27.21,Pets,Grooming
+2024-04-02,CHICK-FIL-A #5155,14.95,Food & Dining,Fast food
+2025-02-04,SOFI PERSONAL LOAN,374.02,Debts & Loans,Personal installment loans
+2024-12-16,UBER EATS,56.05,Food & Dining,Meal delivery services
+2024-05-03,CIGNA SUPP HEALTH,280.12,Healthcare,Private supplemental health insurance
+2024-04-19,STATE FARM INSURANCE,151.41,Housing & Real Estate,Homeowner's Insurance
+2025-07-30,SOUTHWEST AIRLINES,559.61,Travel & Vacations,Flights
+2024-04-09,SALLIE MAE PAYMENT,577.94,Debts & Loans,Student loans
+2024-02-07,SOFI PERSONAL LOAN,468.42,Debts & Loans,Personal installment loans
+2025-07-26,ROTO-ROOTER PLUMBING,506.15,Housing & Real Estate,Maintenance & repairs
+2024-11-05,PLANET FITNESS #2261,161.14,Entertainment & Leisure,Gym/club memberships
+2025-03-12,THE CHEESECAKE FACTORY,92.31,Food & Dining,Dining out
+2024-10-25,MONTESSORI ACADEMY,1721.02,Family & Dependent Support,Child education/tuition
+2024-09-19,ETSY.COM ORDER,61.22,Gifts & Charity,Holiday/birthday gifts
+2024-10-23,WELLS FARGO HOME MTG,2258.02,Housing & Real Estate,Mortgage
+2025-05-05,WASTE MANAGEMENT INC,23.04,Utilities & Communication,Trash
+2025-04-08,LOCAL DAYCARE CENTER,628.11,Family & Dependent Support,Childcare
+2024-09-13,RITE AID PHARMACY,64.79,Healthcare,Prescriptions
+2025-02-08,COMMUNITY CHURCH GIVING,95.28,Gifts & Charity,Tithing
+2025-08-22,REPUBLIC SERVICES,51.22,Utilities & Communication,Trash
+2024-01-22,UNITED WAY DONATION,369.26,Gifts & Charity,Charitable donations
+2024-08-13,AXS TICKET PURCHASE,33.49,Entertainment & Leisure,Event tickets
+2025-12-18,DOORDASH*ORDER,16.42,Food & Dining,Meal delivery services
+2025-02-09,ZILLOW RENTAL PYMT,2083.16,,
+2025-03-29,AMAZON.COM,28.76,Household,Misc
+2024-08-12,STATE DMV FEE,199.8,Transportation & Vehicle,Registration/licensing
+2025-08-19,BEST BUY #6830,1121.43,Household,Appliances
+2025-04-13,OLD NAVY #6804,217.37,Personal Care & Apparel,Clothing
+2025-09-13,UNITEDHEALTH MEDIGAP,150.34,Healthcare,Private supplemental health insurance
+2025-09-18,USAA UMBRELLA POLICY,41.22,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2024-06-07,VITAMIN SHOPPE #7740,52.58,Personal Care & Apparel,Supplements/vitamins
+2024-05-16,PLANET FITNESS #6370,143.75,Entertainment & Leisure,Gym/club memberships
+2025-01-25,REGIONAL MEDICAL CTR,549.79,Healthcare,Out-of-pocket medical costs
+2025-07-15,SAFEWAY #3633,186.17,Food & Dining,Groceries
+2025-06-17,WORLD NOMADS INSURANCE,62.77,Travel & Vacations,Travel insurance
+2024-06-29,7-ELEVEN #6946,17.88,Food & Dining,Snacks & Desserts
+2024-03-25,STUBHUB TICKETS,159.39,Entertainment & Leisure,Event tickets
+2024-03-05,GREAT CLIPS #6838,61.27,Personal Care & Apparel,Salon/barber visits
+2025-03-20,PG&E ELECTRIC BILL,224.29,Utilities & Communication,Electricity
+2025-08-08,DUNKIN' #4436,8.86,Food & Dining,Coffee shops
+2025-07-05,HOA MGMT ASSOC #8618,566.51,Housing & Real Estate,HOA fees
+2024-06-09,SUPERCUTS #994,16.22,Personal Care & Apparel,Salon/barber visits
+2025-12-17,SOCALGAS PAYMENT,114.1,Utilities & Communication,Gas
+2024-08-30,COUNTY TAX COLLECTOR,3403.89,Housing & Real Estate,Property Taxes
+2024-09-28,AMAZON.COM,28.0,Household,Misc
+2024-11-01,ZILLOW RENTAL PYMT,2405.78,Housing & Real Estate,Rent
+2024-10-06,AT&T FIBER INTERNET,73.73,Utilities & Communication,Internet
+2024-10-25,METRO TRANSIT FARE,11.81,Transportation & Vehicle,Public transit/ride-sharing
+2024-06-27,ROTO-ROOTER PLUMBING,688.43,Housing & Real Estate,Maintenance & repairs
+2025-01-12,EQUINOX CLUB DUES,169.81,Entertainment & Leisure,Gym/club memberships
+2025-04-18,IKEA #5532,1763.1,Household,Furniture
+2024-08-28,SUPERCUTS #6303,57.34,Personal Care & Apparel,Salon/barber visits
+2025-03-09,HOME INSTEAD SENIOR CARE,229.96,Family & Dependent Support,Elder care support
+2025-05-24,LOCAL BARBER SHOP,48.19,Personal Care & Apparel,Salon/barber visits
+2024-07-26,CHEWY.COM,85.25,Pets,Pet food & supplies
+2024-04-05,GEICO AUTO INSURANCE,150.17,Transportation & Vehicle,Auto insurance
+2025-10-01,AT&T MOBILITY,114.41,Utilities & Communication,Cell phone
+2025-09-23,METLIFE DISABILITY,131.94,Insurance (Non-housing/Non-auto),Disability insurance
+2024-09-10,HANDYMAN PRO SVC,277.72,Housing & Real Estate,Maintenance & repairs
+2024-06-30,NATIONWIDE PET INS,54.37,Pets,Pet insurance
+2024-07-02,METLIFE DISABILITY,75.44,Insurance (Non-housing/Non-auto),Disability insurance
+2024-06-10,CHEWY.COM,112.63,Pets,Pet food & supplies
+2025-05-01,HANDYMAN PRO SVC,813.65,Housing & Real Estate,Maintenance & repairs
+2024-06-22,GAP #459,135.89,Personal Care & Apparel,Clothing
+2024-11-19,WILD BIRD CENTER #9356,52.95,Pets,Bird supplies
+2024-02-12,STUBHUB TICKETS,174.06,Entertainment & Leisure,Event tickets
+2024-12-29,VCA ANIMAL HOSPITAL,491.65,Pets,Vet care
+2024-03-27,SPECTRUM CABLE TV,66.12,Utilities & Communication,Cable/streaming services
+2024-05-29,DUKE ENERGY PAYMT,142.47,Utilities & Communication,Electricity
+2025-11-20,TARGET #4806,13.84,Household,Misc
+2024-12-14,SOFI PERSONAL LOAN,233.45,Debts & Loans,Personal installment loans
+2025-11-06,LOCAL PET GROOMER,65.24,Pets,Grooming
+2024-03-13,UNITED WAY DONATION,118.15,Gifts & Charity,Charitable donations
+2024-08-27,SOCALGAS PAYMENT,41.79,Utilities & Communication,Gas
+2024-10-28,JOHN HANCOCK LTC,290.54,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2024-06-28,SOUTHWEST AIRLINES,579.38,Travel & Vacations,Flights
+2025-01-31,STARBUCKS #3148,7.49,Food & Dining,Coffee shops
+2024-02-15,CARNIVAL CRUISE LINE,885.12,Travel & Vacations,Cruises
+2024-04-05,LENSCRAFTERS #7442,404.75,Healthcare,Dental/vision care
+2024-07-31,ACADEMY SPORTS #5970,483.02,Entertainment & Leisure,Recreational equipment
+2024-01-07,FIRESTONE COMPLETE AUTO,81.72,Transportation & Vehicle,Vehicle maintenance & repairs
+2025-08-09,AXS TICKET PURCHASE,165.47,Entertainment & Leisure,Event tickets
+2024-03-09,CARNIVAL CRUISE LINE,2768.09,Travel & Vacations,Cruises
+2024-04-23,BRIGHT HORIZONS DAYCARE,293.46,Family & Dependent Support,Childcare
+2025-07-18,QUEST DIAGNOSTICS,161.36,Healthcare,Out-of-pocket medical costs
+2025-02-27,REPUBLIC SERVICES,64.4,Utilities & Communication,Trash
+2025-09-11,CHASE CARD PAYMENT,175.26,Debts & Loans,Credit card balances
+2025-02-12,HOA MGMT ASSOC #487,447.01,Housing & Real Estate,HOA fees
+2024-04-30,URGENT CARE CLINIC,287.64,Healthcare,Out-of-pocket medical costs
+2024-10-17,PLANET FITNESS #8205,62.97,Entertainment & Leisure,Gym/club memberships
+2025-04-09,CITY TRASH COLLECTION,46.53,Utilities & Communication,Trash
+2025-06-05,GRUBHUB ORDER #5611,37.83,Food & Dining,Meal delivery services
+2024-11-29,BRIGHT HORIZONS DAYCARE,846.73,Family & Dependent Support,Childcare
+2024-09-13,ZELLE TRANSFER TO FAMILY,721.77,Family & Dependent Support,Routine family financial assistance.
+2025-03-27,NATIONAL GRID GAS,72.88,Utilities & Communication,Gas
+2025-11-11,WHOLE FOODS MKT #9449,100.4,Food & Dining,Groceries
+2025-09-03,STUBHUB TICKETS,171.38,Entertainment & Leisure,Event tickets
+2025-08-29,BEST BUY #806,317.4,Household,Appliances
+2024-11-21,DELTA AIR LINES,304.51,Travel & Vacations,Flights
+2025-08-02,HONDA FINANCIAL,563.75,Transportation & Vehicle,Car payments
+2024-10-08,CMS MEDICARE PART B,160.28,Healthcare,"Medicare premiums (Parts B, C, D)"
+2024-01-19,VCA ANIMAL HOSPITAL,531.3,Pets,Vet care
+2024-08-18,STARBUCKS #5386,11.41,Food & Dining,Coffee shops
+2024-02-01,COSTCO WHOLESALE #6573,50.75,Household,Cleaning supplies
+2025-08-11,ASSISTED LIVING FACILITY,857.0,Family & Dependent Support,Elder care support
+2025-03-17,AIRBNB PAYMENT,449.3,Travel & Vacations,Lodging
+2025-09-26,TOYOTA FINANCIAL SVC,346.39,Transportation & Vehicle,Car payments
+2024-08-08,ASSISTED LIVING FACILITY,492.02,Family & Dependent Support,Elder care support
+2024-09-06,CITY WATER UTILITY,116.55,Utilities & Communication,Water/sewer
+2024-07-11,EXXONMOBIL #747,81.79,Transportation & Vehicle,Gas/fuel
+2025-08-19,ROYAL CARIBBEAN CRUISE,1873.14,Travel & Vacations,Cruises
+2025-02-17,WALGREENS RX #4235,64.96,Healthcare,Prescriptions
+2024-12-30,REI CO-OP #1594,361.36,Entertainment & Leisure,Recreational equipment
+2025-04-09,COMCAST XFINITY,69.45,Utilities & Communication,Internet
+2024-05-17,WAYFAIR.COM,1722.9,,
+2025-11-24,DSW #4860,80.83,Personal Care & Apparel,Shoes
+2024-04-09,GUITAR CENTER #8012,76.18,Entertainment & Leisure,Hobbies
+2024-12-12,SOCALGAS PAYMENT,140.72,Utilities & Communication,Gas
+2024-12-26,MIDAS AUTO REPAIR,184.68,Transportation & Vehicle,Vehicle maintenance & repairs
+2025-06-16,OLD NAVY #4864,108.46,Personal Care & Apparel,Clothing
+2025-07-30,STATE FARM INSURANCE,203.74,Housing & Real Estate,Homeowner's Insurance
+2024-09-12,ASSOCIA HOA DUES,244.53,Housing & Real Estate,HOA fees
+2024-03-18,TOYOTA FINANCIAL SVC,424.84,Transportation & Vehicle,Car payments
+2025-02-14,LENDINGCLUB PAYMENT,366.37,Debts & Loans,Personal installment loans
+2025-07-01,LYFT RIDE,27.45,Transportation & Vehicle,Public transit/ride-sharing
+2024-04-09,NORDSTROM #9246,52.13,Personal Care & Apparel,Clothing
+2025-12-20,USAA UMBRELLA POLICY,25.59,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2024-12-19,PG&E ELECTRIC BILL,157.18,Utilities & Communication,Electricity
+2024-10-09,ZELLE TRANSFER TO FAMILY,175.52,Family & Dependent Support,Routine family financial assistance.
+2024-08-03,SALLIE MAE PAYMENT,418.79,Debts & Loans,Student loans
+2025-12-07,UBER EATS,46.72,Food & Dining,Meal delivery services
+2024-03-22,ETSY.COM ORDER,105.91,Gifts & Charity,Holiday/birthday gifts
+2024-07-27,MASTERCLASS.COM,211.85,Entertainment & Leisure,Classes
+2024-10-31,AIRBNB PAYMENT,426.9,Travel & Vacations,Lodging
+2025-04-05,REI CO-OP #2646,70.72,Entertainment & Leisure,Recreational equipment
+2024-03-13,EQUINOX CLUB DUES,41.15,Entertainment & Leisure,Gym/club memberships
+2024-02-01,SSA MEDICARE DEDUCT,66.44,Healthcare,"Medicare premiums (Parts B, C, D)"
+2024-07-07,MONTESSORI ACADEMY,2187.15,Family & Dependent Support,Child education/tuition
+2024-04-28,DSW #423,32.48,Personal Care & Apparel,Shoes
+2024-04-28,ASSOCIA HOA DUES,572.66,Housing & Real Estate,HOA fees
+2024-08-21,PRIVATE SCHOOL TUITION,977.6,Family & Dependent Support,Child education/tuition
+2024-04-21,BEST BUY #6296,755.29,Household,Appliances
+2024-04-07,COMMUNITY CHURCH GIVING,238.97,Gifts & Charity,Tithing
+2025-11-20,FIRST BAPTIST CHURCH,78.22,Gifts & Charity,Tithing
+2025-01-12,TRIPADVISOR EXPERIENCES,207.34,Travel & Vacations,Tour packages
+2024-11-23,AMAZON.COM BOOKS,55.62,Entertainment & Leisure,Books/Periodicals
+2024-10-18,UNIVERSITY TUITION PYMT,2784.5,Family & Dependent Support,Child education/tuition
+2025-02-19,COLD STONE CREAMERY,17.41,Food & Dining,Snacks & Desserts
+2024-09-08,REI CO-OP #9054,385.03,Entertainment & Leisure,Recreational equipment
+2025-07-24,HEALTHY PAWS INSURANCE,45.99,Pets,Pet insurance
+2024-12-10,CHASE MORTGAGE PYMT,1448.77,Housing & Real Estate,Mortgage
+2025-05-08,METLIFE DISABILITY,91.23,Insurance (Non-housing/Non-auto),Disability insurance
+2025-10-20,BEST BUY #3868,231.05,Household,Appliances
+2024-06-07,SHELL OIL #4155,54.94,Transportation & Vehicle,Gas/fuel
+2025-11-05,DUNKIN' #9613,4.39,Food & Dining,Coffee shops
+2025-11-09,ALLIANZ TRAVEL INS,88.94,Travel & Vacations,Travel insurance
+2024-06-30,HOA MGMT ASSOC #2762,589.29,Housing & Real Estate,HOA fees
+2025-07-20,PROGRESSIVE INSURANCE,128.78,Transportation & Vehicle,Auto insurance
+2024-09-01,URGENT CARE CLINIC,588.85,Healthcare,Out-of-pocket medical costs
+2025-06-12,TRIPADVISOR EXPERIENCES,418.5,Travel & Vacations,Tour packages
+2025-01-22,ROCKET MORTGAGE LLC,1399.72,Housing & Real Estate,Mortgage
+2025-12-03,BEST BUY #8469,549.69,Household,Appliances
+2024-06-16,CIGNA SUPP HEALTH,315.51,Healthcare,Private supplemental health insurance
+2024-08-06,GNC #5824,23.27,Personal Care & Apparel,Supplements/vitamins
+2024-04-08,GNC #5348,40.83,Personal Care & Apparel,Supplements/vitamins
+2025-02-27,PETCO GROOMING SALON,30.82,Pets,Grooming
+2024-09-09,GEICO AUTO INSURANCE,151.39,Transportation & Vehicle,Auto insurance
+2025-06-20,HULU SUBSCRIPTION,89.26,Utilities & Communication,Cable/streaming services
+2025-01-14,OLIVE GARDEN #2613,101.49,Food & Dining,Dining out
+2025-05-12,MEDICARE PREMIUM,103.67,Healthcare,"Medicare premiums (Parts B, C, D)"
+2025-08-13,RITE AID PHARMACY,149.64,Healthcare,Prescriptions
+2025-12-21,AXS TICKET PURCHASE,71.3,Entertainment & Leisure,Event tickets
+2025-08-27,DSW #1799,89.48,Personal Care & Apparel,Shoes
+2024-10-10,AMAZON.COM,38.07,Household,Misc
+2025-12-29,SAFEWAY #9185,206.53,Food & Dining,Groceries
+2025-02-19,ROTO-ROOTER PLUMBING,538.05,Housing & Real Estate,Maintenance & repairs
+2025-04-07,AQUA WATER SEWER,95.3,Utilities & Communication,Water/sewer
+2025-06-07,MICHAELS STORES #6216,141.75,Entertainment & Leisure,Hobbies
+2024-06-28,SPECTRUM INTERNET,93.56,Utilities & Communication,Internet
+2025-05-01,NORWEGIAN CRUISE LINE,2186.38,Travel & Vacations,Cruises
+2025-02-28,KROGER #5827,205.75,Food & Dining,Groceries
+2024-02-08,CITY WATER UTILITY,45.38,Utilities & Communication,Water/sewer
+2025-07-10,THE CHEESECAKE FACTORY,81.85,Food & Dining,Dining out
+2025-02-27,CHEWY.COM BIRD,69.94,Pets,Bird supplies
+2025-11-15,NORWEGIAN CRUISE LINE,651.43,Travel & Vacations,Cruises
+2025-11-18,PETCO #6867,34.48,Pets,Pet food & supplies
+2025-01-23,TOYOTA FINANCIAL SVC,287.4,Transportation & Vehicle,Car payments
+2025-04-25,MUTUAL OF OMAHA LTC,246.85,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2024-01-13,SKILLSHARE SUBSCRIPTION,357.16,Entertainment & Leisure,Classes
+2025-10-29,VITAMIN SHOPPE #818,27.79,Personal Care & Apparel,Supplements/vitamins
+2025-12-05,GRUBHUB ORDER #5140,50.85,Food & Dining,Meal delivery services
+2024-04-01,ZELLE TRANSFER TO FAMILY,328.55,Family & Dependent Support,Routine family financial assistance.
+2024-12-19,HOA MGMT ASSOC #1876,418.46,Housing & Real Estate,HOA fees
+2025-07-21,ST JUDE DONATION,458.09,Gifts & Charity,Charitable donations
+2024-07-04,FOOT LOCKER #9421,130.15,Personal Care & Apparel,Shoes
+2025-11-05,WASTE MANAGEMENT INC,56.36,Utilities & Communication,Trash
+2025-05-15,JIFFY LUBE #2393,659.47,Transportation & Vehicle,Vehicle maintenance & repairs
+2024-11-20,DUNKIN' #1308,4.13,Food & Dining,Coffee shops
+2024-03-31,RITE AID PHARMACY,16.24,Healthcare,Prescriptions
+2025-10-22,MUNICIPAL WATER DEPT,89.89,Utilities & Communication,Water/sewer
+2025-07-23,PROPERTY TAX ESCROW,1711.32,Housing & Real Estate,Property Taxes
+2025-07-13,JOHN HANCOCK LTC,158.6,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2024-09-13,CHASE CARD PAYMENT,152.1,Debts & Loans,Credit card balances
+2024-09-11,ASSOCIA HOA DUES,511.01,Housing & Real Estate,HOA fees
+2025-11-09,UNITED AIRLINES,669.54,Travel & Vacations,Flights
+2025-01-25,TRAVELERS UMBRELLA,32.23,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2025-07-06,LOWE'S #2235,1633.37,Household,Appliances
+2024-04-25,WESTERN UNION TRANSFER,213.34,Family & Dependent Support,Routine family financial assistance.
+2025-01-17,COUNTY VEHICLE LICENSE,297.1,Transportation & Vehicle,Registration/licensing
+2024-06-30,GAP #8088,83.19,Personal Care & Apparel,Clothing
+2025-11-07,BRIGHT SMILES DENTAL,137.07,Healthcare,Dental/vision care
+2025-02-14,STAPLES #1742,40.02,Household,Office Expenses
+2025-09-17,GUITAR CENTER #5234,123.42,Entertainment & Leisure,Hobbies
+2025-11-25,UPSTART LOAN PYMT,299.71,Debts & Loans,Personal installment loans
+2024-03-20,LOWE'S #6085,1099.05,Household,Appliances
+2024-10-06,CENTERPOINT ENERGY,102.78,Utilities & Communication,Gas
+2024-03-17,CON EDISON UTILITY,273.39,Utilities & Communication,Electricity
+2025-11-08,DSW #9830,179.18,Personal Care & Apparel,Shoes
+2024-04-05,GUARDIAN DISABILITY INS,93.81,Insurance (Non-housing/Non-auto),Disability insurance
+2024-07-09,MICHAELS STORES #6736,129.65,Entertainment & Leisure,Hobbies
+2024-07-14,SHELL OIL #8875,72.1,Transportation & Vehicle,Gas/fuel
+2024-05-19,MUTUAL OF OMAHA LTC,164.82,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2024-02-07,URGENT CARE CLINIC,307.29,Healthcare,Out-of-pocket medical costs
+2025-06-20,PETSMART #5162,85.74,Pets,Pet food & supplies
+2025-09-10,CHASE MORTGAGE PYMT,2555.99,Housing & Real Estate,Mortgage
+2025-06-15,LYFT RIDE,12.32,Transportation & Vehicle,Public transit/ride-sharing
+2025-12-13,HANDYMAN PRO SVC,243.83,Housing & Real Estate,Maintenance & repairs
+2025-10-06,LENSCRAFTERS #8156,74.08,Healthcare,Dental/vision care
+2025-02-28,TARGET #5636,16.84,Personal Care & Apparel,Cosmetics/personal hygiene products
+2025-05-25,COMFORT KEEPERS,978.22,Family & Dependent Support,Elder care support
+2024-10-29,HOBBY LOBBY #502,101.73,Entertainment & Leisure,Hobbies
+2024-02-22,LENSCRAFTERS #7316,196.72,Healthcare,Dental/vision care
+2025-11-27,PROGRESSIVE INSURANCE,163.41,Transportation & Vehicle,Auto insurance
+2025-06-05,ASSOCIA HOA DUES,308.02,Housing & Real Estate,HOA fees
+2025-05-16,REGIONAL MEDICAL CTR,599.36,Healthcare,Out-of-pocket medical costs
+2025-11-05,RED CROSS DONATION,57.17,Gifts & Charity,Charitable donations
+2025-12-13,TARGET #6471,27.48,Personal Care & Apparel,Cosmetics/personal hygiene products
+2024-04-07,FOOT LOCKER #7079,139.47,Personal Care & Apparel,Shoes
+2025-04-25,KROGER #2373,170.56,Food & Dining,Groceries
+2025-07-03,ASSOCIA HOA DUES,455.78,Housing & Real Estate,HOA fees
+2025-06-20,PRUDENTIAL LIFE INS,191.14,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2025-12-02,SPECTRUM CABLE TV,75.97,Utilities & Communication,Cable/streaming services
+2024-12-15,AETNA SUPPLEMENTAL,251.79,Healthcare,Private supplemental health insurance
+2025-04-10,DMV VEHICLE REG,164.33,Transportation & Vehicle,Registration/licensing
+2025-02-27,WILD BIRD CENTER #7677,56.61,Pets,Bird supplies
+2025-04-29,URGENT CARE CLINIC,204.54,Healthcare,Out-of-pocket medical costs
+2025-08-06,ETSY.COM ORDER,136.52,Gifts & Charity,Holiday/birthday gifts
+2025-11-22,HOME DEPOT APPLIANCES,292.68,Household,Appliances
+2024-01-07,BASKIN ROBBINS #5401,18.84,Food & Dining,Snacks & Desserts
+2024-09-09,STATE FARM AUTO,140.21,Transportation & Vehicle,Auto insurance
+2025-07-13,SSA MEDICARE DEDUCT,179.6,Healthcare,"Medicare premiums (Parts B, C, D)"
+2025-12-02,LOCAL BISTRO #2968,119.65,Food & Dining,Dining out
+2024-06-18,AXS TICKET PURCHASE,199.01,Entertainment & Leisure,Event tickets
+2024-11-06,T-MOBILE PAYMENT,90.28,Utilities & Communication,Cell phone
+2025-08-09,GREAT CLIPS #7621,61.64,Personal Care & Apparel,Salon/barber visits
+2025-12-17,STAPLES #3864,72.52,Household,Office Expenses
+2024-05-22,USAA UMBRELLA POLICY,19.07,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2024-02-02,WELLS FARGO HOME MTG,2144.79,Housing & Real Estate,Mortgage
+2024-01-05,NORDSTROM #3222,18.67,Personal Care & Apparel,Clothing
+2025-05-12,SPECTRUM INTERNET,88.03,Utilities & Communication,Internet
+2025-07-28,ROCKET MORTGAGE LLC,2163.23,Housing & Real Estate,Mortgage
+2024-06-10,WALMART #4019,67.23,Household,Misc
+2025-09-11,KROGER #2755,182.46,Food & Dining,Groceries
+2024-06-29,CIGNA SUPP HEALTH,145.9,Healthcare,Private supplemental health insurance
+2024-03-27,DICK'S SPORTING GOODS,487.79,Entertainment & Leisure,Recreational equipment
+2024-08-31,KROGER #6068,153.65,Food & Dining,Groceries
+2025-12-29,BRIGHT SMILES DENTAL,259.0,Healthcare,Dental/vision care
+2025-08-12,METRO TRANSIT FARE,27.38,Transportation & Vehicle,Public transit/ride-sharing
+2025-03-10,GENWORTH LTC INSURANCE,169.05,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2024-06-01,WAYFAIR.COM,975.88,Household,Furniture
+2024-08-21,TRIPADVISOR EXPERIENCES,566.79,Travel & Vacations,Tour packages
+2025-04-06,GEICO AUTO INSURANCE,197.8,Transportation & Vehicle,Auto insurance
+2024-03-16,AMEX BILL PAYMENT,423.14,Debts & Loans,Credit card balances
+2025-02-17,OLD NAVY #3187,48.8,Personal Care & Apparel,Clothing
+2024-07-21,RITE AID PHARMACY,110.26,Healthcare,Prescriptions
+2024-11-02,GRUBHUB ORDER #8125,46.89,Food & Dining,Meal delivery services
+2025-09-17,TRUPANION PET INSURANCE,48.6,Pets,Pet insurance
+2024-05-19,REGIONAL MEDICAL CTR,452.85,Healthcare,Out-of-pocket medical costs
+2024-04-21,COLD STONE CREAMERY,6.89,Food & Dining,Snacks & Desserts
+2024-04-03,ZELLE TRANSFER TO FAMILY,168.27,Family & Dependent Support,Routine family financial assistance.
+2024-04-20,REPUBLIC SERVICES,41.31,Utilities & Communication,Trash
+2025-09-14,OLIVE GARDEN #610,37.13,Food & Dining,Dining out
+2024-10-23,SOFI PERSONAL LOAN,433.3,Debts & Loans,Personal installment loans
+2024-03-21,PEET'S COFFEE #8601,11.05,Food & Dining,Coffee shops
+2024-01-03,DSW #7975,76.24,Personal Care & Apparel,Shoes
+2024-08-09,BEST BUY #4744,1710.33,Household,Appliances
+2025-04-15,CIGNA SUPP HEALTH,367.47,Healthcare,Private supplemental health insurance
+2025-01-15,PRUDENTIAL LIFE INS,222.95,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2025-07-31,MUTUAL OF OMAHA LTC,239.86,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2024-09-04,EXPEDIA TOUR PACKAGE,564.07,Travel & Vacations,Tour packages
+2024-08-13,TREASURER TAX OFC,1113.36,Housing & Real Estate,Property Taxes
+2024-09-07,ROCKET MORTGAGE LLC,1473.82,Housing & Real Estate,Mortgage
+2024-04-28,COMMUNITY HOA FEE,592.91,Housing & Real Estate,HOA fees
+2024-05-20,NETFLIX.COM,26.58,Utilities & Communication,Cable/streaming services
+2024-07-02,HONDA FINANCIAL,422.23,Transportation & Vehicle,Car payments
+2025-09-03,VCA ANIMAL HOSPITAL,359.88,Pets,Vet care
+2024-03-01,COUNTY TAX COLLECTOR,3080.42,Housing & Real Estate,Property Taxes
+2025-02-19,LOWE'S #3049,978.29,Household,Appliances
+2025-10-26,NIKE STORE #7935,148.98,Personal Care & Apparel,Shoes
+2024-09-29,FIRST BAPTIST CHURCH,112.08,Gifts & Charity,Tithing
+2024-03-14,USAA UMBRELLA POLICY,21.04,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2025-06-23,GENWORTH LTC INSURANCE,94.1,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2024-08-25,AMAZON.COM,54.0,Household,Misc
+2025-10-18,IKEA #3729,1441.67,Household,Furniture
+2025-08-02,SOCALGAS PAYMENT,67.54,Utilities & Communication,Gas
+2025-01-24,VCA ANIMAL HOSPITAL,192.57,Pets,Vet care
+2025-12-04,NORDSTROM #8687,84.26,Personal Care & Apparel,Clothing
+2024-01-13,NEW YORK TIMES SUB,17.13,Entertainment & Leisure,Books/Periodicals
+2024-10-02,BARNES & NOBLE #6192,14.6,Entertainment & Leisure,Books/Periodicals
+2025-05-09,TARGET #7191,76.78,Personal Care & Apparel,Cosmetics/personal hygiene products
+2024-10-09,OFFICE DEPOT #9351,61.19,Household,Office Expenses
+2024-08-25,IKEA #3685,1537.26,Household,Furniture
+2024-09-28,GRUBHUB ORDER #536,41.86,Food & Dining,Meal delivery services
+2024-10-20,CENTERPOINT ENERGY,140.5,Utilities & Communication,Gas
+2024-12-13,COUNTY TAX COLLECTOR,587.9,Housing & Real Estate,Property Taxes
+2024-02-27,ROCKET MORTGAGE LLC,1718.85,Housing & Real Estate,Mortgage
+2025-08-17,PETSMART #3487,81.77,Pets,Pet food & supplies
+2024-05-24,NETFLIX.COM,55.78,Utilities & Communication,Cable/streaming services
+2024-01-15,NELNET STUDENT LOAN,528.93,Debts & Loans,Student loans
+2024-03-28,GREYSTAR PROPERTY MGMT,2520.42,Housing & Real Estate,Rent
+2024-04-09,TACO BELL #7466,9.96,Food & Dining,Fast food
+2024-10-21,QUEST DIAGNOSTICS,338.55,Healthcare,Out-of-pocket medical costs
+2025-04-21,7-ELEVEN #1117,14.02,Food & Dining,Snacks & Desserts
+2025-09-21,PEET'S COFFEE #2150,8.63,Food & Dining,Coffee shops
+2025-04-04,ROCKET MORTGAGE LLC,1871.23,Housing & Real Estate,Mortgage
+2025-10-07,MIDAS AUTO REPAIR,158.24,Transportation & Vehicle,Vehicle maintenance & repairs
+2024-11-14,AMAZON.COM BOOKS,48.22,Entertainment & Leisure,Books/Periodicals
+2024-12-02,CON EDISON UTILITY,77.67,Utilities & Communication,Electricity
+2025-06-03,GREYSTAR PROPERTY MGMT,2242.94,Housing & Real Estate,Rent
+2025-03-24,VENMO FAMILY SUPPORT,143.78,Family & Dependent Support,Routine family financial assistance.
+2024-08-06,STATE FARM INSURANCE,99.78,Housing & Real Estate,Homeowner's Insurance
+2025-01-26,PG&E ELECTRIC BILL,77.37,Utilities & Communication,Electricity
+2025-11-24,DICK'S SPORTING GOODS,266.46,Entertainment & Leisure,Recreational equipment
+2025-09-02,UNITEDHEALTH MEDIGAP,202.1,Healthcare,Private supplemental health insurance
+2024-09-19,AETNA SUPPLEMENTAL,239.51,Healthcare,Private supplemental health insurance
+2024-08-31,MARRIOTT HOTELS #5525,470.13,Travel & Vacations,Lodging
+2025-11-22,METLIFE DISABILITY,81.2,Insurance (Non-housing/Non-auto),Disability insurance
+2025-02-27,GAP #6353,123.62,Personal Care & Apparel,Clothing
+2025-01-23,JIFFY LUBE #3314,323.68,Transportation & Vehicle,Vehicle maintenance & repairs
+2025-04-01,APPLE.COM/BILL,9.05,Entertainment & Leisure,Apps/services
+2024-10-20,PRIVATE SCHOOL TUITION,2029.14,Family & Dependent Support,Child education/tuition
+2024-02-13,IKEA #4431,776.7,Household,Furniture
+2025-05-07,FIRST BAPTIST CHURCH,309.57,Gifts & Charity,Tithing
+2024-11-11,PETCO GROOMING SALON,24.1,Pets,Grooming
+2025-11-03,HULU SUBSCRIPTION,28.66,Utilities & Communication,Cable/streaming services
+2024-09-08,UNITEDHEALTH MEDIGAP,196.69,Healthcare,Private supplemental health insurance
+2024-09-03,CHICK-FIL-A #8381,14.14,Food & Dining,Fast food
+2024-11-20,RED CROSS DONATION,249.04,Gifts & Charity,Charitable donations
+2024-01-19,HULU SUBSCRIPTION,49.7,Utilities & Communication,Cable/streaming services
+2024-10-28,LOCAL PET GROOMER,33.32,Pets,Grooming
+2025-09-18,DUNKIN' #7411,4.93,Food & Dining,Coffee shops
+2024-12-29,GREAT CLIPS #3733,15.23,Personal Care & Apparel,Salon/barber visits
+2024-09-28,DICK'S SPORTING GOODS,167.99,Entertainment & Leisure,Recreational equipment
+2024-01-11,ASHLEY FURNITURE,765.9,Household,Furniture
+2025-07-06,PROPERTY TAX ESCROW,3389.53,Housing & Real Estate,Property Taxes
+2024-03-13,GUARDIAN DISABILITY INS,92.3,Insurance (Non-housing/Non-auto),Disability insurance
+2024-02-21,USAA HOMEOWNERS,164.67,Housing & Real Estate,Homeowner's Insurance
+2024-02-22,GRUBHUB ORDER #9577,40.99,Food & Dining,Meal delivery services
+2025-10-20,TRAVELEX INSURANCE,145.88,Travel & Vacations,Travel insurance
+2025-01-31,PETCO #1115,78.84,Pets,Pet food & supplies
+2024-10-22,RITE AID PHARMACY,150.12,Healthcare,Prescriptions
+2024-12-18,COSTCO WHOLESALE #3541,46.91,Household,Cleaning supplies
+2025-08-08,PG&E ELECTRIC BILL,112.19,Utilities & Communication,Electricity
+2025-11-18,WORLD NOMADS INSURANCE,138.32,Travel & Vacations,Travel insurance
+2025-05-23,FOOT LOCKER #2727,31.11,Personal Care & Apparel,Shoes
+2024-10-01,STATE FARM AUTO,102.5,Transportation & Vehicle,Auto insurance
+2024-12-05,EXPEDIA TOUR PACKAGE,352.89,Travel & Vacations,Tour packages
+2025-07-26,TARGET #1577,57.21,Household,Misc
+2025-10-31,USAA HOMEOWNERS,161.68,Housing & Real Estate,Homeowner's Insurance
+2024-04-27,ZILLOW RENTAL PYMT,2120.43,Housing & Real Estate,Rent
+2024-02-10,HOA MGMT ASSOC #785,288.72,Housing & Real Estate,HOA fees
+2025-01-23,CMS MEDICARE PART B,114.0,Healthcare,"Medicare premiums (Parts B, C, D)"
+2025-05-15,ZILLOW RENTAL PYMT,1998.42,Housing & Real Estate,Rent
+2025-08-07,WHOLE FOODS MKT #6126,154.05,Food & Dining,Groceries
+2024-02-02,COUNTY TAX COLLECTOR,1109.72,Housing & Real Estate,Property Taxes
+2025-12-25,UPSTART LOAN PYMT,81.56,Debts & Loans,Personal installment loans
+2025-09-06,TARGET #2691,113.77,Gifts & Charity,Holiday/birthday gifts
+2024-11-23,MEDICARE PREMIUM,103.47,Healthcare,"Medicare premiums (Parts B, C, D)"
+2024-03-12,ASSOCIA HOA DUES,275.37,,
+2025-02-04,UBER TRIP,21.72,Transportation & Vehicle,Public transit/ride-sharing
+2025-05-15,MIDAS AUTO REPAIR,261.3,Transportation & Vehicle,Vehicle maintenance & repairs
+2025-12-19,ASSOCIA HOA DUES,221.64,Housing & Real Estate,HOA fees
+2024-09-12,COUNTY TAX COLLECTOR,1263.49,Housing & Real Estate,Property Taxes
+2025-05-25,VENMO FAMILY SUPPORT,365.18,Family & Dependent Support,Routine family financial assistance.
+2025-07-16,NORTHWESTERN MUTUAL,149.36,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2024-02-14,WHOLE FOODS MKT #2812,162.84,Food & Dining,Groceries
+2024-03-28,BANFIELD PET HOSPITAL,540.1,Pets,Vet care
+2025-03-08,LA FITNESS MEMBERSHIP,150.74,Entertainment & Leisure,Gym/club memberships
+2024-09-07,ACE HARDWARE #2514,80.52,Housing & Real Estate,Maintenance & repairs
+2024-07-16,LENSCRAFTERS #4218,146.05,Healthcare,Dental/vision care
+2024-12-26,REPUBLIC SERVICES,50.02,Utilities & Communication,Trash
+2025-12-07,ST MARY'S PARISH TITHE,85.7,Gifts & Charity,Tithing
+2025-07-26,PROGRESSIVE INSURANCE,222.46,Transportation & Vehicle,Auto insurance
+2025-12-24,NATIONWIDE PET INS,49.43,Pets,Pet insurance
+2025-08-06,ALLSTATE HOME INS,112.37,Housing & Real Estate,Homeowner's Insurance
+2024-03-02,JIFFY LUBE #8385,432.17,Transportation & Vehicle,Vehicle maintenance & repairs
+2025-07-26,STATE DMV FEE,186.62,Transportation & Vehicle,Registration/licensing
+2024-04-19,UNUM DISABILITY,33.38,Insurance (Non-housing/Non-auto),Disability insurance
+2024-05-14,STATE FARM INSURANCE,151.72,Housing & Real Estate,Homeowner's Insurance
+2025-03-16,CITY TRASH COLLECTION,63.27,Utilities & Communication,Trash
+2025-03-09,TREASURER TAX OFC,1736.26,Housing & Real Estate,Property Taxes
+2025-11-26,STATE FARM UMBRELLA,40.66,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2025-05-25,LOCAL BARBER SHOP,24.24,Personal Care & Apparel,Salon/barber visits
+2024-04-29,AMAZON.COM,32.95,Household,Misc
+2024-04-02,TRAVELEX INSURANCE,128.86,Travel & Vacations,Travel insurance
+2024-12-26,HOBBY LOBBY #9717,31.7,Entertainment & Leisure,Hobbies
+2024-12-15,PETCO BIRD SUPPLIES,50.52,Pets,Bird supplies
+2024-07-02,PETSMART GROOMING #2756,89.51,Pets,Grooming
+2025-05-28,CHEWY.COM,43.26,Pets,Pet food & supplies
+2025-09-04,EXXONMOBIL #9538,45.73,Transportation & Vehicle,Gas/fuel
+2025-09-16,PLANET FITNESS #8791,110.13,Entertainment & Leisure,Gym/club memberships
+2025-04-20,CENTERPOINT ENERGY,34.8,Utilities & Communication,Gas
+2024-12-10,CIGNA SUPP HEALTH,300.46,Healthcare,Private supplemental health insurance
+2024-04-19,RED CROSS DONATION,353.65,Gifts & Charity,Charitable donations
+2025-09-16,BRIGHT SMILES DENTAL,325.67,Healthcare,Dental/vision care
+2025-09-18,SUPERCUTS #6321,96.81,Personal Care & Apparel,Salon/barber visits
+2024-02-22,USAA HOMEOWNERS,211.9,Housing & Real Estate,Homeowner's Insurance
+2025-12-14,VCA ANIMAL HOSPITAL,172.46,Pets,Vet care
+2024-03-04,UBER EATS,54.28,Food & Dining,Meal delivery services
+2025-12-07,LENSCRAFTERS #2058,381.73,Healthcare,Dental/vision care
+2024-01-30,LOCAL DAYCARE CENTER,1030.44,Family & Dependent Support,Childcare
+2025-08-16,UPSTART LOAN PYMT,142.56,Debts & Loans,Personal installment loans
+2025-06-04,STATE FARM INSURANCE,95.36,Housing & Real Estate,Homeowner's Insurance
+2025-07-28,ZILLOW RENTAL PYMT,1469.94,Housing & Real Estate,Rent
+2025-06-19,BANFIELD PET HOSPITAL,174.51,Pets,Vet care
+2025-01-22,PETCO GROOMING SALON,95.98,Pets,Grooming
+2024-08-17,WASTE MANAGEMENT INC,52.84,Utilities & Communication,Trash
+2025-08-09,BASKIN ROBBINS #5047,12.48,Food & Dining,Snacks & Desserts
+2025-07-17,TARGET #5872,181.96,Gifts & Charity,Holiday/birthday gifts
+2024-09-26,UNITED WAY DONATION,154.88,Gifts & Charity,Charitable donations
+2024-10-08,ROCKET MORTGAGE LLC,1378.13,Housing & Real Estate,Mortgage
+2025-08-14,MASSMUTUAL LIFE,98.75,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2024-07-23,GOOGLE PLAY APPS,6.02,Entertainment & Leisure,Apps/services
+2024-08-12,APPLE.COM/BILL,10.02,Entertainment & Leisure,Apps/services
+2024-08-11,CAPITAL ONE PAYMENT,1164.63,Debts & Loans,Credit card balances
+2025-07-07,COUNTY TAX COLLECTOR,556.82,Housing & Real Estate,Property Taxes
+2025-08-17,TARGET #4207,13.11,Household,Cleaning supplies
+2024-06-26,GRUBHUB ORDER #6273,29.12,Food & Dining,Meal delivery services
+2024-10-17,MONTESSORI ACADEMY,1300.91,Family & Dependent Support,Child education/tuition
+2025-11-20,AMAZON.COM BOOKS,14.21,Entertainment & Leisure,Books/Periodicals
+2025-04-29,CHEVRON #3112,74.04,Transportation & Vehicle,Gas/fuel
+2025-08-27,WAYFAIR.COM,845.96,Household,Furniture
+2025-08-09,TARGET #2119,10.17,Household,Cleaning supplies
+2024-03-28,COMMUNITY CHURCH GIVING,171.69,Gifts & Charity,Tithing
+2024-05-04,VENMO FAMILY SUPPORT,671.19,Family & Dependent Support,Routine family financial assistance.
+2025-10-19,CITY WATER UTILITY,102.9,Utilities & Communication,Water/sewer
+2024-03-29,NORTHWESTERN MUTUAL,89.73,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2025-10-03,IKEA #8924,441.08,Household,Furniture
+2025-05-31,BEST BUY #3415,988.61,,
+2024-03-15,ALLSTATE HOME INS,330.83,Housing & Real Estate,Homeowner's Insurance
+2025-11-02,UBER EATS,56.58,Food & Dining,Meal delivery services
+2024-05-14,MONTESSORI ACADEMY,3207.11,Family & Dependent Support,Child education/tuition
+2025-12-09,TOYOTA FINANCIAL SVC,334.57,Transportation & Vehicle,Car payments
+2025-01-20,WORLD NOMADS INSURANCE,77.98,Travel & Vacations,Travel insurance
+2025-11-18,PROPERTY TAX ESCROW,1636.88,Housing & Real Estate,Property Taxes
+2024-04-02,NIKE STORE #8195,48.12,Personal Care & Apparel,Shoes
+2024-07-10,GEICO AUTO INSURANCE,112.53,Transportation & Vehicle,Auto insurance
+2024-06-07,OFFICE DEPOT #6798,60.72,Household,Office Expenses
+2025-07-26,OLD NAVY #2196,166.89,Personal Care & Apparel,Clothing
+2025-01-14,CIGNA SUPP HEALTH,228.51,Healthcare,Private supplemental health insurance
+2024-07-13,ASSOCIA HOA DUES,554.78,Housing & Real Estate,HOA fees
+2024-03-07,APPLE.COM/BILL,3.48,Entertainment & Leisure,Apps/services
+2024-07-24,CENTERPOINT ENERGY,89.4,Utilities & Communication,Gas
+2024-04-11,ASSISTED LIVING FACILITY,214.5,Family & Dependent Support,Elder care support
+2025-09-18,MARRIOTT HOTELS #3083,397.22,Travel & Vacations,Lodging
+2025-03-07,MUTUAL OF OMAHA LTC,236.12,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2024-02-13,VENMO FAMILY SUPPORT,168.96,Family & Dependent Support,Routine family financial assistance.
+2024-10-07,OLD NAVY #1050,15.97,Personal Care & Apparel,Clothing
+2025-08-22,OLD NAVY #5528,91.19,Personal Care & Apparel,Clothing
+2025-09-29,VCA ANIMAL HOSPITAL,402.21,Pets,Vet care
+2025-11-03,PETSMART #5699,108.69,Pets,Pet food & supplies
+2024-12-14,WELLS FARGO HOME MTG,2317.02,Housing & Real Estate,Mortgage
+2025-07-23,WASTE MANAGEMENT INC,37.51,Utilities & Communication,Trash
+2024-07-09,COLD STONE CREAMERY,6.63,Food & Dining,Snacks & Desserts
+2025-07-20,LENSCRAFTERS #845,488.18,Healthcare,Dental/vision care
+2025-02-22,METRO TRANSIT FARE,5.9,Transportation & Vehicle,Public transit/ride-sharing
+2025-02-22,CENTERPOINT ENERGY,71.84,Utilities & Communication,Gas
+2025-01-04,WAYFAIR.COM,461.14,Household,Furniture
+2025-07-19,GUITAR CENTER #4096,108.04,Entertainment & Leisure,Hobbies
+2025-10-12,HOBBY LOBBY #7031,45.29,Entertainment & Leisure,Hobbies
+2024-06-27,SALLIE MAE PAYMENT,155.77,Debts & Loans,Student loans
+2024-02-25,ULTA BEAUTY #5222,87.2,Personal Care & Apparel,Cosmetics/personal hygiene products
+2025-06-27,COMCAST XFINITY,50.96,Utilities & Communication,Internet
+2024-08-21,THE HOME DEPOT #1254,37.9,Household,Cleaning supplies
+2025-05-23,WILD BIRD CENTER #2225,46.09,Pets,Bird supplies
+2024-10-25,MARRIOTT HOTELS #3490,177.12,Travel & Vacations,Lodging
+2025-08-14,STUBHUB TICKETS,159.6,Entertainment & Leisure,Event tickets
+2025-10-04,T-MOBILE PAYMENT,143.03,Utilities & Communication,Cell phone
+2024-09-17,COUNTY VEHICLE LICENSE,45.66,Transportation & Vehicle,Registration/licensing
+2025-04-24,APARTMENTS.COM RENT,1672.43,Housing & Real Estate,Rent
+2025-01-24,PROGRESSIVE INSURANCE,233.07,Transportation & Vehicle,Auto insurance
+2025-07-03,COUNTY VEHICLE LICENSE,92.56,Transportation & Vehicle,Registration/licensing
+2025-09-24,NETFLIX.COM,62.28,Utilities & Communication,Cable/streaming services
+2024-09-27,VIATOR TOURS,709.64,Travel & Vacations,Tour packages
+2024-04-03,GREAT CLIPS #9228,72.66,Personal Care & Apparel,Salon/barber visits
+2024-07-23,BASKIN ROBBINS #7893,10.59,Food & Dining,Snacks & Desserts
+2024-08-28,TARGET #8275,75.03,Household,Misc
+2025-02-27,FIRST BAPTIST CHURCH,62.76,Gifts & Charity,Tithing
+2025-03-21,UNUM DISABILITY,96.83,Insurance (Non-housing/Non-auto),Disability insurance
+2024-06-20,AIRBNB PAYMENT,591.01,Travel & Vacations,Lodging
+2024-01-31,NEW YORK TIMES SUB,54.09,Entertainment & Leisure,Books/Periodicals
+2024-11-30,NATIONAL GRID GAS,165.99,Utilities & Communication,
+2025-10-06,GRUBHUB ORDER #7971,22.67,Food & Dining,Meal delivery services
+2024-03-21,UNUM DISABILITY,125.21,Insurance (Non-housing/Non-auto),Disability insurance
+2024-11-05,CON EDISON UTILITY,115.02,Utilities & Communication,Electricity
+2025-03-15,EQUINOX CLUB DUES,83.63,Entertainment & Leisure,Gym/club memberships
+2024-09-02,JIFFY LUBE #3450,381.1,Transportation & Vehicle,Vehicle maintenance & repairs
+2024-02-26,COUNTY VEHICLE LICENSE,155.83,Transportation & Vehicle,Registration/licensing
+2024-05-17,ULTA BEAUTY #9755,86.41,Personal Care & Apparel,Cosmetics/personal hygiene products
+2024-02-26,AMAZON.COM BOOKS,34.56,Entertainment & Leisure,Books/Periodicals
+2024-12-17,EQUINOX CLUB DUES,156.39,Entertainment & Leisure,Gym/club memberships
+2024-10-16,ST JUDE DONATION,85.52,Gifts & Charity,Charitable donations
+2024-07-04,ZELLE TRANSFER TO FAMILY,457.39,Family & Dependent Support,Routine family financial assistance.
+2025-11-12,METLIFE DISABILITY,110.95,Insurance (Non-housing/Non-auto),Disability insurance
+2025-02-12,NAVIENT LOAN PYMT,183.8,Debts & Loans,Student loans
+2025-11-23,LOCAL BARBER SHOP,51.3,Personal Care & Apparel,Salon/barber visits
+2024-01-08,OFFICE DEPOT #3196,10.77,Household,Office Expenses
+2025-07-17,ETSY.COM ORDER,54.58,Gifts & Charity,Holiday/birthday gifts
+2024-07-16,PETCO #7863,25.13,Pets,Pet food & supplies
+2025-11-28,WORLD NOMADS INSURANCE,107.57,Travel & Vacations,Travel insurance
+2024-10-08,TRUPANION PET INSURANCE,49.73,Pets,Pet insurance
+2025-05-08,PETCO BIRD SUPPLIES,48.03,Pets,Bird supplies
+2024-05-15,ALLIANZ TRAVEL INS,84.26,Travel & Vacations,Travel insurance
+2025-01-21,UBER TRIP,33.04,Transportation & Vehicle,Public transit/ride-sharing
+2025-03-08,TREASURER TAX OFC,1790.7,Housing & Real Estate,Property Taxes
+2025-01-25,CARNIVAL CRUISE LINE,880.69,Travel & Vacations,Cruises
+2024-12-28,HONDA FINANCIAL,350.97,Transportation & Vehicle,Car payments
+2025-11-18,COSTCO WHOLESALE #3283,13.96,Household,Cleaning supplies
+2025-02-26,UBER EATS,33.85,Food & Dining,Meal delivery services
+2025-09-30,ST JUDE DONATION,250.06,Gifts & Charity,Charitable donations
+2024-05-11,GREYSTAR PROPERTY MGMT,2248.75,Housing & Real Estate,Rent
+2025-04-26,HOA MGMT ASSOC #6367,542.48,Housing & Real Estate,HOA fees
+2024-01-02,AIRBNB PAYMENT,154.95,Travel & Vacations,Lodging
+2024-08-18,STUBHUB TICKETS,33.99,Entertainment & Leisure,Event tickets
+2024-11-01,NATIONWIDE PET INS,56.9,Pets,Pet insurance
+2025-03-20,TOYOTA FINANCIAL SVC,449.94,Transportation & Vehicle,Car payments
+2025-12-23,NAVIENT LOAN PYMT,289.9,Debts & Loans,Student loans
+2024-07-11,TRIPADVISOR EXPERIENCES,537.71,Travel & Vacations,Tour packages
+2024-12-26,T-MOBILE PAYMENT,108.93,Utilities & Communication,Cell phone
+2025-09-27,UNUM DISABILITY,73.75,Insurance (Non-housing/Non-auto),Disability insurance
+2025-08-02,PG&E ELECTRIC BILL,176.86,Utilities & Communication,Electricity
+2025-07-28,SOCALGAS PAYMENT,28.88,Utilities & Communication,Gas
+2024-02-26,BARNES & NOBLE #7528,39.84,Entertainment & Leisure,Books/Periodicals
+2024-10-12,GNC #6280,12.44,Personal Care & Apparel,Supplements/vitamins
+2025-10-22,METRO TRANSIT FARE,4.86,Transportation & Vehicle,Public transit/ride-sharing
+2024-10-14,TOYOTA FINANCIAL SVC,523.77,Transportation & Vehicle,Car payments
+2025-09-26,CHASE CARD PAYMENT,99.36,Debts & Loans,Credit card balances
+2024-09-18,COMCAST XFINITY,94.88,Utilities & Communication,Internet
+2025-10-02,KINDERCARE LEARNING CTR,233.17,Family & Dependent Support,Childcare
+2024-01-27,MONTESSORI ACADEMY,2832.48,Family & Dependent Support,Child education/tuition
+2025-11-10,TARGET #1385,69.2,Household,Misc
+2024-04-09,TACO BELL #2046,7.57,Food & Dining,Fast food
+2025-07-24,ROTO-ROOTER PLUMBING,450.22,Housing & Real Estate,Maintenance & repairs
+2024-01-02,AIRBNB PAYMENT,491.38,Travel & Vacations,Lodging
+2024-06-12,ZILLOW RENTAL PYMT,1329.26,Housing & Real Estate,Rent
+2024-05-23,COLD STONE CREAMERY,3.72,Food & Dining,Snacks & Desserts
+2024-02-29,STATE FARM INSURANCE,160.11,Housing & Real Estate,Homeowner's Insurance
+2024-03-15,HANDYMAN PRO SVC,573.47,Housing & Real Estate,Maintenance & repairs
+2025-02-15,TRIPADVISOR EXPERIENCES,563.8,Travel & Vacations,Tour packages
+2024-11-29,METRO TRANSIT FARE,35.84,Transportation & Vehicle,Public transit/ride-sharing
+2025-06-16,AMAZON.COM OFFICE,83.16,Household,Office Expenses
+2025-09-14,NATIONWIDE PET INS,55.37,Pets,Pet insurance
+2024-09-14,CHASE CARD PAYMENT,1101.61,Debts & Loans,Credit card balances
+2025-02-08,GOOGLE PLAY APPS,21.08,Entertainment & Leisure,Apps/services
+2024-09-24,MARRIOTT HOTELS #4931,100.24,Travel & Vacations,Lodging
+2025-08-13,SUPERCUTS #8698,95.59,Personal Care & Apparel,Salon/barber visits
+2024-06-01,MASSMUTUAL LIFE,55.88,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2024-07-14,SEPHORA #6537,25.68,Personal Care & Apparel,Cosmetics/personal hygiene products
+2025-08-08,HULU SUBSCRIPTION,82.54,Utilities & Communication,Cable/streaming services
+2025-08-01,AT&T MOBILITY,91.11,Utilities & Communication,Cell phone
+2025-05-09,OFFICE DEPOT #9145,119.73,Household,Office Expenses
+2024-09-17,PETCO BIRD SUPPLIES,50.78,Pets,Bird supplies
+2025-05-14,DUKE ENERGY PAYMT,197.9,Utilities & Communication,Electricity
+2025-03-25,PETSMART #3451,17.27,Pets,Pet food & supplies
+2024-05-09,ROYAL CARIBBEAN CRUISE,2502.0,Travel & Vacations,Cruises
+2024-11-19,WELLS FARGO HOME MTG,2514.88,Housing & Real Estate,Mortgage
+2025-06-11,VIATOR TOURS,667.55,Travel & Vacations,Tour packages
+2024-08-17,GUARDIAN DISABILITY INS,81.17,Insurance (Non-housing/Non-auto),Disability insurance
+2024-02-05,CAPITAL ONE PAYMENT,425.54,Debts & Loans,Credit card balances
+2025-12-28,AXS TICKET PURCHASE,121.42,Entertainment & Leisure,Event tickets
+2024-10-18,LOCAL DAYCARE CENTER,868.87,Family & Dependent Support,Childcare
+2024-09-06,HANDYMAN PRO SVC,475.28,Housing & Real Estate,Maintenance & repairs
+2025-12-03,ASSISTED LIVING FACILITY,933.49,Family & Dependent Support,Elder care support
+2024-06-02,CARNIVAL CRUISE LINE,692.55,Travel & Vacations,Cruises
+2025-11-02,ALLIANZ TRAVEL INS,115.16,Travel & Vacations,Travel insurance
+2025-01-15,HOME INSTEAD SENIOR CARE,2135.23,Family & Dependent Support,Elder care support
+2025-02-02,MICHAELS STORES #7465,122.52,Entertainment & Leisure,Hobbies
+2025-10-10,VERIZON WIRELESS,44.55,Utilities & Communication,Cell phone
+2025-02-25,TICKETMASTER EVENT,62.29,Entertainment & Leisure,Event tickets
+2025-09-26,APPLE.COM/BILL,3.76,Entertainment & Leisure,Apps/services
+2024-10-05,AMAZON.COM BOOKS,49.97,Entertainment & Leisure,Books/Periodicals
+2024-03-22,LOCAL BISTRO #4913,58.55,Food & Dining,Dining out
+2025-02-06,SHELL OIL #3024,89.54,Transportation & Vehicle,Gas/fuel
+2025-06-11,CHICK-FIL-A #2540,17.13,Food & Dining,Fast food
+2025-08-06,AETNA SUPPLEMENTAL,325.14,Healthcare,Private supplemental health insurance
+2025-06-16,DMV VEHICLE REG,82.78,Transportation & Vehicle,Registration/licensing
+2024-02-13,LENDINGCLUB PAYMENT,410.87,Debts & Loans,Personal installment loans
+2024-05-01,PETCO #1211,71.31,Pets,Pet food & supplies
+2025-01-19,MARRIOTT HOTELS #1315,264.32,Travel & Vacations,Lodging
+2024-08-13,KINDERCARE LEARNING CTR,1019.85,Family & Dependent Support,Childcare
+2025-07-27,MONTESSORI ACADEMY,1932.62,Family & Dependent Support,Child education/tuition
+2024-11-15,CHEWY.COM,26.8,Pets,Pet food & supplies
+2025-04-13,AXS TICKET PURCHASE,104.38,Entertainment & Leisure,Event tickets
+2024-11-06,VIATOR TOURS,664.87,Travel & Vacations,Tour packages
+2025-08-04,DICK'S SPORTING GOODS,55.92,Entertainment & Leisure,Recreational equipment
+2025-01-13,STATE FARM INSURANCE,317.4,Housing & Real Estate,Homeowner's Insurance
+2025-07-25,ETSY.COM ORDER,190.29,Gifts & Charity,Holiday/birthday gifts
+2024-02-14,TRADER JOE'S #6497,194.03,Food & Dining,Groceries
+2024-04-09,HILTON HOTELS #9933,334.97,Travel & Vacations,Lodging
+2024-09-26,CARNIVAL CRUISE LINE,1543.33,Travel & Vacations,Cruises
+2025-07-03,METRO TRANSIT FARE,40.61,Transportation & Vehicle,Public transit/ride-sharing
+2024-07-30,AXS TICKET PURCHASE,63.29,Entertainment & Leisure,Event tickets
+2025-04-21,BARNES & NOBLE #6668,11.58,Entertainment & Leisure,Books/Periodicals
+2025-12-05,STAPLES #6244,101.64,Household,Office Expenses
+2024-08-01,RED CROSS DONATION,465.8,Gifts & Charity,Charitable donations
+2024-03-06,MONTESSORI ACADEMY,694.44,Family & Dependent Support,Child education/tuition
+2025-11-05,LYFT RIDE,13.16,Transportation & Vehicle,Public transit/ride-sharing
+2025-04-01,LOCAL PET GROOMER,78.41,Pets,Grooming
+2024-07-01,CHASE CARD PAYMENT,934.94,Debts & Loans,Credit card balances
+2024-01-06,PROGRESSIVE INSURANCE,108.11,Transportation & Vehicle,Auto insurance
+2025-10-03,GNC #8914,41.99,Personal Care & Apparel,Supplements/vitamins
+2024-04-03,COUNTY VEHICLE LICENSE,191.62,Transportation & Vehicle,Registration/licensing
+2025-12-10,7-ELEVEN #4385,13.77,Food & Dining,Snacks & Desserts
+2025-11-04,COMCAST XFINITY,84.58,Utilities & Communication,Internet
+2025-09-25,BRIGHT SMILES DENTAL,314.22,Healthcare,Dental/vision care
+2024-02-25,PROPERTY TAX ESCROW,1847.78,Housing & Real Estate,Property Taxes
+2024-07-01,TRUPANION PET INSURANCE,35.85,Pets,Pet insurance
+2025-11-12,WASTE MANAGEMENT INC,40.54,Utilities & Communication,Trash
+2024-06-07,AQUA WATER SEWER,76.1,Utilities & Communication,Water/sewer
+2025-05-31,ROTO-ROOTER PLUMBING,744.61,Housing & Real Estate,Maintenance & repairs
+2025-11-02,NEW YORK TIMES SUB,49.76,Entertainment & Leisure,Books/Periodicals
+2024-05-26,PRUDENTIAL LIFE INS,200.62,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2025-08-13,COMFORT KEEPERS,1054.91,Family & Dependent Support,Elder care support
+2024-05-17,ST JUDE DONATION,195.11,Gifts & Charity,Charitable donations
+2025-03-28,VCA ANIMAL HOSPITAL,446.71,Pets,Vet care
+2024-03-09,LOCAL BISTRO #7279,24.18,Food & Dining,Dining out
+2025-12-31,TREASURER TAX OFC,2538.59,Housing & Real Estate,Property Taxes
+2025-11-08,NIKE STORE #252,71.67,Personal Care & Apparel,Shoes
+2024-06-30,UBER TRIP,23.12,Transportation & Vehicle,Public transit/ride-sharing
+2024-11-11,CHEWY.COM BIRD,15.24,Pets,Bird supplies
+2024-01-27,UNITEDHEALTH MEDIGAP,132.43,Healthcare,Private supplemental health insurance
+2024-03-14,CVS PHARMACY #4452,150.53,Healthcare,Prescriptions
+2025-06-01,IHERB.COM,14.09,Personal Care & Apparel,Supplements/vitamins
+2024-05-21,APARTMENTS.COM RENT,1428.98,Housing & Real Estate,Rent
+2024-10-08,UNITED WAY DONATION,368.88,Gifts & Charity,Charitable donations
+2025-01-12,UBER EATS,51.71,Food & Dining,Meal delivery services
+2025-03-01,GENWORTH LTC INSURANCE,92.93,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2025-12-18,UNIVERSITY TUITION PYMT,1407.91,Family & Dependent Support,Child education/tuition
+2025-02-09,EQUINOX CLUB DUES,46.48,Entertainment & Leisure,Gym/club memberships
+2025-06-20,ST MARY'S PARISH TITHE,40.57,Gifts & Charity,Tithing
+2024-11-11,STATE DMV FEE,214.92,Transportation & Vehicle,Registration/licensing
+2024-12-26,CMS MEDICARE PART B,136.32,Healthcare,"Medicare premiums (Parts B, C, D)"
+2025-12-23,HOBBY LOBBY #2926,164.61,Entertainment & Leisure,Hobbies
+2024-11-12,SPECTRUM INTERNET,90.68,Utilities & Communication,Internet
+2025-10-18,THE HOME DEPOT #2038,35.81,Household,Cleaning supplies
+2025-05-04,UBER EATS,59.92,Food & Dining,Meal delivery services
+2024-02-27,CHEVRON #3939,60.08,Transportation & Vehicle,Gas/fuel
+2025-12-13,JOHN HANCOCK LTC,274.46,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2025-12-12,LOCAL VETERINARY CLINIC,694.92,Pets,Vet care
+2025-06-24,DMV VEHICLE REG,176.63,Transportation & Vehicle,Registration/licensing
+2024-11-28,CHEWY.COM,63.89,Pets,Pet food & supplies
+2025-10-19,VITAMIN SHOPPE #7401,24.42,Personal Care & Apparel,Supplements/vitamins
+2024-06-27,CITY WATER UTILITY,89.42,Utilities & Communication,Water/sewer
+2024-10-29,SPOTIFY PREMIUM,8.41,Entertainment & Leisure,Apps/services
+2025-11-06,OFFICE DEPOT #2362,129.7,Household,Office Expenses
+2025-02-14,STAPLES #718,111.43,Household,Office Expenses
+2024-02-13,TOYOTA FINANCIAL SVC,607.92,Transportation & Vehicle,Car payments
+2025-10-15,ZELLE TRANSFER TO FAMILY,239.98,Family & Dependent Support,Routine family financial assistance.
+2025-11-27,DUNKIN' #1315,7.05,Food & Dining,Coffee shops
+2024-10-05,USAA HOMEOWNERS,229.37,Housing & Real Estate,Homeowner's Insurance
+2024-03-06,AQUA WATER SEWER,42.5,Utilities & Communication,Water/sewer
+2025-11-14,AMEX BILL PAYMENT,1053.72,Debts & Loans,Credit card balances
+2024-05-13,LA FITNESS MEMBERSHIP,107.57,Entertainment & Leisure,Gym/club memberships
+2024-05-18,PEET'S COFFEE #8147,4.8,Food & Dining,Coffee shops
+2024-09-28,AMEX BILL PAYMENT,1435.63,Debts & Loans,Credit card balances
+2024-06-07,TREASURER TAX OFC,2627.07,Housing & Real Estate,Property Taxes
+2025-10-11,GEICO AUTO INSURANCE,154.6,Transportation & Vehicle,Auto insurance
+2024-07-08,ST JUDE DONATION,257.92,Gifts & Charity,Charitable donations
+2024-03-02,AMEX BILL PAYMENT,532.35,Debts & Loans,Credit card balances
+2025-01-23,EXXONMOBIL #9020,52.57,Transportation & Vehicle,Gas/fuel
+2025-07-31,T-MOBILE PAYMENT,92.99,Utilities & Communication,Cell phone
+2025-03-20,OLD NAVY #1542,41.53,Personal Care & Apparel,Clothing
+2025-11-16,SUPERCUTS #9357,38.52,Personal Care & Apparel,Salon/barber visits
+2024-04-09,WELLS FARGO HOME MTG,1348.39,Housing & Real Estate,Mortgage
+2025-05-16,MUNICIPAL WATER DEPT,102.04,Utilities & Communication,Water/sewer
+2025-03-18,CVS PHARMACY #9898,16.78,Healthcare,Prescriptions
+2024-05-13,REI CO-OP #7226,337.97,Entertainment & Leisure,Recreational equipment
+2024-09-21,ROYAL CARIBBEAN CRUISE,2568.68,Travel & Vacations,Cruises
+2024-11-19,WAYFAIR.COM,1159.71,Household,Furniture
+2024-08-02,PRUDENTIAL LIFE INS,170.55,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2025-08-18,WAYFAIR.COM,120.52,Household,Furniture
+2025-07-29,7-ELEVEN #8924,6.88,Food & Dining,Snacks & Desserts
+2024-05-28,PETSMART #7146,119.53,Pets,Pet food & supplies
+2024-05-03,HOME INSTEAD SENIOR CARE,1197.27,Family & Dependent Support,Elder care support
+2024-01-01,CHASE CARD PAYMENT,996.65,Debts & Loans,Credit card balances
+2024-08-07,UBER EATS,48.63,Food & Dining,Meal delivery services
+2024-10-03,PROGRESSIVE INSURANCE,165.61,Transportation & Vehicle,Auto insurance
+2024-04-05,HOME DEPOT APPLIANCES,1379.05,Household,Appliances
+2025-04-21,ROTO-ROOTER PLUMBING,609.95,Housing & Real Estate,Maintenance & repairs
+2024-12-05,METRO TRANSIT FARE,30.16,Transportation & Vehicle,Public transit/ride-sharing
+2025-04-01,COMMUNITY CHURCH GIVING,399.0,Gifts & Charity,Tithing
+2025-04-25,ASPEN DENTAL #300,304.07,Healthcare,Dental/vision care
+2025-02-11,DUKE ENERGY PAYMT,197.12,Utilities & Communication,Electricity
+2025-12-07,CAPITAL ONE PAYMENT,539.24,Debts & Loans,Credit card balances
+2024-01-13,BARNES & NOBLE #8436,8.13,Entertainment & Leisure,Books/Periodicals
+2025-12-25,NETFLIX.COM,11.21,Utilities & Communication,Cable/streaming services
+2025-02-23,LOCAL BARBER SHOP,29.75,Personal Care & Apparel,Salon/barber visits
+2024-03-25,LOCAL COMMUNITY COLLEGE,285.2,Entertainment & Leisure,Classes
+2024-11-22,EXXONMOBIL #6344,76.08,Transportation & Vehicle,Gas/fuel
+2025-03-27,PRUDENTIAL LIFE INS,147.1,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2024-08-27,SHELL OIL #8355,89.58,Transportation & Vehicle,Gas/fuel
+2025-12-01,TRAVELEX INSURANCE,60.33,Travel & Vacations,Travel insurance
+2024-06-25,TRIPADVISOR EXPERIENCES,410.05,Travel & Vacations,Tour packages
+2024-09-12,LOCAL DAYCARE CENTER,608.96,Family & Dependent Support,Childcare
+2024-08-26,DELTA AIR LINES,190.4,Travel & Vacations,Flights
+2024-12-03,SPECTRUM CABLE TV,35.44,Utilities & Communication,Cable/streaming services
+2025-12-19,WELLS FARGO HOME MTG,2272.28,Housing & Real Estate,Mortgage
+2025-03-10,CON EDISON UTILITY,125.81,Utilities & Communication,Electricity
+2025-05-03,NORDSTROM #7135,97.7,Personal Care & Apparel,Clothing
+2025-03-24,NIKE STORE #2893,75.94,Personal Care & Apparel,Shoes
+2024-02-07,TRUPANION PET INSURANCE,47.66,Pets,Pet insurance
+2024-10-21,PG&E ELECTRIC BILL,198.86,Utilities & Communication,Electricity
+2024-04-11,CITY TRASH COLLECTION,50.27,Utilities & Communication,Trash
+2025-09-05,COMCAST XFINITY,70.69,Utilities & Communication,Internet
+2025-01-19,UNITEDHEALTH MEDIGAP,272.74,Healthcare,Private supplemental health insurance
+2025-09-20,GUITAR CENTER #7180,85.16,Entertainment & Leisure,Hobbies
+2025-04-30,EXPEDIA TOUR PACKAGE,770.79,Travel & Vacations,Tour packages
+2024-09-05,BANFIELD PET HOSPITAL,528.12,Pets,Vet care
+2024-01-15,MASTERCLASS.COM,241.13,Entertainment & Leisure,Classes
+2025-11-23,TICKETMASTER EVENT,234.41,Entertainment & Leisure,Event tickets
+2025-06-27,USAA HOMEOWNERS,208.73,Housing & Real Estate,Homeowner's Insurance
+2025-08-05,LOCAL COMMUNITY COLLEGE,346.41,Entertainment & Leisure,Classes
+2025-08-21,REI CO-OP #3421,85.33,Entertainment & Leisure,Recreational equipment
+2025-08-10,APPLE.COM/BILL,6.7,Entertainment & Leisure,Apps/services
+2025-06-20,COMMUNITY CHURCH GIVING,398.89,Gifts & Charity,Tithing
+2024-06-27,FOOT LOCKER #7706,32.76,Personal Care & Apparel,Shoes
+2024-06-10,7-ELEVEN #9116,19.6,Food & Dining,Snacks & Desserts
+2024-12-18,TRAVELERS UMBRELLA,59.22,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2024-09-10,LOCAL COMMUNITY COLLEGE,319.56,Entertainment & Leisure,Classes
+2025-09-20,WAYFAIR.COM,523.43,Household,Furniture
+2024-07-15,HANDYMAN PRO SVC,525.71,Housing & Real Estate,Maintenance & repairs
+2025-07-17,GOOGLE PLAY APPS,12.06,Entertainment & Leisure,Apps/services
+2025-06-17,CHEWY.COM BIRD,11.47,Pets,Bird supplies
+2025-09-25,SOFI PERSONAL LOAN,277.91,Debts & Loans,Personal installment loans
+2024-02-16,JIFFY LUBE #6173,309.11,Transportation & Vehicle,Vehicle maintenance & repairs
+2024-02-18,OLIVE GARDEN #4787,62.84,Food & Dining,Dining out
+2025-10-31,HOME DEPOT APPLIANCES,395.54,Household,Appliances
+2025-09-09,7-ELEVEN #251,7.37,Food & Dining,Snacks & Desserts
+2025-03-29,EXPEDIA TOUR PACKAGE,282.36,Travel & Vacations,Tour packages
+2024-07-29,FOOT LOCKER #7872,133.79,Personal Care & Apparel,Shoes
+2024-03-28,LOCAL PET GROOMER,70.73,Pets,Grooming
+2024-06-23,OLD NAVY #8411,76.54,Personal Care & Apparel,Clothing
+2024-04-18,VERIZON WIRELESS,89.59,Utilities & Communication,Cell phone
+2025-08-28,LOCAL DAYCARE CENTER,716.25,Family & Dependent Support,Childcare
+2024-01-20,KROGER #186,200.7,Food & Dining,Groceries
+2025-08-04,HILTON HOTELS #9485,289.72,Travel & Vacations,Lodging
+2024-12-26,DELTA AIR LINES,668.69,Travel & Vacations,Flights
+2024-03-17,FIRESTONE COMPLETE AUTO,69.09,Transportation & Vehicle,Vehicle maintenance & repairs
+2024-03-04,HULU SUBSCRIPTION,49.11,Utilities & Communication,Cable/streaming services
+2025-05-10,MCDONALD'S #2689,13.79,Food & Dining,Fast food
+2024-01-23,BRIGHT HORIZONS DAYCARE,1168.2,Family & Dependent Support,Childcare
+2025-10-13,TRAVELERS UMBRELLA,55.65,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2024-06-19,TARGET #7097,178.32,Gifts & Charity,Holiday/birthday gifts
+2025-03-05,MARRIOTT HOTELS #6423,313.49,Travel & Vacations,Lodging
+2024-05-29,FIRESTONE COMPLETE AUTO,783.11,Transportation & Vehicle,Vehicle maintenance & repairs
+2024-09-27,STATE FARM INSURANCE,265.62,Housing & Real Estate,Homeowner's Insurance
+2025-06-28,HOME DEPOT APPLIANCES,1119.68,Household,
+2025-08-15,DMV VEHICLE REG,233.91,Transportation & Vehicle,Registration/licensing
+2025-12-08,GENWORTH LTC INSURANCE,199.26,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2025-04-08,APPLE.COM/BILL,23.95,Entertainment & Leisure,Apps/services
+2024-12-21,LOCAL DAYCARE CENTER,710.47,Family & Dependent Support,Childcare
+2024-11-18,TOYOTA FINANCIAL SVC,621.51,Transportation & Vehicle,Car payments
+2024-05-13,STATE FARM INSURANCE,80.96,Housing & Real Estate,Homeowner's Insurance
+2025-06-15,CHIPOTLE #5556,21.08,Food & Dining,Fast food
+2024-10-10,CAPITAL ONE PAYMENT,707.49,Debts & Loans,Credit card balances
+2024-12-19,TACO BELL #5331,19.68,Food & Dining,Fast food
+2025-10-23,NATIONAL GRID GAS,165.03,Utilities & Communication,Gas
+2024-07-31,BRIGHT SMILES DENTAL,85.65,Healthcare,Dental/vision care
+2024-02-09,CHICK-FIL-A #8293,5.81,Food & Dining,Fast food
+2025-05-22,AXS TICKET PURCHASE,229.19,Entertainment & Leisure,Event tickets
+2024-06-24,HONDA FINANCIAL,253.78,Transportation & Vehicle,Car payments
+2024-04-19,STATE FARM AUTO,123.24,Transportation & Vehicle,Auto insurance
+2024-09-26,GREYSTAR PROPERTY MGMT,2413.78,Housing & Real Estate,Rent
+2025-07-08,TARGET #4935,24.73,Personal Care & Apparel,Cosmetics/personal hygiene products
+2025-10-17,CHEWY.COM BIRD,21.16,Pets,Bird supplies
+2024-06-04,SKILLSHARE SUBSCRIPTION,97.03,Entertainment & Leisure,Classes
+2025-02-06,LYFT RIDE,14.77,Transportation & Vehicle,Public transit/ride-sharing
+2024-05-17,CHEVRON #6924,61.22,Transportation & Vehicle,Gas/fuel
+2025-06-20,TRIPADVISOR EXPERIENCES,358.51,Travel & Vacations,Tour packages
+2024-12-14,DELTA AIR LINES,749.03,Travel & Vacations,Flights
+2024-08-26,WELLS FARGO HOME MTG,1349.91,Housing & Real Estate,Mortgage
+2025-12-02,USAA UMBRELLA POLICY,41.92,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2024-09-02,LOCAL COMMUNITY COLLEGE,263.78,Entertainment & Leisure,Classes
+2024-06-23,PETCO GROOMING SALON,50.45,Pets,Grooming
+2024-06-18,CHEWY.COM BIRD,41.12,Pets,Bird supplies
+2025-03-02,ASPEN DENTAL #2040,296.71,Healthcare,Dental/vision care
+2025-09-08,FIRST BAPTIST CHURCH,304.12,Gifts & Charity,Tithing
+2024-02-22,MUTUAL OF OMAHA LTC,100.58,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2025-11-17,CITY TRASH COLLECTION,48.08,Utilities & Communication,Trash
+2025-02-05,SKILLSHARE SUBSCRIPTION,87.63,Entertainment & Leisure,Classes
+2024-12-01,ACADEMY SPORTS #760,123.21,Entertainment & Leisure,Recreational equipment
+2025-05-27,HONDA FINANCIAL,539.67,Transportation & Vehicle,Car payments
+2024-11-20,USAA UMBRELLA POLICY,24.25,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2025-10-07,URGENT CARE CLINIC,36.74,Healthcare,Out-of-pocket medical costs
+2025-12-11,SEPHORA #3013,49.32,Personal Care & Apparel,Cosmetics/personal hygiene products
+2025-04-16,AMAZON.COM GIFT,32.44,Gifts & Charity,Holiday/birthday gifts
+2025-09-05,URGENT CARE CLINIC,242.48,Healthcare,Out-of-pocket medical costs
+2025-11-11,HOA MGMT ASSOC #6067,344.08,Housing & Real Estate,HOA fees
+2024-12-24,MARRIOTT HOTELS #4188,443.52,Travel & Vacations,Lodging
+2025-03-02,VIATOR TOURS,259.37,Travel & Vacations,Tour packages
+2025-05-05,THE CHEESECAKE FACTORY,137.7,Food & Dining,Dining out
+2024-12-22,ST JUDE DONATION,101.45,Gifts & Charity,Charitable donations
+2024-06-14,ZILLOW RENTAL PYMT,1660.87,Housing & Real Estate,Rent
+2024-05-18,TARGET #9860,18.02,Gifts & Charity,Holiday/birthday gifts
+2024-08-11,COUNTY VEHICLE LICENSE,248.52,Transportation & Vehicle,Registration/licensing
+2024-11-02,ALLY AUTO PAYMENT,621.55,Transportation & Vehicle,Car payments
+2025-01-31,ULTA BEAUTY #869,83.97,Personal Care & Apparel,Cosmetics/personal hygiene products
+2025-02-01,DELTA AIR LINES,569.04,Travel & Vacations,Flights
+2025-11-08,MARRIOTT HOTELS #7105,134.69,Travel & Vacations,Lodging
+2024-10-17,SPECTRUM INTERNET,72.94,Utilities & Communication,Internet
+2024-02-17,EQUINOX CLUB DUES,141.96,Entertainment & Leisure,Gym/club memberships
+2024-12-13,CHICK-FIL-A #6214,20.9,Food & Dining,Fast food
+2024-08-29,MUNICIPAL WATER DEPT,78.92,Utilities & Communication,Water/sewer
+2025-09-11,SPECTRUM CABLE TV,23.44,Utilities & Communication,Cable/streaming services
+2025-05-10,URGENT CARE CLINIC,279.0,Healthcare,Out-of-pocket medical costs
+2024-04-13,WELLS FARGO HOME MTG,2568.51,Housing & Real Estate,Mortgage
+2025-08-10,GRUBHUB ORDER #4580,27.95,Food & Dining,Meal delivery services
+2025-02-12,APARTMENTS.COM RENT,2446.73,Housing & Real Estate,Rent
+2024-05-25,HOBBY LOBBY #1506,32.05,Entertainment & Leisure,Hobbies
+2025-07-11,UNUM DISABILITY,122.35,Insurance (Non-housing/Non-auto),Disability insurance
+2024-02-17,HONDA FINANCIAL,440.2,Transportation & Vehicle,Car payments
+2024-10-15,STATE FARM UMBRELLA,19.94,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2024-07-29,CITY WATER UTILITY,116.57,Utilities & Communication,Water/sewer
+2024-05-17,HOBBY LOBBY #9769,26.1,Entertainment & Leisure,Hobbies
+2024-04-13,NETFLIX.COM,14.33,Utilities & Communication,Cable/streaming services
+2025-12-21,SHELL OIL #7414,63.86,Transportation & Vehicle,Gas/fuel
+2025-02-01,RED CROSS DONATION,289.8,Gifts & Charity,Charitable donations
+2024-03-18,AMEX BILL PAYMENT,727.09,Debts & Loans,Credit card balances
+2025-01-16,ACADEMY SPORTS #6867,356.41,Entertainment & Leisure,Recreational equipment
+2025-07-30,ROYAL CARIBBEAN CRUISE,2804.81,Travel & Vacations,Cruises
+2025-07-20,LENSCRAFTERS #9628,209.75,Healthcare,Dental/vision care
+2025-02-02,COSTCO WHOLESALE #7194,24.45,Household,Cleaning supplies
+2024-11-27,SOUTHWEST AIRLINES,258.42,Travel & Vacations,Flights
+2024-10-16,FIRESTONE COMPLETE AUTO,316.59,Transportation & Vehicle,Vehicle maintenance & repairs
+2024-02-17,PRUDENTIAL LIFE INS,132.71,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2024-11-13,AT&T MOBILITY,44.83,Utilities & Communication,Cell phone
+2025-01-23,HANDYMAN PRO SVC,618.54,Housing & Real Estate,Maintenance & repairs
+2024-02-04,ZELLE TRANSFER TO FAMILY,603.21,Family & Dependent Support,Routine family financial assistance.
+2024-10-11,PLANET FITNESS #6700,102.5,Entertainment & Leisure,Gym/club memberships
+2024-10-28,ST JUDE DONATION,224.38,Gifts & Charity,Charitable donations
+2025-07-22,PROGRESSIVE INSURANCE,166.3,Transportation & Vehicle,Auto insurance
+2025-11-10,DSW #258,157.06,Personal Care & Apparel,Shoes
+2024-06-21,DUNKIN' #1630,7.52,Food & Dining,Coffee shops
+2025-02-08,GRUBHUB ORDER #8999,32.09,Food & Dining,Meal delivery services
+2024-11-28,AMAZON.COM GIFT,150.84,Gifts & Charity,Holiday/birthday gifts
+2024-01-17,KROGER #6216,67.0,Food & Dining,Groceries
+2024-12-27,SAFEWAY #7132,15.32,Food & Dining,Groceries
+2024-03-12,ROCKET MORTGAGE LLC,1507.66,Housing & Real Estate,Mortgage
+2025-07-27,COMMUNITY HOA FEE,196.26,Housing & Real Estate,HOA fees
+2025-01-17,SUPERCUTS #4883,72.51,Personal Care & Apparel,Salon/barber visits
+2024-11-25,NORDSTROM #6212,209.76,Personal Care & Apparel,Clothing
+2025-02-03,SOFI PERSONAL LOAN,205.53,Debts & Loans,Personal installment loans
+2024-01-10,GUITAR CENTER #978,174.45,Entertainment & Leisure,Hobbies
+2024-03-20,PLANET FITNESS #117,54.15,Entertainment & Leisure,Gym/club memberships
+2024-04-12,BRIGHT SMILES DENTAL,170.18,Healthcare,Dental/vision care
+2025-08-12,SSA MEDICARE DEDUCT,63.13,,
+2025-12-06,UNITED AIRLINES,359.32,Travel & Vacations,Flights
+2025-03-29,LOCAL COMMUNITY COLLEGE,252.19,Entertainment & Leisure,Classes
+2024-02-08,7-ELEVEN #9506,6.18,Food & Dining,Snacks & Desserts
+2024-11-15,GUARDIAN DISABILITY INS,100.12,Insurance (Non-housing/Non-auto),Disability insurance
+2024-11-23,PEET'S COFFEE #1538,10.29,Food & Dining,Coffee shops
+2025-06-17,SSA MEDICARE DEDUCT,104.37,Healthcare,"Medicare premiums (Parts B, C, D)"
+2024-07-27,QUEST DIAGNOSTICS,460.79,Healthcare,Out-of-pocket medical costs
+2025-11-02,VERIZON WIRELESS,130.03,Utilities & Communication,Cell phone
+2025-10-06,TRUPANION PET INSURANCE,20.47,Pets,Pet insurance
+2025-06-02,PETCO BIRD SUPPLIES,27.08,Pets,Bird supplies
+2024-07-02,LOCAL PET GROOMER,56.07,Pets,Grooming
+2024-11-29,TRAVELERS UMBRELLA,41.82,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2025-01-07,SPECTRUM CABLE TV,58.0,Utilities & Communication,Cable/streaming services
+2025-09-25,VITAMIN SHOPPE #3679,67.02,Personal Care & Apparel,Supplements/vitamins
+2024-08-27,DICK'S SPORTING GOODS,237.32,Entertainment & Leisure,Recreational equipment
+2024-01-08,SPECTRUM INTERNET,66.33,Utilities & Communication,Internet
+2024-11-07,ROTO-ROOTER PLUMBING,760.33,Housing & Real Estate,Maintenance & repairs
+2024-04-14,TRAVELEX INSURANCE,74.64,Travel & Vacations,Travel insurance
+2024-01-13,NORWEGIAN CRUISE LINE,1591.21,Travel & Vacations,Cruises
+2025-01-05,ROCKET MORTGAGE LLC,2616.72,Housing & Real Estate,Mortgage
+2025-12-21,TARGET #8582,6.46,Household,Misc
+2024-05-03,DICK'S SPORTING GOODS,170.74,Entertainment & Leisure,Recreational equipment
+2025-10-09,LENDINGCLUB PAYMENT,115.64,Debts & Loans,Personal installment loans
+2025-01-26,KROGER #7664,172.73,Food & Dining,Groceries
+2024-06-28,AMAZON.COM,5.44,Household,Misc
+2024-11-22,CHIPOTLE #5473,23.63,Food & Dining,Fast food
+2025-10-02,CHEWY.COM,77.37,Pets,Pet food & supplies
+2025-02-04,MASTERCLASS.COM,221.51,Entertainment & Leisure,Classes
+2025-12-30,LOCAL PET GROOMER,67.23,Pets,Grooming
+2024-03-26,OFFICE DEPOT #7917,117.22,Household,Office Expenses
+2025-02-28,AXS TICKET PURCHASE,98.9,Entertainment & Leisure,Event tickets
+2024-03-10,CAPITAL ONE PAYMENT,62.29,Debts & Loans,Credit card balances
+2025-03-24,RITE AID PHARMACY,101.8,Healthcare,Prescriptions
+2025-07-01,KINDERCARE LEARNING CTR,451.1,Family & Dependent Support,Childcare
+2025-05-17,FIRESTONE COMPLETE AUTO,591.86,Transportation & Vehicle,Vehicle maintenance & repairs
+2025-05-08,UPSTART LOAN PYMT,423.55,Debts & Loans,Personal installment loans
+2025-05-16,AETNA SUPPLEMENTAL,354.87,Healthcare,Private supplemental health insurance
+2024-08-12,ROCKET MORTGAGE LLC,2301.06,Housing & Real Estate,Mortgage
+2024-05-10,GUARDIAN DISABILITY INS,98.58,Insurance (Non-housing/Non-auto),Disability insurance
+2024-11-16,REPUBLIC SERVICES,56.48,Utilities & Communication,Trash
+2024-03-12,UPSTART LOAN PYMT,407.99,Debts & Loans,Personal installment loans
+2025-09-03,GNC #2618,65.72,Personal Care & Apparel,Supplements/vitamins
+2025-10-28,CIGNA SUPP HEALTH,256.52,Healthcare,Private supplemental health insurance
+2024-02-18,GREYSTAR PROPERTY MGMT,1840.27,Housing & Real Estate,Rent
+2024-01-01,ST JUDE DONATION,189.89,Gifts & Charity,Charitable donations
+2024-12-22,COUNTY VEHICLE LICENSE,74.58,Transportation & Vehicle,Registration/licensing
+2025-08-08,AMAZON.COM BOOKS,50.95,Entertainment & Leisure,Books/Periodicals
+2025-11-15,IHERB.COM,10.53,Personal Care & Apparel,Supplements/vitamins
+2024-04-26,COMCAST XFINITY,94.07,Utilities & Communication,Internet
+2024-05-17,TRUPANION PET INSURANCE,29.64,Pets,Pet insurance
+2025-11-07,SOFI PERSONAL LOAN,486.36,Debts & Loans,Personal installment loans
+2024-03-21,UBER EATS,16.89,Food & Dining,Meal delivery services
+2025-12-11,REI CO-OP #8972,186.28,Entertainment & Leisure,Recreational equipment
+2025-09-22,MCDONALD'S #4854,23.91,Food & Dining,Fast food
+2024-01-30,WILD BIRD CENTER #9421,46.19,Pets,Bird supplies
+2025-12-27,EXPEDIA TOUR PACKAGE,108.56,Travel & Vacations,Tour packages
+2025-09-20,AIRBNB PAYMENT,392.96,Travel & Vacations,Lodging
+2025-10-07,COSTCO WHOLESALE #6778,28.18,Household,Cleaning supplies
+2024-07-25,STAPLES #8199,71.46,Household,Office Expenses
+2024-10-19,LOCAL PET GROOMER,81.89,Pets,Grooming
+2024-09-26,FOOT LOCKER #3354,119.4,Personal Care & Apparel,Shoes
+2024-11-15,MUTUAL OF OMAHA LTC,251.54,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2024-03-01,JIFFY LUBE #8982,891.68,Transportation & Vehicle,Vehicle maintenance & repairs
+2024-03-14,MONTESSORI ACADEMY,4274.72,Family & Dependent Support,Child education/tuition
+2024-08-06,HANDYMAN PRO SVC,431.41,Housing & Real Estate,Maintenance & repairs
+2024-04-11,RED CROSS DONATION,247.83,Gifts & Charity,Charitable donations
+2024-11-25,TICKETMASTER EVENT,65.22,Entertainment & Leisure,Event tickets
+2025-01-25,COMMUNITY CHURCH GIVING,327.17,Gifts & Charity,Tithing
+2025-04-04,ROYAL CARIBBEAN CRUISE,712.73,Travel & Vacations,Cruises
+2024-02-27,ALLY AUTO PAYMENT,471.08,Transportation & Vehicle,Car payments
+2024-02-05,TARGET #6605,15.04,Gifts & Charity,Holiday/birthday gifts
+2024-05-31,TRUPANION PET INSURANCE,17.45,Pets,Pet insurance
+2025-07-31,LYFT RIDE,7.78,Transportation & Vehicle,Public transit/ride-sharing
+2025-12-21,MICHAELS STORES #3619,49.1,Entertainment & Leisure,Hobbies
+2025-12-14,HANDYMAN PRO SVC,333.99,Housing & Real Estate,Maintenance & repairs
+2024-06-28,NELNET STUDENT LOAN,284.88,Debts & Loans,Student loans
+2025-11-07,USAA UMBRELLA POLICY,49.07,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2024-02-12,T-MOBILE PAYMENT,107.54,Utilities & Communication,Cell phone
+2024-06-27,UNITED AIRLINES,626.36,Travel & Vacations,Flights
+2025-06-13,WORLD NOMADS INSURANCE,48.55,Travel & Vacations,Travel insurance
+2024-02-25,METLIFE DISABILITY,33.77,Insurance (Non-housing/Non-auto),Disability insurance
+2025-04-13,USAA HOMEOWNERS,254.29,Housing & Real Estate,Homeowner's Insurance
+2024-11-08,ASHLEY FURNITURE,755.96,Household,Furniture
+2025-01-03,ASHLEY FURNITURE,596.76,Household,Furniture
+2025-01-31,MASSMUTUAL LIFE,38.04,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2024-07-03,OLIVE GARDEN #7155,92.29,Food & Dining,Dining out
+2025-05-05,GUARDIAN DISABILITY INS,34.68,Insurance (Non-housing/Non-auto),Disability insurance
+2024-03-05,ST JUDE DONATION,127.01,Gifts & Charity,Charitable donations
+2025-05-23,MARRIOTT HOTELS #9365,143.1,Travel & Vacations,Lodging
+2025-01-06,ZILLOW RENTAL PYMT,1267.8,Housing & Real Estate,Rent
+2025-11-13,ACE HARDWARE #5020,485.98,Housing & Real Estate,Maintenance & repairs
+2025-04-10,CITY WATER UTILITY,136.5,Utilities & Communication,Water/sewer
+2024-03-16,HILTON HOTELS #3795,172.95,Travel & Vacations,Lodging
+2024-02-23,MEDICARE PREMIUM,179.84,Healthcare,"Medicare premiums (Parts B, C, D)"
+2025-08-31,CHASE CARD PAYMENT,132.48,Debts & Loans,Credit card balances
+2024-12-21,ST JUDE DONATION,396.4,Gifts & Charity,Charitable donations
+2025-05-17,SOUTHWEST AIRLINES,361.06,Travel & Vacations,Flights
+2025-12-22,PRUDENTIAL LIFE INS,89.63,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2024-01-07,ROCKET MORTGAGE LLC,1645.11,Housing & Real Estate,Mortgage
+2025-03-01,SKILLSHARE SUBSCRIPTION,207.9,Entertainment & Leisure,Classes
+2025-07-27,USAA UMBRELLA POLICY,15.04,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2024-03-02,DICK'S SPORTING GOODS,256.17,Entertainment & Leisure,Recreational equipment
+2025-09-28,AT&T FIBER INTERNET,108.35,Utilities & Communication,Internet
+2025-09-02,WESTERN UNION TRANSFER,406.45,Family & Dependent Support,Routine family financial assistance.
+2024-07-02,ASPEN DENTAL #4953,144.64,Healthcare,Dental/vision care
+2024-09-11,SUPERCUTS #1660,60.45,Personal Care & Apparel,Salon/barber visits
+2024-04-10,LYFT RIDE,7.45,Transportation & Vehicle,Public transit/ride-sharing
+2024-12-14,MASSMUTUAL LIFE,63.9,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2025-04-17,UBER TRIP,43.03,Transportation & Vehicle,Public transit/ride-sharing
+2025-10-27,PRIVATE SCHOOL TUITION,2968.9,Family & Dependent Support,Child education/tuition
+2024-12-25,CHASE CARD PAYMENT,1043.97,Debts & Loans,Credit card balances
+2025-07-18,PEET'S COFFEE #3316,8.72,Food & Dining,Coffee shops
+2024-10-27,DUKE ENERGY PAYMT,235.15,Utilities & Communication,Electricity
+2024-08-26,WILD BIRD CENTER #3047,62.79,Pets,Bird supplies
+2024-03-09,LOCAL VETERINARY CLINIC,663.82,Pets,Vet care
+2024-03-28,BRIGHT SMILES DENTAL,476.6,Healthcare,Dental/vision care
+2025-03-16,KINDERCARE LEARNING CTR,464.59,Family & Dependent Support,Childcare
+2025-05-14,GREAT CLIPS #2240,65.72,Personal Care & Apparel,Salon/barber visits
+2025-04-06,TARGET #3270,24.52,Household,Cleaning supplies
+2025-11-10,HANDYMAN PRO SVC,583.45,Housing & Real Estate,Maintenance & repairs
+2024-02-16,AT&T FIBER INTERNET,88.36,Utilities & Communication,Internet
+2024-08-18,PETSMART #9192,114.4,Pets,Pet food & supplies
+2024-06-12,CHICK-FIL-A #4167,24.25,,
+2025-12-12,LYFT RIDE,16.47,Transportation & Vehicle,Public transit/ride-sharing
+2025-06-21,CHASE CARD PAYMENT,646.31,Debts & Loans,Credit card balances
+2024-06-13,TRADER JOE'S #4770,32.19,Food & Dining,Groceries
+2025-11-09,UNUM DISABILITY,50.7,Insurance (Non-housing/Non-auto),Disability insurance
+2025-01-28,HOBBY LOBBY #2336,47.07,Entertainment & Leisure,Hobbies
+2025-02-14,VERIZON WIRELESS,89.46,Utilities & Communication,Cell phone
+2025-04-19,PETCO GROOMING SALON,92.29,Pets,Grooming
+2025-08-08,ETSY.COM ORDER,117.92,Gifts & Charity,Holiday/birthday gifts
+2025-03-10,JOHN HANCOCK LTC,114.18,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2025-07-11,CARNIVAL CRUISE LINE,636.96,Travel & Vacations,Cruises
+2025-03-22,ASSOCIA HOA DUES,169.97,Housing & Real Estate,HOA fees
+2025-04-21,PETCO BIRD SUPPLIES,15.33,Pets,Bird supplies
+2025-06-19,ULTA BEAUTY #7020,74.28,Personal Care & Apparel,Cosmetics/personal hygiene products
+2024-10-09,MUNICIPAL WATER DEPT,36.66,Utilities & Communication,Water/sewer
+2025-11-02,TICKETMASTER EVENT,297.93,Entertainment & Leisure,Event tickets
+2024-07-18,SALLIE MAE PAYMENT,435.94,Debts & Loans,Student loans
+2024-11-02,CHIPOTLE #6538,24.81,Food & Dining,Fast food
+2024-07-22,LOCAL VETERINARY CLINIC,98.09,Pets,Vet care
+2024-03-04,ULTA BEAUTY #4205,20.01,Personal Care & Apparel,Cosmetics/personal hygiene products
+2025-08-04,AT&T FIBER INTERNET,66.08,Utilities & Communication,Internet
+2024-07-11,GREAT CLIPS #4266,79.14,Personal Care & Apparel,Salon/barber visits
+2025-02-28,SSA MEDICARE DEDUCT,94.23,Healthcare,"Medicare premiums (Parts B, C, D)"
+2024-09-28,HILTON HOTELS #5600,317.78,Travel & Vacations,Lodging
+2025-10-12,VIATOR TOURS,433.79,Travel & Vacations,Tour packages
+2024-06-10,DUNKIN' #4857,11.02,Food & Dining,Coffee shops
+2025-03-22,COMMUNITY HOA FEE,503.89,Housing & Real Estate,HOA fees
+2024-08-16,EXXONMOBIL #2186,72.31,Transportation & Vehicle,Gas/fuel
+2025-08-23,AMAZON.COM,42.54,Household,Misc
+2025-11-27,PLANET FITNESS #9826,56.19,Entertainment & Leisure,Gym/club memberships
+2024-06-18,SSA MEDICARE DEDUCT,187.7,Healthcare,"Medicare premiums (Parts B, C, D)"
+2025-05-18,BRIGHT HORIZONS DAYCARE,872.16,Family & Dependent Support,Childcare
+2025-10-10,METRO TRANSIT FARE,23.97,Transportation & Vehicle,Public transit/ride-sharing
+2024-04-30,HEALTHY PAWS INSURANCE,46.32,Pets,Pet insurance
+2025-09-01,CVS PHARMACY #2818,144.75,Healthcare,Prescriptions
+2025-12-11,CVS PHARMACY #2734,66.07,Healthcare,Prescriptions
+2024-12-17,MUTUAL OF OMAHA LTC,72.67,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2025-12-03,MUNICIPAL WATER DEPT,40.93,Utilities & Communication,Water/sewer
+2024-04-24,ASSOCIA HOA DUES,402.41,Housing & Real Estate,HOA fees
+2025-05-01,TRIPADVISOR EXPERIENCES,235.81,Travel & Vacations,Tour packages
+2024-09-23,CMS MEDICARE PART B,89.08,Healthcare,"Medicare premiums (Parts B, C, D)"
+2025-01-02,WAYFAIR.COM,1480.09,Household,Furniture
+2025-07-07,ALLY AUTO PAYMENT,520.81,Transportation & Vehicle,Car payments
+2025-07-17,BRIGHT SMILES DENTAL,198.13,Healthcare,Dental/vision care
+2024-06-05,COSTCO WHOLESALE #5108,44.06,Household,Cleaning supplies
+2025-07-20,ETSY.COM ORDER,167.13,Gifts & Charity,Holiday/birthday gifts
+2024-05-13,UNUM DISABILITY,77.67,Insurance (Non-housing/Non-auto),Disability insurance
+2025-07-31,COUNTY VEHICLE LICENSE,134.06,Transportation & Vehicle,Registration/licensing
+2024-02-20,ST JUDE DONATION,299.25,Gifts & Charity,Charitable donations
+2024-01-11,CHASE CARD PAYMENT,504.24,Debts & Loans,Credit card balances
+2025-08-14,AIRBNB PAYMENT,492.25,Travel & Vacations,Lodging
+2025-03-29,WESTERN UNION TRANSFER,236.72,Family & Dependent Support,Routine family financial assistance.
+2025-07-22,COSTCO WHOLESALE #282,36.78,Household,Cleaning supplies
+2025-10-15,SOCALGAS PAYMENT,115.61,Utilities & Communication,Gas
+2025-12-31,GUARDIAN DISABILITY INS,126.27,Insurance (Non-housing/Non-auto),Disability insurance
+2025-12-15,ST MARY'S PARISH TITHE,210.69,Gifts & Charity,Tithing
+2024-01-27,STATE FARM AUTO,159.37,Transportation & Vehicle,Auto insurance
+2025-10-06,COMFORT KEEPERS,1243.69,Family & Dependent Support,Elder care support
+2025-10-04,AETNA SUPPLEMENTAL,277.63,Healthcare,Private supplemental health insurance
+2024-07-13,TACO BELL #9564,19.42,Food & Dining,Fast food
+2024-04-14,WELLS FARGO HOME MTG,1557.14,Housing & Real Estate,Mortgage
+2024-04-16,ALLSTATE HOME INS,331.57,Housing & Real Estate,Homeowner's Insurance
+2024-03-01,BASKIN ROBBINS #5362,7.14,Food & Dining,Snacks & Desserts
+2025-12-31,APPLE.COM/BILL,24.77,Entertainment & Leisure,Apps/services
+2024-09-30,STUBHUB TICKETS,104.57,Entertainment & Leisure,Event tickets
+2024-06-04,BRIGHT HORIZONS DAYCARE,486.68,Family & Dependent Support,Childcare
+2025-02-25,LOCAL DAYCARE CENTER,542.33,Family & Dependent Support,Childcare
+2024-04-14,MASSMUTUAL LIFE,153.12,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2025-03-21,TARGET #8910,51.09,Household,Cleaning supplies
+2024-04-16,IHERB.COM,35.45,Personal Care & Apparel,Supplements/vitamins
+2025-03-13,LOCAL PET GROOMER,91.01,Pets,Grooming
+2024-12-27,TARGET #4620,79.07,Household,Misc
+2025-09-30,FOOT LOCKER #4290,144.54,Personal Care & Apparel,Shoes
+2025-09-30,MUTUAL OF OMAHA LTC,283.27,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2025-01-16,WASTE MANAGEMENT INC,41.59,Utilities & Communication,Trash
+2025-02-02,AMAZON.COM OFFICE,17.29,Household,Office Expenses
+2025-06-07,PETCO GROOMING SALON,76.58,Pets,Grooming
+2025-12-11,SOUTHWEST AIRLINES,875.62,Travel & Vacations,Flights
+2024-08-24,AMAZON.COM GIFT,33.73,Gifts & Charity,Holiday/birthday gifts
+2025-08-08,TRAVELEX INSURANCE,113.51,Travel & Vacations,Travel insurance
+2024-01-13,SALLIE MAE PAYMENT,535.14,Debts & Loans,Student loans
+2024-05-19,BRIGHT HORIZONS DAYCARE,699.48,Family & Dependent Support,Childcare
+2025-01-07,RED CROSS DONATION,313.67,Gifts & Charity,Charitable donations
+2025-07-28,IHERB.COM,38.49,Personal Care & Apparel,Supplements/vitamins
+2025-12-29,PETCO GROOMING SALON,71.89,Pets,Grooming
+2025-03-02,UBER EATS,45.32,Food & Dining,Meal delivery services
+2025-11-05,SALLIE MAE PAYMENT,469.48,Debts & Loans,Student loans
+2025-12-31,ALLIANZ TRAVEL INS,67.9,Travel & Vacations,Travel insurance
+2025-12-07,PETCO GROOMING SALON,93.52,Pets,Grooming
+2025-02-14,GUARDIAN DISABILITY INS,89.26,Insurance (Non-housing/Non-auto),Disability insurance
+2024-11-25,UNITED WAY DONATION,210.8,Gifts & Charity,Charitable donations
+2024-10-16,QUEST DIAGNOSTICS,495.92,Healthcare,Out-of-pocket medical costs
+2025-01-09,CHICK-FIL-A #2294,22.65,Food & Dining,Fast food
+2025-11-18,COSTCO WHOLESALE #9105,11.8,Household,Cleaning supplies
+2024-12-04,HOME DEPOT APPLIANCES,491.59,Household,Appliances
+2025-08-04,7-ELEVEN #5623,16.23,Food & Dining,Snacks & Desserts
+2025-11-30,VITAMIN SHOPPE #7453,20.65,Personal Care & Apparel,Supplements/vitamins
+2025-05-30,OLD NAVY #2212,36.06,Personal Care & Apparel,Clothing
+2025-11-02,ST MARY'S PARISH TITHE,150.92,Gifts & Charity,Tithing
+2024-06-10,PLANET FITNESS #7629,22.61,Entertainment & Leisure,Gym/club memberships
+2025-07-31,DUNKIN' #5631,10.58,Food & Dining,Coffee shops
+2025-12-06,CHICK-FIL-A #4973,14.07,Food & Dining,Fast food
+2024-04-13,NIKE STORE #1329,137.15,Personal Care & Apparel,Shoes
+2024-09-06,IHERB.COM,65.12,Personal Care & Apparel,Supplements/vitamins
+2024-08-06,GNC #3553,50.22,Personal Care & Apparel,Supplements/vitamins
+2024-10-10,WORLD NOMADS INSURANCE,105.07,Travel & Vacations,Travel insurance
+2025-01-28,UPSTART LOAN PYMT,174.86,Debts & Loans,Personal installment loans
+2024-09-22,WORLD NOMADS INSURANCE,149.68,Travel & Vacations,Travel insurance
+2025-05-02,HOME DEPOT APPLIANCES,263.71,Household,Appliances
+2024-06-13,TARGET #1027,24.39,Personal Care & Apparel,Cosmetics/personal hygiene products
+2025-09-05,OFFICE DEPOT #3290,14.71,Household,Office Expenses
+2024-04-06,ZELLE TRANSFER TO FAMILY,395.63,Family & Dependent Support,Routine family financial assistance.
+2024-02-19,ULTA BEAUTY #171,51.49,Personal Care & Apparel,Cosmetics/personal hygiene products
+2025-12-26,CAPITAL ONE PAYMENT,975.22,Debts & Loans,Credit card balances
+2024-08-25,CHEWY.COM,35.4,Pets,Pet food & supplies
+2024-05-27,CAPITAL ONE PAYMENT,763.48,Debts & Loans,Credit card balances
+2024-07-08,CAPITAL ONE PAYMENT,1214.64,Debts & Loans,Credit card balances
+2024-10-02,LOCAL DAYCARE CENTER,930.07,Family & Dependent Support,Childcare
+2025-07-31,REI CO-OP #6144,116.32,Entertainment & Leisure,Recreational equipment
+2025-12-02,FIRESTONE COMPLETE AUTO,602.96,Transportation & Vehicle,Vehicle maintenance & repairs
+2024-02-21,CHIPOTLE #9657,12.06,Food & Dining,Fast food
+2024-03-02,LOCAL COMMUNITY COLLEGE,98.06,Entertainment & Leisure,Classes
+2024-08-01,GUARDIAN DISABILITY INS,28.59,Insurance (Non-housing/Non-auto),Disability insurance
+2025-06-06,MONTESSORI ACADEMY,1760.43,Family & Dependent Support,Child education/tuition
+2025-10-27,SAFEWAY #1723,187.03,Food & Dining,Groceries
+2024-10-31,DOORDASH*ORDER,57.37,Food & Dining,Meal delivery services
+2024-11-19,OLIVE GARDEN #3368,126.29,Food & Dining,Dining out
+2025-09-18,PETSMART #2255,30.32,Pets,Pet food & supplies
+2024-10-14,APPLE.COM/BILL,22.71,Entertainment & Leisure,Apps/services
+2025-04-26,OLD NAVY #7698,189.5,Personal Care & Apparel,Clothing
+2025-05-31,AMAZON.COM GIFT,116.74,Gifts & Charity,Holiday/birthday gifts
+2024-01-13,NATIONWIDE PET INS,53.27,Pets,Pet insurance
+2024-02-05,CARNIVAL CRUISE LINE,605.28,Travel & Vacations,Cruises
+2024-12-07,SPECTRUM CABLE TV,79.61,Utilities & Communication,Cable/streaming services
+2024-08-31,REI CO-OP #3461,274.31,Entertainment & Leisure,Recreational equipment
+2024-06-15,WHOLE FOODS MKT #9885,92.23,Food & Dining,Groceries
+2024-10-09,NORWEGIAN CRUISE LINE,1247.93,Travel & Vacations,Cruises
+2025-10-02,WESTERN UNION TRANSFER,513.98,Family & Dependent Support,Routine family financial assistance.
+2025-11-08,STATE DMV FEE,60.86,Transportation & Vehicle,Registration/licensing
+2025-07-05,UNITEDHEALTH MEDIGAP,284.77,Healthcare,Private supplemental health insurance
+2025-06-08,TARGET #6860,55.09,Household,Cleaning supplies
+2024-01-22,T-MOBILE PAYMENT,49.4,Utilities & Communication,Cell phone
+2024-02-20,ST MARY'S PARISH TITHE,237.15,Gifts & Charity,Tithing
+2024-11-05,PRUDENTIAL LIFE INS,212.48,Insurance (Non-housing/Non-auto),Term or whole life insurance
+2024-03-11,STATE FARM INSURANCE,309.86,Housing & Real Estate,Homeowner's Insurance
+2025-10-27,NEW YORK TIMES SUB,40.98,Entertainment & Leisure,Books/Periodicals
+2025-05-26,KROGER #1129,37.73,Food & Dining,Groceries
+2024-11-10,OLD NAVY #3759,167.56,Personal Care & Apparel,Clothing
+2024-03-02,COUNTY VEHICLE LICENSE,56.58,Transportation & Vehicle,Registration/licensing
+2025-05-10,PROGRESSIVE INSURANCE,161.59,Transportation & Vehicle,Auto insurance
+2025-04-02,MONTESSORI ACADEMY,3918.77,Family & Dependent Support,Child education/tuition
+2025-06-15,TARGET #1376,189.75,Gifts & Charity,Holiday/birthday gifts
+2024-02-10,BEST BUY #2307,1170.22,Household,Appliances
+2024-03-28,METRO TRANSIT FARE,29.8,Transportation & Vehicle,Public transit/ride-sharing
+2025-02-14,COMFORT KEEPERS,976.19,Family & Dependent Support,Elder care support
+2025-01-23,HEALTHY PAWS INSURANCE,33.43,Pets,Pet insurance
+2024-04-28,NEW YORK TIMES SUB,43.05,Entertainment & Leisure,Books/Periodicals
+2025-04-26,CMS MEDICARE PART B,193.59,Healthcare,"Medicare premiums (Parts B, C, D)"
+2025-07-04,CITY WATER UTILITY,55.83,Utilities & Communication,Water/sewer
+2025-05-26,FIRESTONE COMPLETE AUTO,756.69,Transportation & Vehicle,Vehicle maintenance & repairs
+2024-05-19,METRO TRANSIT FARE,43.92,Transportation & Vehicle,Public transit/ride-sharing
+2024-10-13,AQUA WATER SEWER,74.89,Utilities & Communication,Water/sewer
+2025-03-13,EXXONMOBIL #2969,65.69,Transportation & Vehicle,Gas/fuel
+2024-03-27,NAVIENT LOAN PYMT,271.42,Debts & Loans,Student loans
+2024-08-11,WORLD NOMADS INSURANCE,82.37,Travel & Vacations,Travel insurance
+2025-06-19,BARNES & NOBLE #8233,57.56,Entertainment & Leisure,Books/Periodicals
+2024-04-11,LOCAL VETERINARY CLINIC,684.56,Pets,Vet care
+2025-04-23,CHIPOTLE #8263,24.92,Food & Dining,Fast food
+2024-06-19,HOME DEPOT APPLIANCES,349.67,,
+2024-11-28,GUARDIAN DISABILITY INS,122.54,Insurance (Non-housing/Non-auto),Disability insurance
+2025-07-18,DUNKIN' #6144,7.21,Food & Dining,Coffee shops
+2025-07-28,COMMUNITY CHURCH GIVING,237.11,Gifts & Charity,Tithing
+2025-10-10,LA FITNESS MEMBERSHIP,92.32,Entertainment & Leisure,Gym/club memberships
+2025-11-21,ASSISTED LIVING FACILITY,120.2,Family & Dependent Support,Elder care support
+2025-05-13,MUTUAL OF OMAHA LTC,63.77,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2025-04-27,STATE DMV FEE,222.5,Transportation & Vehicle,Registration/licensing
+2024-07-17,CHEWY.COM BIRD,26.01,Pets,Bird supplies
+2024-12-23,GRUBHUB ORDER #8111,29.27,Food & Dining,Meal delivery services
+2024-02-10,STATE FARM INSURANCE,236.31,Housing & Real Estate,Homeowner's Insurance
+2024-01-10,JIFFY LUBE #1213,648.17,Transportation & Vehicle,Vehicle maintenance & repairs
+2025-12-15,FIRST BAPTIST CHURCH,144.2,Gifts & Charity,Tithing
+2024-03-10,T-MOBILE PAYMENT,53.87,Utilities & Communication,Cell phone
+2024-08-01,EXXONMOBIL #9256,39.11,Transportation & Vehicle,Gas/fuel
+2025-05-25,HEALTHY PAWS INSURANCE,39.88,Pets,Pet insurance
+2024-01-28,SSA MEDICARE DEDUCT,150.3,Healthcare,"Medicare premiums (Parts B, C, D)"
+2024-09-10,LOCAL VETERINARY CLINIC,54.18,Pets,Vet care
+2024-03-18,NATIONAL GRID GAS,97.59,Utilities & Communication,Gas
+2025-01-05,MUNICIPAL WATER DEPT,79.31,Utilities & Communication,Water/sewer
+2025-05-24,RED CROSS DONATION,266.79,Gifts & Charity,Charitable donations
+2024-04-28,MUNICIPAL WATER DEPT,139.55,Utilities & Communication,Water/sewer
+2025-03-21,STAPLES #7827,139.62,Household,Office Expenses
+2025-07-07,MARRIOTT HOTELS #6805,445.57,Travel & Vacations,Lodging
+2024-06-02,HOME DEPOT APPLIANCES,813.65,Household,Appliances
+2025-11-10,GENWORTH LTC INSURANCE,173.39,Insurance (Non-housing/Non-auto),Long-term care insurance policies
+2024-04-13,AIRBNB PAYMENT,368.47,Travel & Vacations,Lodging
+2025-11-14,TARGET #7970,55.79,Personal Care & Apparel,Cosmetics/personal hygiene products
+2024-08-18,PROPERTY TAX ESCROW,775.11,Housing & Real Estate,Property Taxes
+2025-06-26,NELNET STUDENT LOAN,439.25,Debts & Loans,Student loans
+2025-03-04,CARNIVAL CRUISE LINE,2527.85,Travel & Vacations,Cruises
+2024-07-17,VERIZON WIRELESS,101.33,Utilities & Communication,Cell phone
+2024-08-19,NATIONAL GRID GAS,141.89,Utilities & Communication,Gas
+2024-05-26,EXXONMOBIL #5353,40.4,Transportation & Vehicle,Gas/fuel
+2025-08-21,JIFFY LUBE #4372,515.85,Transportation & Vehicle,Vehicle maintenance & repairs
+2025-12-14,DICK'S SPORTING GOODS,416.67,Entertainment & Leisure,Recreational equipment
+2025-07-12,UBER TRIP,27.87,Transportation & Vehicle,Public transit/ride-sharing
+2025-01-24,CON EDISON UTILITY,249.06,Utilities & Communication,Electricity
+2025-09-22,SKILLSHARE SUBSCRIPTION,221.58,Entertainment & Leisure,Classes
+2024-06-11,GAP #2862,133.14,Personal Care & Apparel,Clothing
+2024-07-03,AT&T FIBER INTERNET,62.38,Utilities & Communication,Internet
+2024-03-21,ALLY AUTO PAYMENT,567.97,Transportation & Vehicle,Car payments
+2025-03-15,SKILLSHARE SUBSCRIPTION,162.85,Entertainment & Leisure,Classes
+2024-04-27,TRAVELERS UMBRELLA,52.65,Insurance (Non-housing/Non-auto),Umbrella liability insurance
+2024-05-18,MEDICARE PREMIUM,162.84,Healthcare,"Medicare premiums (Parts B, C, D)"
+2024-06-22,ROTO-ROOTER PLUMBING,457.48,Housing & Real Estate,Maintenance & repairs
+2025-12-03,HOME INSTEAD SENIOR CARE,2450.25,Family & Dependent Support,Elder care support
+2024-10-23,COLD STONE CREAMERY,19.32,Food & Dining,Snacks & Desserts
+2025-01-14,STAPLES #7169,83.09,Household,Office Expenses
+2024-04-23,SOUTHWEST AIRLINES,835.43,Travel & Vacations,Flights
+2024-11-13,NEW YORK TIMES SUB,41.44,Entertainment & Leisure,Books/Periodicals
+2024-11-19,ASSISTED LIVING FACILITY,1381.56,Family & Dependent Support,Elder care support
+2025-12-17,UNUM DISABILITY,128.7,Insurance (Non-housing/Non-auto),Disability insurance
+2025-08-21,GREYSTAR PROPERTY MGMT,1494.11,Housing & Real Estate,Rent
+2025-01-14,EXXONMOBIL #1395,84.94,Transportation & Vehicle,Gas/fuel
+2024-05-01,LOWE'S #9963,1319.41,Household,Appliances
+2025-12-25,IHERB.COM,31.49,Personal Care & Apparel,Supplements/vitamins
+2024-07-24,TARGET #9169,59.87,Personal Care & Apparel,Cosmetics/personal hygiene products
+2024-10-11,NAVIENT LOAN PYMT,352.8,Debts & Loans,Student loans
+2024-09-03,ASPEN DENTAL #6758,264.75,Healthcare,Dental/vision care
+2025-04-04,NELNET STUDENT LOAN,563.61,Debts & Loans,Student loans
+2024-04-26,PEET'S COFFEE #4666,5.25,Food & Dining,Coffee shops
+2025-09-12,DSW #8624,66.85,Personal Care & Apparel,Shoes
+2024-09-04,NELNET STUDENT LOAN,486.58,Debts & Loans,Student loans
+2025-10-31,TACO BELL #8208,16.95,Food & Dining,Fast food
+2025-06-14,AMAZON.COM OFFICE,140.31,Household,Office Expenses
+2025-09-27,GAP #9661,133.96,Personal Care & Apparel,Clothing
+2025-07-27,PETCO BIRD SUPPLIES,28.7,Pets,Bird supplies
+2025-03-05,SAFEWAY #2096,24.79,Food & Dining,Groceries
+2025-08-21,CMS MEDICARE PART B,204.77,Healthcare,"Medicare premiums (Parts B, C, D)"
+2024-09-03,CHEWY.COM,35.02,Pets,Pet food & supplies
+2025-01-04,PLANET FITNESS #4589,34.93,Entertainment & Leisure,Gym/club memberships
+2024-08-29,NELNET STUDENT LOAN,491.26,Debts & Loans,Student loans
+2024-09-12,SPOTIFY PREMIUM,19.46,Entertainment & Leisure,Apps/services
+2024-11-04,COMCAST XFINITY,45.5,Utilities & Communication,Internet
+2025-01-21,STATE DMV FEE,266.1,Transportation & Vehicle,Registration/licensing
+2024-12-29,CHASE MORTGAGE PYMT,1460.25,Housing & Real Estate,Mortgage
+2025-10-10,COMCAST XFINITY,54.22,Utilities & Communication,Internet
+2025-06-13,NORWEGIAN CRUISE LINE,1885.17,Travel & Vacations,Cruises
+2024-05-15,TICKETMASTER EVENT,217.89,Entertainment & Leisure,Event tickets
+2025-02-20,VIATOR TOURS,216.43,Travel & Vacations,Tour packages
+2025-12-23,OFFICE DEPOT #5124,90.87,Household,Office Expenses
+2024-11-03,EXXONMOBIL #6921,51.54,Transportation & Vehicle,Gas/fuel
+2025-05-11,UNITED WAY DONATION,450.34,Gifts & Charity,Charitable donations
+2024-12-06,ASSOCIA HOA DUES,161.15,Housing & Real Estate,HOA fees
+2024-01-23,HOME DEPOT APPLIANCES,1516.72,Household,Appliances
+2025-03-26,DUKE ENERGY PAYMT,251.33,Utilities & Communication,Electricity
+2024-11-08,ALLIANZ TRAVEL INS,56.55,Travel & Vacations,Travel insurance
+2024-10-05,COMCAST XFINITY,88.81,Utilities & Communication,Internet
+2025-10-23,BRIGHT HORIZONS DAYCARE,900.68,Family & Dependent Support,Childcare
+2024-08-07,GOOGLE PLAY APPS,6.8,Entertainment & Leisure,Apps/services
+2024-03-15,SOUTHWEST AIRLINES,791.32,Travel & Vacations,Flights
+2025-07-14,FOOT LOCKER #7379,83.94,Personal Care & Apparel,Shoes
+2024-05-22,STATE FARM AUTO,154.72,Transportation & Vehicle,Auto insurance
