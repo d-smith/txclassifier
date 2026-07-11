@@ -8,8 +8,11 @@ subset with the already-fit preprocessor, train that category's subcategory
 LogisticRegression, save model+encoder+metrics -> dump metadata.json.
 
 Runnable as a script: `uv run python -m src.train`.
+Optionally pass a CSV path to train on data other than config.TRAINING_DATA_PATH,
+e.g. `uv run python -m src.train data/combined/combined_transactions.csv`.
 """
 
+import argparse
 import json
 import warnings
 from datetime import datetime, timezone
@@ -112,8 +115,9 @@ def train_subcategory_models(preprocessor, train_df, test_df):
     return results
 
 
-def main() -> None:
-    df = data_loader.load_raw_transactions(config.TRAINING_DATA_PATH)
+def main(data_path=None) -> None:
+    training_data_path = data_path or config.TRAINING_DATA_PATH
+    df = data_loader.load_raw_transactions(training_data_path)
     clean_df, drop_report = data_loader.drop_unlabeled(df)
     evaluate.print_drop_report(drop_report)
 
@@ -150,7 +154,7 @@ def main() -> None:
     metadata = {
         "timestamp": datetime.now(timezone.utc).isoformat(),
         "sklearn_version": sklearn.__version__,
-        "training_data_path": str(config.TRAINING_DATA_PATH),
+        "training_data_path": str(training_data_path),
         "total_rows": drop_report.total_rows,
         "dropped_rows": drop_report.dropped_rows,
         "kept_rows": drop_report.kept_rows,
@@ -166,4 +170,13 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "data_path",
+        nargs="?",
+        default=None,
+        help="CSV to train on (date,description,amount,category,subcategory). "
+        "Defaults to config.TRAINING_DATA_PATH.",
+    )
+    args = parser.parse_args()
+    main(args.data_path)
