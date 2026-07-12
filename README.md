@@ -295,6 +295,90 @@ warning and an unstratified split fallback (see `_stratified_split` in
 `src/train.py`) — treat that as a signal to review label volume for that
 subcategory, not a bug to silence.
 
+## Docker
+
+The `Dockerfile` packages `serve/main.py` (and its `src/` dependency) into an
+image. Model artifacts under `models/` are **not** baked into the image —
+they're generated separately by `uv run python -m src.train` and mounted in
+at container run time. This keeps the image lean and means you don't have to
+rebuild it every time you retrain; if you'd rather have a fully
+self-contained image for an actual deployment, add a `COPY models/ models/`
+line to the `Dockerfile` and drop the volume mount below.
+
+### Build
+
+```bash
+docker build -t txclassifier:latest .
+```
+
+### Run (models mounted read-only from the host)
+
+Make sure `models/` already exists (run M4's `uv run python -m src.train`
+first if not), then:
+
+```bash
+docker run -d --name txclassifier \
+  -p 8000:8000 \
+  -v "$(pwd)/models:/app/models:ro" \
+  txclassifier:latest
+```
+
+The container listens on `8000` internally (`uvicorn --host 0.0.0.0 --port
+8000` in the `Dockerfile`'s `CMD`); `-p 8000:8000` maps that to the same
+port on the host — change the host-side number if `8000` is already in use
+locally.
+
+### Verify
+
+Give it a couple seconds to finish loading the model artifacts, then run the
+same health/predict checks as M7:
+
+```bash
+curl -s http://localhost:8000/health
+
+curl -s -X POST http://localhost:8000/predict \
+  -H "Content-Type: application/json" \
+  -d '{"description": "STARBUCKS #4521", "amount": 5.75, "date": "2025-06-10"}'
+```
+
+Expected: `{"status":"ok","model_loaded":true}` from `/health`, and a
+category/subcategory prediction from `/predict` matching what `predict_cli`
+gave you in M5.
+
+Tail logs or stop the container when done:
+
+```bash
+docker logs -f txclassifier
+docker rm -f txclassifier
+```
+
+### Retraining
+
+Since `models/` is a mounted volume rather than baked into the image, picking
+up a new model after retraining (M6, or after adding your own labeled data)
+just means retraining on the host and restarting the container — no rebuild
+needed:
+
+```bash
+uv run python -m src.train
+docker restart txclassifier
+```
+
+### Notes on the image
+
+- `.dockerignore` excludes `.venv`, `data/`, `models/`, `.git`, and `*.md`
+  from the build context — none of those are needed to run the API, and
+  `models/` is supplied at runtime instead.
+- The `Dockerfile` installs dependencies with `uv pip install --system` (uv
+  installed via `pip` inside the image) rather than `uv run`, since the
+  container *is* the isolated environment — there's no `.venv` to route
+  through.
+- `serve/main.py`'s `lifespan` loads `SklearnPredictor` once at container
+  startup, exactly like it does when run directly with `uv run uvicorn`; if
+  `models/` isn't mounted (or a training run left it incomplete), startup
+  will throw and the container will exit — check `docker logs` first if
+  `docker ps` shows it not running.
+
 ## Training on synthetic + your own labeled data
 
 `src/train.py` accepts an optional CSV path argument, so you can train on any
