@@ -454,6 +454,18 @@ print('Unknown subcategories:', bad_subcats or 'none')
 If either set is non-empty, fix those rows in your source CSV (typo, wrong
 casing, or a subcategory nested under the wrong category) and re-run step 2.
 
+
+For my combined dataset I had more columns than the target set, different column orders, and different column
+formats, which I had to normalize with a simple awk script before combining, e.g.
+
+```bash
+awk -v OFS="," -F, 'NR == 1 {next} {
+  split($1, d, "/")
+  date = sprintf("%04d-%02d-%02d", d[3], d[1], d[2])
+  print date, $3, $5 *= -1, $6, $7
+}' path/to/myfile.csv
+```
+
 ### 3. Train on the combined file
 
 ```bash
