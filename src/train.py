@@ -18,6 +18,8 @@ import warnings
 from datetime import datetime, timezone
 
 import joblib
+import mlflow
+import mlflow.sklearn
 import sklearn
 from sklearn.exceptions import ConvergenceWarning
 from sklearn.linear_model import LogisticRegression
@@ -67,6 +69,12 @@ def train_category_model(preprocessor, train_df, test_df):
     metrics = evaluate.evaluate_classifier(
         encoder.inverse_transform(y_test), encoder.inverse_transform(y_pred), list(encoder.classes_), "category"
     )
+
+    with mlflow.start_run(run_name="category", nested=True):
+        mlflow.log_params({"max_iter": 1000, "random_state": config.RANDOM_SEED})
+        mlflow.log_metric("accuracy", metrics["classification_report"]["accuracy"])
+        mlflow.sklearn.log_model(model, name="model")
+
     return model, encoder, metrics
 
 
@@ -110,12 +118,21 @@ def train_subcategory_models(preprocessor, train_df, test_df):
                 f"subcategory_{slug}",
             )
 
+        with mlflow.start_run(run_name=f"subcategory_{slug}", nested=True):
+            mlflow.log_params({"max_iter": 1000, "random_state": config.RANDOM_SEED, "category": category})
+            if metrics is not None:
+                mlflow.log_metric("accuracy", metrics["classification_report"]["accuracy"])
+            mlflow.sklearn.log_model(model, name="model")
+
         results[category] = (model, encoder, metrics, slug)
 
     return results
 
 
 def main(data_path=None) -> None:
+    mlflow.set_tracking_uri("http://localhost:5000")
+    mlflow.set_experiment("txclassifier")
+
     training_data_path = data_path or config.TRAINING_DATA_PATH
     df = data_loader.load_raw_transactions(training_data_path)
     clean_df, drop_report = data_loader.drop_unlabeled(df)
@@ -127,46 +144,61 @@ def main(data_path=None) -> None:
     config.SUBCATEGORY_MODELS_DIR.mkdir(parents=True, exist_ok=True)
     config.METRICS_DIR.mkdir(parents=True, exist_ok=True)
 
-    preprocessor = features.build_preprocessor()
-    category_model, category_encoder, category_metrics = train_category_model(preprocessor, train_df, test_df)
-    joblib.dump(preprocessor, config.PREPROCESSOR_PATH)
-    joblib.dump(category_model, config.CATEGORY_MODEL_PATH)
-    joblib.dump(category_encoder, config.CATEGORY_LABEL_ENCODER_PATH)
-    evaluate.print_evaluation(category_metrics)
-    evaluate.save_evaluation(category_metrics, config.METRICS_DIR / "category.json")
+    with mlflow.start_run(run_name="txclassifier-training"):
+        mlflow.log_param("training_data_path", str(training_data_path))
+        mlflow.log_metrics(
+            {
+                "total_rows": drop_report.total_rows,
+                "dropped_rows": drop_report.dropped_rows,
+                "kept_rows": drop_report.kept_rows,
+                "train_rows": len(train_df),
+                "test_rows": len(test_df),
+            }
+        )
 
-    print("\nTraining subcategory models:")
-    subcategory_results = train_subcategory_models(preprocessor, train_df, test_df)
+        preprocessor = features.build_preprocessor()
+        category_model, category_encoder, category_metrics = train_category_model(preprocessor, train_df, test_df)
+        joblib.dump(preprocessor, config.PREPROCESSOR_PATH)
+        joblib.dump(category_model, config.CATEGORY_MODEL_PATH)
+        joblib.dump(category_encoder, config.CATEGORY_LABEL_ENCODER_PATH)
+        evaluate.print_evaluation(category_metrics)
+        evaluate.save_evaluation(category_metrics, config.METRICS_DIR / "category.json")
 
-    skipped = []
-    for category, result in subcategory_results.items():
-        slug = slugify_category(category)
-        if result is None:
-            skipped.append(category)
-            continue
-        model, encoder, metrics, slug = result
-        joblib.dump(model, config.SUBCATEGORY_MODELS_DIR / f"{slug}_model.joblib")
-        joblib.dump(encoder, config.SUBCATEGORY_MODELS_DIR / f"{slug}_label_encoder.joblib")
-        if metrics is not None:
-            evaluate.print_evaluation(metrics)
-            evaluate.save_evaluation(metrics, config.METRICS_DIR / f"subcategory_{slug}.json")
+        print("\nTraining subcategory models:")
+        subcategory_results = train_subcategory_models(preprocessor, train_df, test_df)
 
-    metadata = {
-        "timestamp": datetime.now(timezone.utc).isoformat(),
-        "sklearn_version": sklearn.__version__,
-        "training_data_path": str(training_data_path),
-        "total_rows": drop_report.total_rows,
-        "dropped_rows": drop_report.dropped_rows,
-        "kept_rows": drop_report.kept_rows,
-        "train_rows": len(train_df),
-        "test_rows": len(test_df),
-        "taxonomy_categories": len(taxonomy.CATEGORIES),
-        "taxonomy_subcategories": sum(len(v) for v in taxonomy.CATEGORIES.values()),
-        "skipped_categories": skipped,
-    }
-    with open(config.METADATA_PATH, "w") as f:
-        json.dump(metadata, f, indent=2)
-    print(f"\nWrote metadata to {config.METADATA_PATH}")
+        skipped = []
+        for category, result in subcategory_results.items():
+            slug = slugify_category(category)
+            if result is None:
+                skipped.append(category)
+                continue
+            model, encoder, metrics, slug = result
+            joblib.dump(model, config.SUBCATEGORY_MODELS_DIR / f"{slug}_model.joblib")
+            joblib.dump(encoder, config.SUBCATEGORY_MODELS_DIR / f"{slug}_label_encoder.joblib")
+            if metrics is not None:
+                evaluate.print_evaluation(metrics)
+                evaluate.save_evaluation(metrics, config.METRICS_DIR / f"subcategory_{slug}.json")
+
+        metadata = {
+            "timestamp": datetime.now(timezone.utc).isoformat(),
+            "sklearn_version": sklearn.__version__,
+            "training_data_path": str(training_data_path),
+            "total_rows": drop_report.total_rows,
+            "dropped_rows": drop_report.dropped_rows,
+            "kept_rows": drop_report.kept_rows,
+            "train_rows": len(train_df),
+            "test_rows": len(test_df),
+            "taxonomy_categories": len(taxonomy.CATEGORIES),
+            "taxonomy_subcategories": sum(len(v) for v in taxonomy.CATEGORIES.values()),
+            "skipped_categories": skipped,
+        }
+        with open(config.METADATA_PATH, "w") as f:
+            json.dump(metadata, f, indent=2)
+        print(f"\nWrote metadata to {config.METADATA_PATH}")
+
+        mlflow.log_param("skipped_categories", skipped)
+        mlflow.log_artifact(str(config.METADATA_PATH))
 
 
 if __name__ == "__main__":
