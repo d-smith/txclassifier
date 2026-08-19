@@ -466,6 +466,12 @@ awk -v OFS="," -F, 'NR == 1 {next} {
 }' path/to/myfile.csv
 ```
 
+If the output has not been tweaked via Excel csv save this works:
+
+```awk -F',' 'BEGIN{OFS=","} NR==1{next} {gsub(/"/,"",$1); gsub(/"/,"",$3); gsub(/"/,"",$5); $5 = sprintf("%.2f", $5 * -1); print $1,$3,$5}' input-file.csv > test-sample.txt```
+
+
+
 ### 3. Train on the combined file
 
 ```bash
